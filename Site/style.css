@@ -16,6 +16,14 @@ to
 	box-sizing: border-box;
 }
 
+:root {
+  --light-blue: #6c8a9b;
+  --grey: #e6e6e4;
+ --off-white: #f9f5ef;
+ --light-red: #fd6574;
+ --dark-red: rgb(109, 7, 26);
+}
+
 /*
 Make the document fill the whole viewport, this overrides any weird defaults that browsers might have.
 */
@@ -28,9 +36,9 @@ html, body, figure {
 
 /* Default font and size */
 body {
-	font-family: sans-serif;
-	font-size: 1.1rem;
-	background-color: rgb(247, 223, 219)
+ font-family: sans-serif;
+ font-size: 1.1rem;
+ background-color: var(--off-white);
 }
 
 /*
@@ -50,7 +58,7 @@ The various units of measurement available in CSS:
 
 /* Links: apply our theme color and remove underline */
 a {
-	color: rgb(109, 7, 26);
+	color: var(--light-blue);
 	text-decoration: none;
 }
 
@@ -59,10 +67,34 @@ p {
 	text-align: justify;
 }
 
+* Links: apply our theme color modify the buttons to the pages */
+top-buttons {
+
+ display: block;
+
+ margin: 0.25rem;
+ margin-left: auto;
+ margin-right: auto;
+ padding: 1rem;
+
+ border: 1.5px var(--light-blue) solid;
+ border-radius: 0.5rem;
+
+ background: var(--grey);
+
+
+ font-weight: bold;
+ font-size: 1.5rem;
+ color: var(--light-blue);
+ /*text-decoration: underline var(--light-blue);*/
+ font-family: Georgia, serif;
+
+}
+
 /* Titles: set color and sizes */
 h1, h2, h3, h4, h5, h6
 {
-	color: rgb(109, 7, 26);
+	color: var(--light-blue);
 }
 h1 { font-size: 2rem; }
 h2 { font-size: 1.75rem; }
@@ -79,7 +111,27 @@ nav {
 
 /* Make the links in the navbar bold */
 nav a {
-	font-weight: bold;
+ /* Links: apply our theme color modify the buttons to the pages */
+
+ display: block;
+
+ margin: 0.25rem;
+ margin-left: auto;
+ margin-right: auto;
+ padding: 1rem;
+
+ border: 1.5px var(--light-blue) solid;
+ border-radius: 0.5rem;
+
+ background: var(--grey);
+
+
+ font-weight: bold;
+ font-size: 1.5rem;
+ color: var(--light-blue);
+ /*text-decoration: underline var(--light-blue);*/
+ font-family: Georgia, serif;
+
 }
 
 /* Style of the list of links in the navbar */
@@ -115,7 +167,7 @@ nav li {
 	padding-top: 5rem;
 	padding-bottom: 5rem;
 
-	background-color: rgb(109, 7, 26);
+	background-color: var(--light-blue);
 
 	/* Center the title using flexbox */
 	display: flex;
@@ -125,9 +177,9 @@ nav li {
 
 /* Style of the title inside the box */
 .title-row h1 {
-	font-size: 2.5rem;
-	color: white;
-	font-variant: small-caps;
+ font-size: 2.5rem;
+ color: var(--grey);
+ font-variant: small-caps;
 }
 
 .viz-row {
