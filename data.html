@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<title>How can we prevent a cardio-vascular disease?</title>
+	<meta name="description" content="How can we prevent a cardio-vascular disease? Our Data">
+	<meta name="author" content="K Lis">
+
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+	<ul class="width-limited"> 
+		<li><a href="index.html">Home</a></li>
+		<li><a href="description.html">Description</a></li>
+		<li><a href="data.html">Data</a></li>
+		<li><a href="team.html">Team</a></li>
+	</ul>
+</nav>
+
+<header class="title-row">
+	<h1> Our data </h1>
+</header>
+
+<main class="width-limited">
+	<h4>First Dataset</h4>
+	<p>
+	The first dataset collects 70’000 records of patients with 11 features and one target, the target being whether the patient
+	has a cardio-vascular disease. The features are age, sex, height, weight, systolic blood pressure, diastolic blood pressure,
+	cholesterol, glucose, whether the patient smokes, drinks, alcohol, and his physical activity. The dataset values were
+	collected at the medical examination of the patients. As ages were given in days, we had to convert the ages in years for
+	bettering understanding. After some pre-processing, we observed that most of the records concerned people older than 39 years
+	old with only 4 records of younger people. Hence, when using this dataset we will focus on people older than 39. Of those
+	records, about half (34’979 records) are people suffering from a cardio-vascular disease.
+	</p>
+	<h4>Second Dataset</h4>
+	<p>
+		The second dataset is a compilation of mortality data from the World Health Organization. It collects data reported annually
+		 by the civil registrations of the member states, it only registers deaths that are medically-certified meaning that
+		 diagnosis by lay people are not included. It contains 792’103’115 records of death of which 103’526’649 are due to
+		 cardiovascular disease so about 13% of all deaths. This dataset records the sex, the country, the year, the cause, and the
+		 age of death. It has records from 1988 to 2019. For processing this dataset, two additional datasets were needed : the first
+		 one being the country name associated with its code and the second associating the cause of death to its code. We will need
+		 to see if each year and each country has enough records. Some countries are missing as they do not report to WHO and the
+		 latest years of some countries are also missing as WHO takes at least a year to proof-check the data submitted. As there
+		 was a lot of data, we had to manually merge five .csv files containing the mortality records of the tenth revision of ICD
+		 (classification of diseases, the tenth being the most recent one).
+
+	</p>
+</main>
