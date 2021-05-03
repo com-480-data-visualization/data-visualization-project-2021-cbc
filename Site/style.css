@@ -56,6 +56,14 @@ The various units of measurement available in CSS:
 	margin-right: auto;
 }
 
+.final-sentence {
+	max-width: 50rem;
+
+	/* Center horizontally: */
+	margin-right: 0.5rem;
+	margin-left: auto;
+}
+
 /* Links: apply our theme color and remove underline */
 a {
 	color: var(--light-blue);
@@ -67,7 +75,7 @@ p {
 	text-align: justify;
 }
 
-* Links: apply our theme color modify the buttons to the pages */
+/* Links: apply our theme color modify the buttons to the pages
 top-buttons {
 
  display: block;
@@ -86,10 +94,11 @@ top-buttons {
  font-weight: bold;
  font-size: 1.5rem;
  color: var(--light-blue);
- /*text-decoration: underline var(--light-blue);*/
+ /*text-decoration: underline var(--light-blue);
  font-family: Georgia, serif;
 
 }
+*/
 
 /* Titles: set color and sizes */
 h1, h2, h3, h4, h5, h6
@@ -103,11 +112,15 @@ h4 { font-size: 1.25rem; }
 
 /* Top navigation bar */
 nav {
-	width: 100%;
+ width: 100%;
 
-	padding-top: 1rem;
-	padding-bottom: 1rem;
+ padding-top: 0.5rem;
+ padding-bottom: 0.5rem;
+ background: var(--off-white);
+ position: fixed;
+ top: 0; /* Position the navbar at the top of the page */
 }
+
 
 /* Make the links in the navbar bold */
 nav a {
@@ -115,22 +128,21 @@ nav a {
 
  display: block;
 
- margin: 0.25rem;
+ /*margin: 0.25rem;*/
  margin-left: auto;
  margin-right: auto;
- padding: 1rem;
-
- border: 1.5px var(--light-blue) solid;
- border-radius: 0.5rem;
-
+ padding: 0.5rem;
  background: var(--grey);
 
+ border: 1.5px var(--light-blue) solid;
+ border-radius: 0.35rem;
 
  font-weight: bold;
- font-size: 1.5rem;
+ font-size: 1rem;
  color: var(--light-blue);
  /*text-decoration: underline var(--light-blue);*/
  font-family: Georgia, serif;
+
 
 }
 
@@ -161,26 +173,39 @@ nav li {
 
 /* The box with a dark background and our site's title */
 .title-row {
-	width: 100%;
 
-	/* Space above and below the title */
-	padding-top: 5rem;
-	padding-bottom: 5rem;
 
-	background-color: var(--light-blue);
+ width: 100%;
 
-	/* Center the title using flexbox */
-	display: flex;
-	justify-content: center;
-	align-items: center;
+ /* Space above and below the title */
+ padding-top: 10rem;
+ padding-bottom: 12rem;
+ top: 10rem;
+ background-color: var(--light-blue);
+
+ background: url(images/image_coeur_2.jpeg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+ /* Center the title using flexbox */
+ display: flex;
+ justify-content: center;
+ align-items: center;
+
+
 }
+
 
 /* Style of the title inside the box */
 .title-row h1 {
- font-size: 2.5rem;
- color: var(--grey);
+ font-size: 3.5rem;
+ color: var(--light-red);
  font-variant: small-caps;
 }
+
+
 
 .viz-row {
 	width: 100%;
@@ -189,10 +214,10 @@ nav li {
 	justify-content: center;
 	align-items: center;
 
-	padding-top: 2rem;
-	padding-bottom: 2rem;
+	padding-top: 0.2rem;
+	padding-bottom: 0.5rem;
 
-	background-color: rgb(50, 50, 50);
+	background-color: var(--grey);
 }
 
 figure > * {
