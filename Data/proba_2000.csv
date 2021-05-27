@@ -1,35 +1,57 @@
 name,norm,code
+anguilla,23611,AIA
 antigua and barbuda,16831,ATG
 argentina,16508,ARG
+aruba,24230,ABW
 australia,19347,AUS
+bahamas,14092,BHS
+bahrain,13207,BHR
+barbados,16858,BRB
 belgium,18147,BEL
 belize,20273,BLZ
 bermuda,20900,BMU
+bolivia,3861,BOL
 brazil,13765,BRA
+british virgin islands,16489,VGB
 canada,17523,CAN
+cayman islands,20072,CYM
 chile,13928,CHL
 colombia,13778,COL
 costa rica,15855,CRI
 croatia,26581,HRV
+czech republic,26693,CZE
 denmark,17995,DNK
 dominican republic,14119,DOM
 ecuador,11031,ECU
 egypt,19124,EGY
 el salvador,9823,SLV
+estonia,27120,EST
 finland,21695,FIN
 france,15250,FRA
 georgia,35970,GEO
 germany,23548,DEU
+guadeloupe,14510,GLP
 hungary,25395,HUN
+iceland,19611,ISL
 israel,15666,ISR
 jamaica,15672,JAM
 japan,15511,JPN
+kiribati,5860,KIR
+kuwait,19978,KWT
 kyrgyzstan,22585,KGZ
 latvia,27737,LVA
+lithuania,26889,LTU
+luxembourg,19514,LUX
 malaysia,13919,MYS
+maldives,2208,MDV
+malta,23343,MLT
+martinique,15768,MTQ
 mexico,11156,MEX
+montenegro,26903,MNE
+montserrat,12500,MSR
 morocco,8928,MAR
 netherlands,17502,NLD
+netherlands antilles,17972,ANT
 new zealand,20435,NZL
 nicaragua,12479,NIC
 norway,20663,NOR
@@ -39,13 +61,26 @@ peru,8237,PER
 philippines,14810,PHL
 poland,23830,POL
 puerto rico,14655,PRI
+republic of korea,11824,PRK
+republic of moldova,27893,MDA
 romania,30765,ROU
+saint kitts and nevis,21763,KNA
+saint lucia,15525,LCA
+saint vincent and grenadines,15335,VCT
 serbia,27920,SRB
+"serbia and montenegro, former",27942,SCG
 slovakia,27390,SVK
+slovenia,20185,SVL
 south africa,8499,ZAF
 spain,17442,ESP
+suriname,14755,SUR
 sweden,23138,SWE
 switzerland,19913,CHE
 thailand,4421,THA
 trinidad and tobago,18558,TTO
+turks and caicos islands,16417,TCA
+"united kingdom, scotland",20464,
+united states of america,19587,USA
 uruguay,16819,URY
+venezuela,15119,VEN
+virgin islands (usa),20904,VIR
