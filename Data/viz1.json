@@ -1,4 +1,4 @@
-{"nodes": [
+"nodes": [
   {
     "name": "male",
     "category": "gender",
@@ -94,7 +94,8 @@
   {
     "name": "no CVD",
     "category": "CVD",
-  }], "links": [
+  }], 
+"links": [
   {
     "source": "40-49",
     "target": "CVD",
@@ -526,4 +527,5 @@
     "target": "no CVD",
     "value": 34448,
     "prop": 49.22
-  }], "units": "People"}
+  }], 
+"units": "People"
