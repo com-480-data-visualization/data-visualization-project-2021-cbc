@@ -1,0 +1,529 @@
+{"nodes": [
+  {
+    "name": "male",
+    "category": "gender",
+  },
+  {
+    "name": "female",
+    "category": "gender",
+  },
+  {
+    "name": "under weight",
+    "category": "under weight",
+  },
+  {
+    "name": "not under weight",
+    "category": "under weight",
+  },
+  {
+    "name": "over weight",
+    "category": "over weight",
+  },
+  {
+    "name": "not over weight",
+    "category": "over weight",
+  },
+  {
+    "name": "normal cholesterol",
+    "category": "cholesterol",
+  },
+  {
+    "name": "high cholesterol",
+    "category": "cholesterol",
+  },
+  {
+    "name": "non smoker",
+    "category": "smoke",
+  },
+  {
+    "name": "smoker",
+    "category": "smoke",
+  },
+  {
+    "name": "no alcohol",
+    "category": "alcohol",
+  },
+  {
+    "name": "alcohol consumer",
+    "category": "alcohol",
+  },
+  {
+    "name": "high cholesterol",
+    "category": "cholesterol",
+  },
+  {
+    "name": "normal cholesterol",
+    "category": "cholesterol",
+  },
+  {
+    "name": "high glucose",
+    "category": "glucose",
+  },
+  {
+    "name": "normal glucose",
+    "category": "glucose",
+  },
+  {
+    "name": "active",
+    "category": "active",
+  },
+  {
+    "name": "not active",
+    "category": "active",
+  },
+  {
+    "name": "40-49",
+    "category": "age",
+  },
+  {
+    "name": "≤ 39",
+    "category": "age",
+  },
+  {
+    "name": "50-59",
+    "category": "age",
+  },
+  {
+    "name": "≥ 60",
+    "category": "age",
+  },
+  {
+    "name": "CVD",
+    "category": "CVD",
+  },
+  {
+    "name": "no CVD",
+    "category": "CVD",
+  }], "links": [
+  {
+    "source": "40-49",
+    "target": "CVD",
+    "value": 59584,
+    "prop": 85.12
+  },
+  {
+    "source": "40-49",
+    "target": "no CVD",
+    "value": 97416,
+    "prop": 139.16
+  },
+  {
+    "source": "50-59",
+    "target": "CVD",
+    "value": 146840,
+    "prop": 209.76
+  },
+  {
+    "source": "50-59",
+    "target": "no CVD",
+    "value": 137488,
+    "prop": 196.41
+  },
+  {
+    "source": "active",
+    "target": "40-49",
+    "value": 15909,
+    "prop": 22.73
+  },
+  {
+    "source": "active",
+    "target": "50-59",
+    "value": 28528,
+    "prop": 40.76
+  },
+  {
+    "source": "active",
+    "target": "≤ 39",
+    "value": 1436,
+    "prop": 2.05
+  },
+  {
+    "source": "active",
+    "target": "≥ 60",
+    "value": 10388,
+    "prop": 14.84
+  },
+  {
+    "source": "alcohol consumer",
+    "target": "40-49",
+    "value": 1206,
+    "prop": 1.72
+  },
+  {
+    "source": "alcohol consumer",
+    "target": "50-59",
+    "value": 1867,
+    "prop": 2.67
+  },
+  {
+    "source": "alcohol consumer",
+    "target": "≤ 39",
+    "value": 132,
+    "prop": 0.19
+  },
+  {
+    "source": "alcohol consumer",
+    "target": "≥ 60",
+    "value": 559,
+    "prop": 0.8
+  },
+  {
+    "source": "female",
+    "target": "40-49",
+    "value": 12196,
+    "prop": 17.42
+  },
+  {
+    "source": "female",
+    "target": "50-59",
+    "value": 23848,
+    "prop": 34.06
+  },
+  {
+    "source": "female",
+    "target": "≤ 39",
+    "value": 1109,
+    "prop": 1.58
+  },
+  {
+    "source": "female",
+    "target": "≥ 60",
+    "value": 8377,
+    "prop": 11.97
+  },
+  {
+    "source": "high cholesterol",
+    "target": "40-49",
+    "value": 3694,
+    "prop": 5.27
+  },
+  {
+    "source": "high cholesterol",
+    "target": "50-59",
+    "value": 9402,
+    "prop": 13.43
+  },
+  {
+    "source": "high cholesterol",
+    "target": "≤ 39",
+    "value": 270,
+    "prop": 0.39
+  },
+  {
+    "source": "high cholesterol",
+    "target": "≥ 60",
+    "value": 4249,
+    "prop": 6.07
+  },
+  {
+    "source": "high glucose",
+    "target": "40-49",
+    "value": 2239,
+    "prop": 3.19
+  },
+  {
+    "source": "high glucose",
+    "target": "50-59",
+    "value": 5616,
+    "prop": 8.02
+  },
+  {
+    "source": "high glucose",
+    "target": "≤ 39",
+    "value": 176,
+    "prop": 0.25
+  },
+  {
+    "source": "high glucose",
+    "target": "≥ 60",
+    "value": 2490,
+    "prop": 3.56
+  },
+  {
+    "source": "male",
+    "target": "40-49",
+    "value": 7429,
+    "prop": 10.62
+  },
+  {
+    "source": "male",
+    "target": "50-59",
+    "value": 11693,
+    "prop": 16.71
+  },
+  {
+    "source": "male",
+    "target": "≤ 39",
+    "value": 675,
+    "prop": 0.96
+  },
+  {
+    "source": "male",
+    "target": "≥ 60",
+    "value": 4673,
+    "prop": 6.68
+  },
+  {
+    "source": "no alcohol",
+    "target": "40-49",
+    "value": 18419,
+    "prop": 26.31
+  },
+  {
+    "source": "no alcohol",
+    "target": "50-59",
+    "value": 33674,
+    "prop": 48.1
+  },
+  {
+    "source": "no alcohol",
+    "target": "≤ 39",
+    "value": 1652,
+    "prop": 2.36
+  },
+  {
+    "source": "no alcohol",
+    "target": "≥ 60",
+    "value": 12491,
+    "prop": 17.84
+  },
+  {
+    "source": "non smoker",
+    "target": "40-49",
+    "value": 17515,
+    "prop": 25.02
+  },
+  {
+    "source": "non smoker",
+    "target": "50-59",
+    "value": 32611,
+    "prop": 46.59
+  },
+  {
+    "source": "non smoker",
+    "target": "≤ 39",
+    "value": 1591,
+    "prop": 2.27
+  },
+  {
+    "source": "non smoker",
+    "target": "≥ 60",
+    "value": 12114,
+    "prop": 17.31
+  },
+  {
+    "source": "normal cholesterol",
+    "target": "40-49",
+    "value": 15931,
+    "prop": 22.76
+  },
+  {
+    "source": "normal cholesterol",
+    "target": "50-59",
+    "value": 26139,
+    "prop": 37.34
+  },
+  {
+    "source": "normal cholesterol",
+    "target": "≤ 39",
+    "value": 1514,
+    "prop": 2.16
+  },
+  {
+    "source": "normal cholesterol",
+    "target": "≥ 60",
+    "value": 8801,
+    "prop": 12.57
+  },
+  {
+    "source": "normal glucose",
+    "target": "40-49",
+    "value": 17386,
+    "prop": 24.84
+  },
+  {
+    "source": "normal glucose",
+    "target": "50-59",
+    "value": 29925,
+    "prop": 42.75
+  },
+  {
+    "source": "normal glucose",
+    "target": "≤ 39",
+    "value": 1608,
+    "prop": 2.29
+  },
+  {
+    "source": "normal glucose",
+    "target": "≥ 60",
+    "value": 10560,
+    "prop": 15.08
+  },
+  {
+    "source": "not active",
+    "target": "40-49",
+    "value": 3716,
+    "prop": 5.31
+  },
+  {
+    "source": "not active",
+    "target": "50-59",
+    "value": 7013,
+    "prop": 10.02
+  },
+  {
+    "source": "not active",
+    "target": "≤ 39",
+    "value": 348,
+    "prop": 0.49
+  },
+  {
+    "source": "not active",
+    "target": "≥ 60",
+    "value": 2662,
+    "prop": 3.81
+  },
+  {
+    "source": "not over weight",
+    "target": "40-49",
+    "value": 8404,
+    "prop": 12.01
+  },
+  {
+    "source": "not over weight",
+    "target": "50-59",
+    "value": 12847,
+    "prop": 18.35
+  },
+  {
+    "source": "not over weight",
+    "target": "≤ 39",
+    "value": 857,
+    "prop": 1.22
+  },
+  {
+    "source": "not over weight",
+    "target": "≥ 60",
+    "value": 4332,
+    "prop": 6.19
+  },
+  {
+    "source": "not under weight",
+    "target": "40-49",
+    "value": 19371,
+    "prop": 27.68
+  },
+  {
+    "source": "not under weight",
+    "target": "50-59",
+    "value": 35277,
+    "prop": 50.39
+  },
+  {
+    "source": "not under weight",
+    "target": "≤ 39",
+    "value": 1748,
+    "prop": 2.49
+  },
+  {
+    "source": "not under weight",
+    "target": "≥ 60",
+    "value": 12954,
+    "prop": 18.51
+  },
+  {
+    "source": "over weight",
+    "target": "40-49",
+    "value": 11221,
+    "prop": 16.03
+  },
+  {
+    "source": "over weight",
+    "target": "50-59",
+    "value": 22694,
+    "prop": 32.42
+  },
+  {
+    "source": "over weight",
+    "target": "≤ 39",
+    "value": 927,
+    "prop": 1.33
+  },
+  {
+    "source": "over weight",
+    "target": "≥ 60",
+    "value": 8718,
+    "prop": 12.45
+  },
+  {
+    "source": "smoker",
+    "target": "40-49",
+    "value": 2110,
+    "prop": 3.01
+  },
+  {
+    "source": "smoker",
+    "target": "50-59",
+    "value": 2930,
+    "prop": 4.18
+  },
+  {
+    "source": "smoker",
+    "target": "≤ 39",
+    "value": 193,
+    "prop": 0.28
+  },
+  {
+    "source": "smoker",
+    "target": "≥ 60",
+    "value": 936,
+    "prop": 1.34
+  },
+  {
+    "source": "under weight",
+    "target": "40-49",
+    "value": 254,
+    "prop": 0.36
+  },
+  {
+    "source": "under weight",
+    "target": "50-59",
+    "value": 264,
+    "prop": 0.38
+  },
+  {
+    "source": "under weight",
+    "target": "≤ 39",
+    "value": 36,
+    "prop": 0.05
+  },
+  {
+    "source": "under weight",
+    "target": "≥ 60",
+    "value": 96,
+    "prop": 0.13
+  },
+  {
+    "source": "≤ 39",
+    "target": "CVD",
+    "value": 3456,
+    "prop": 4.92
+  },
+  {
+    "source": "≤ 39",
+    "target": "no CVD",
+    "value": 10816,
+    "prop": 15.44
+  },
+  {
+    "source": "≥ 60",
+    "target": "CVD",
+    "value": 69952,
+    "prop": 99.93
+  },
+  {
+    "source": "≥ 60",
+    "target": "no CVD",
+    "value": 34448,
+    "prop": 49.22
+  }], "units": "People"}
