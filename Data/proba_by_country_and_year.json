@@ -1,0 +1,12500 @@
+[
+ {
+   "Year": 1988,
+   "name": "netherlands antilles",
+   "norm": 16786,
+   "code": "ANT"
+ },
+ {
+   "Year": 1989,
+   "name": "netherlands antilles",
+   "norm": 16130,
+   "code": "ANT"
+ },
+ {
+   "Year": 1990,
+   "name": "netherlands antilles",
+   "norm": 14816,
+   "code": "ANT"
+ },
+ {
+   "Year": 1991,
+   "name": "netherlands antilles",
+   "norm": 14768,
+   "code": "ANT"
+ },
+ {
+   "Year": 1992,
+   "name": "netherlands antilles",
+   "norm": 15285,
+   "code": "ANT"
+ },
+ {
+   "Year": 1993,
+   "name": "netherlands antilles",
+   "norm": 15771,
+   "code": "ANT"
+ },
+ {
+   "Year": 1994,
+   "name": "czech republic",
+   "norm": 27745,
+   "code": "CZE"
+ },
+ {
+   "Year": 1994,
+   "name": "denmark",
+   "norm": 20072,
+   "code": "DNK"
+ },
+ {
+   "Year": 1994,
+   "name": "netherlands antilles",
+   "norm": 14840,
+   "code": "ANT"
+ },
+ {
+   "Year": 1994,
+   "name": "slovakia",
+   "norm": 27173,
+   "code": "SVK"
+ },
+ {
+   "Year": 1994,
+   "name": "thailand",
+   "norm": 8496,
+   "code": "THA"
+ },
+ {
+   "Year": 1995,
+   "name": "croatia",
+   "norm": 25071,
+   "code": "HRV"
+ },
+ {
+   "Year": 1995,
+   "name": "czech republic",
+   "norm": 27965,
+   "code": "CZE"
+ },
+ {
+   "Year": 1995,
+   "name": "denmark",
+   "norm": 19840,
+   "code": "DNK"
+ },
+ {
+   "Year": 1995,
+   "name": "japan",
+   "norm": 16528,
+   "code": "JPN"
+ },
+ {
+   "Year": 1995,
+   "name": "kuwait",
+   "norm": 18685,
+   "code": "KWT"
+ },
+ {
+   "Year": 1995,
+   "name": "malta",
+   "norm": 21436,
+   "code": "MLT"
+ },
+ {
+   "Year": 1995,
+   "name": "montserrat",
+   "norm": 20000,
+   "code": "MSR"
+ },
+ {
+   "Year": 1995,
+   "name": "netherlands antilles",
+   "norm": 13573,
+   "code": "ANT"
+ },
+ {
+   "Year": 1995,
+   "name": "qatar",
+   "norm": 17000,
+   "code": "QAT"
+ },
+ {
+   "Year": 1995,
+   "name": "republic of korea",
+   "norm": 13048,
+   "code": "PRK"
+ },
+ {
+   "Year": 1995,
+   "name": "slovakia",
+   "norm": 27447,
+   "code": "SVK"
+ },
+ {
+   "Year": 1995,
+   "name": "suriname",
+   "norm": 14136,
+   "code": "SUR"
+ },
+ {
+   "Year": 1995,
+   "name": "switzerland",
+   "norm": 20652,
+   "code": "CHE"
+ },
+ {
+   "Year": 1995,
+   "name": "thailand",
+   "norm": 8661,
+   "code": "THA"
+ },
+ {
+   "Year": 1996,
+   "name": "bermuda",
+   "norm": 21797,
+   "code": "BMU"
+ },
+ {
+   "Year": 1996,
+   "name": "brazil",
+   "norm": 13731,
+   "code": "BRA"
+ },
+ {
+   "Year": 1996,
+   "name": "british virgin islands",
+   "norm": 18181,
+   "code": "VGB"
+ },
+ {
+   "Year": 1996,
+   "name": "croatia",
+   "norm": 25194,
+   "code": "HRV"
+ },
+ {
+   "Year": 1996,
+   "name": "czech republic",
+   "norm": 27994,
+   "code": "CZE"
+ },
+ {
+   "Year": 1996,
+   "name": "denmark",
+   "norm": 18563,
+   "code": "DNK"
+ },
+ {
+   "Year": 1996,
+   "name": "dominican republic",
+   "norm": 15036,
+   "code": "DOM"
+ },
+ {
+   "Year": 1996,
+   "name": "finland",
+   "norm": 22419,
+   "code": "FIN"
+ },
+ {
+   "Year": 1996,
+   "name": "hungary",
+   "norm": 25843,
+   "code": "HUN"
+ },
+ {
+   "Year": 1996,
+   "name": "iceland",
+   "norm": 20596,
+   "code": "ISL"
+ },
+ {
+   "Year": 1996,
+   "name": "japan",
+   "norm": 16548,
+   "code": "JPN"
+ },
+ {
+   "Year": 1996,
+   "name": "kuwait",
+   "norm": 18494,
+   "code": "KWT"
+ },
+ {
+   "Year": 1996,
+   "name": "latvia",
+   "norm": 27766,
+   "code": "LVA"
+ },
+ {
+   "Year": 1996,
+   "name": "malta",
+   "norm": 22929,
+   "code": "MLT"
+ },
+ {
+   "Year": 1996,
+   "name": "montserrat",
+   "norm": 17187,
+   "code": "MSR"
+ },
+ {
+   "Year": 1996,
+   "name": "netherlands",
+   "norm": 18649,
+   "code": "NLD"
+ },
+ {
+   "Year": 1996,
+   "name": "netherlands antilles",
+   "norm": 17280,
+   "code": "ANT"
+ },
+ {
+   "Year": 1996,
+   "name": "norway",
+   "norm": 22197,
+   "code": "NOR"
+ },
+ {
+   "Year": 1996,
+   "name": "paraguay",
+   "norm": 15893,
+   "code": "PRY"
+ },
+ {
+   "Year": 1996,
+   "name": "republic of korea",
+   "norm": 12214,
+   "code": "PRK"
+ },
+ {
+   "Year": 1996,
+   "name": "republic of moldova",
+   "norm": 24927,
+   "code": "MDA"
+ },
+ {
+   "Year": 1996,
+   "name": "saint lucia",
+   "norm": 17738,
+   "code": "LCA"
+ },
+ {
+   "Year": 1996,
+   "name": "slovakia",
+   "norm": 27173,
+   "code": "SVK"
+ },
+ {
+   "Year": 1996,
+   "name": "south africa",
+   "norm": 10389,
+   "code": "ZAF"
+ },
+ {
+   "Year": 1996,
+   "name": "suriname",
+   "norm": 14824,
+   "code": "SUR"
+ },
+ {
+   "Year": 1996,
+   "name": "switzerland",
+   "norm": 20557,
+   "code": "CHE"
+ },
+ {
+   "Year": 1996,
+   "name": "thailand",
+   "norm": 9202,
+   "code": "THA"
+ },
+ {
+   "Year": 1996,
+   "name": "turks and caicos islands",
+   "norm": 22535,
+   "code": "TCA"
+ },
+ {
+   "Year": 1996,
+   "name": "venezuela",
+   "norm": 15540,
+   "code": "VEN"
+ },
+ {
+   "Year": 1997,
+   "name": "argentina",
+   "norm": 17257,
+   "code": "ARG"
+ },
+ {
+   "Year": 1997,
+   "name": "bahrain",
+   "norm": 17069,
+   "code": "BHR"
+ },
+ {
+   "Year": 1997,
+   "name": "belize",
+   "norm": 12851,
+   "code": "BLZ"
+ },
+ {
+   "Year": 1997,
+   "name": "bermuda",
+   "norm": 18665,
+   "code": "BMU"
+ },
+ {
+   "Year": 1997,
+   "name": "brazil",
+   "norm": 13814,
+   "code": "BRA"
+ },
+ {
+   "Year": 1997,
+   "name": "british virgin islands",
+   "norm": 21808,
+   "code": "VGB"
+ },
+ {
+   "Year": 1997,
+   "name": "chile",
+   "norm": 13201,
+   "code": "CHL"
+ },
+ {
+   "Year": 1997,
+   "name": "colombia",
+   "norm": 14016,
+   "code": "COL"
+ },
+ {
+   "Year": 1997,
+   "name": "costa rica",
+   "norm": 14330,
+   "code": "CRI"
+ },
+ {
+   "Year": 1997,
+   "name": "croatia",
+   "norm": 25168,
+   "code": "HRV"
+ },
+ {
+   "Year": 1997,
+   "name": "czech republic",
+   "norm": 28087,
+   "code": "CZE"
+ },
+ {
+   "Year": 1997,
+   "name": "denmark",
+   "norm": 18457,
+   "code": "DNK"
+ },
+ {
+   "Year": 1997,
+   "name": "dominican republic",
+   "norm": 14950,
+   "code": "DOM"
+ },
+ {
+   "Year": 1997,
+   "name": "ecuador",
+   "norm": 10104,
+   "code": "ECU"
+ },
+ {
+   "Year": 1997,
+   "name": "el salvador",
+   "norm": 6543,
+   "code": "SLV"
+ },
+ {
+   "Year": 1997,
+   "name": "estonia",
+   "norm": 27100,
+   "code": "EST"
+ },
+ {
+   "Year": 1997,
+   "name": "finland",
+   "norm": 22051,
+   "code": "FIN"
+ },
+ {
+   "Year": 1997,
+   "name": "haiti",
+   "norm": 5615,
+   "code": "HTI"
+ },
+ {
+   "Year": 1997,
+   "name": "hungary",
+   "norm": 25570,
+   "code": "HUN"
+ },
+ {
+   "Year": 1997,
+   "name": "iceland",
+   "norm": 20564,
+   "code": "ISL"
+ },
+ {
+   "Year": 1997,
+   "name": "japan",
+   "norm": 16260,
+   "code": "JPN"
+ },
+ {
+   "Year": 1997,
+   "name": "kuwait",
+   "norm": 19056,
+   "code": "KWT"
+ },
+ {
+   "Year": 1997,
+   "name": "latvia",
+   "norm": 27766,
+   "code": "LVA"
+ },
+ {
+   "Year": 1997,
+   "name": "malta",
+   "norm": 22991,
+   "code": "MLT"
+ },
+ {
+   "Year": 1997,
+   "name": "montserrat",
+   "norm": 21875,
+   "code": "MSR"
+ },
+ {
+   "Year": 1997,
+   "name": "netherlands",
+   "norm": 18322,
+   "code": "NLD"
+ },
+ {
+   "Year": 1997,
+   "name": "netherlands antilles",
+   "norm": 17305,
+   "code": "ANT"
+ },
+ {
+   "Year": 1997,
+   "name": "nicaragua",
+   "norm": 11612,
+   "code": "NIC"
+ },
+ {
+   "Year": 1997,
+   "name": "norway",
+   "norm": 21861,
+   "code": "NOR"
+ },
+ {
+   "Year": 1997,
+   "name": "paraguay",
+   "norm": 11744,
+   "code": "PRY"
+ },
+ {
+   "Year": 1997,
+   "name": "republic of korea",
+   "norm": 11580,
+   "code": "PRK"
+ },
+ {
+   "Year": 1997,
+   "name": "republic of moldova",
+   "norm": 26484,
+   "code": "MDA"
+ },
+ {
+   "Year": 1997,
+   "name": "saint lucia",
+   "norm": 18312,
+   "code": "LCA"
+ },
+ {
+   "Year": 1997,
+   "name": "serbia and montenegro, former",
+   "norm": 28395,
+   "code": "SCG"
+ },
+ {
+   "Year": 1997,
+   "name": "slovakia",
+   "norm": 27325,
+   "code": "SVK"
+ },
+ {
+   "Year": 1997,
+   "name": "slovenia",
+   "norm": 19877,
+   "code": "SVL"
+ },
+ {
+   "Year": 1997,
+   "name": "south africa",
+   "norm": 9285,
+   "code": "ZAF"
+ },
+ {
+   "Year": 1997,
+   "name": "suriname",
+   "norm": 14550,
+   "code": "SUR"
+ },
+ {
+   "Year": 1997,
+   "name": "sweden",
+   "norm": 24112,
+   "code": "SWE"
+ },
+ {
+   "Year": 1997,
+   "name": "switzerland",
+   "norm": 20669,
+   "code": "CHE"
+ },
+ {
+   "Year": 1997,
+   "name": "thailand",
+   "norm": 9817,
+   "code": "THA"
+ },
+ {
+   "Year": 1997,
+   "name": "turks and caicos islands",
+   "norm": 15000,
+   "code": "TCA"
+ },
+ {
+   "Year": 1997,
+   "name": "uruguay",
+   "norm": 17388,
+   "code": "URY"
+ },
+ {
+   "Year": 1997,
+   "name": "venezuela",
+   "norm": 15518,
+   "code": "VEN"
+ },
+ {
+   "Year": 1998,
+   "name": "antigua and barbuda",
+   "norm": 20066,
+   "code": "ATG"
+ },
+ {
+   "Year": 1998,
+   "name": "argentina",
+   "norm": 17136,
+   "code": "ARG"
+ },
+ {
+   "Year": 1998,
+   "name": "australia",
+   "norm": 20360,
+   "code": "AUS"
+ },
+ {
+   "Year": 1998,
+   "name": "bahrain",
+   "norm": 13820,
+   "code": "BHR"
+ },
+ {
+   "Year": 1998,
+   "name": "belgium",
+   "norm": 17994,
+   "code": "BEL"
+ },
+ {
+   "Year": 1998,
+   "name": "belize",
+   "norm": 12925,
+   "code": "BLZ"
+ },
+ {
+   "Year": 1998,
+   "name": "bermuda",
+   "norm": 18786,
+   "code": "BMU"
+ },
+ {
+   "Year": 1998,
+   "name": "brazil",
+   "norm": 13797,
+   "code": "BRA"
+ },
+ {
+   "Year": 1998,
+   "name": "british virgin islands",
+   "norm": 15882,
+   "code": "VGB"
+ },
+ {
+   "Year": 1998,
+   "name": "cayman islands",
+   "norm": 19230,
+   "code": "CYM"
+ },
+ {
+   "Year": 1998,
+   "name": "chile",
+   "norm": 13728,
+   "code": "CHL"
+ },
+ {
+   "Year": 1998,
+   "name": "colombia",
+   "norm": 13416,
+   "code": "COL"
+ },
+ {
+   "Year": 1998,
+   "name": "costa rica",
+   "norm": 14362,
+   "code": "CRI"
+ },
+ {
+   "Year": 1998,
+   "name": "croatia",
+   "norm": 25832,
+   "code": "HRV"
+ },
+ {
+   "Year": 1998,
+   "name": "czech republic",
+   "norm": 27571,
+   "code": "CZE"
+ },
+ {
+   "Year": 1998,
+   "name": "denmark",
+   "norm": 18314,
+   "code": "DNK"
+ },
+ {
+   "Year": 1998,
+   "name": "dominican republic",
+   "norm": 15517,
+   "code": "DOM"
+ },
+ {
+   "Year": 1998,
+   "name": "ecuador",
+   "norm": 10940,
+   "code": "ECU"
+ },
+ {
+   "Year": 1998,
+   "name": "el salvador",
+   "norm": 6881,
+   "code": "SLV"
+ },
+ {
+   "Year": 1998,
+   "name": "estonia",
+   "norm": 27306,
+   "code": "EST"
+ },
+ {
+   "Year": 1998,
+   "name": "finland",
+   "norm": 21879,
+   "code": "FIN"
+ },
+ {
+   "Year": 1998,
+   "name": "georgia",
+   "norm": 35446,
+   "code": "GEO"
+ },
+ {
+   "Year": 1998,
+   "name": "germany",
+   "norm": 24132,
+   "code": "DEU"
+ },
+ {
+   "Year": 1998,
+   "name": "hungary",
+   "norm": 25698,
+   "code": "HUN"
+ },
+ {
+   "Year": 1998,
+   "name": "iceland",
+   "norm": 20318,
+   "code": "ISL"
+ },
+ {
+   "Year": 1998,
+   "name": "israel",
+   "norm": 17909,
+   "code": "ISR"
+ },
+ {
+   "Year": 1998,
+   "name": "japan",
+   "norm": 15999,
+   "code": "JPN"
+ },
+ {
+   "Year": 1998,
+   "name": "kuwait",
+   "norm": 20225,
+   "code": "KWT"
+ },
+ {
+   "Year": 1998,
+   "name": "latvia",
+   "norm": 27766,
+   "code": "LVA"
+ },
+ {
+   "Year": 1998,
+   "name": "lithuania",
+   "norm": 27342,
+   "code": "LTU"
+ },
+ {
+   "Year": 1998,
+   "name": "luxembourg",
+   "norm": 20371,
+   "code": "LUX"
+ },
+ {
+   "Year": 1998,
+   "name": "malta",
+   "norm": 21911,
+   "code": "MLT"
+ },
+ {
+   "Year": 1998,
+   "name": "mexico",
+   "norm": 11212,
+   "code": "MEX"
+ },
+ {
+   "Year": 1998,
+   "name": "montserrat",
+   "norm": 14912,
+   "code": "MSR"
+ },
+ {
+   "Year": 1998,
+   "name": "netherlands",
+   "norm": 18120,
+   "code": "NLD"
+ },
+ {
+   "Year": 1998,
+   "name": "netherlands antilles",
+   "norm": 17068,
+   "code": "ANT"
+ },
+ {
+   "Year": 1998,
+   "name": "nicaragua",
+   "norm": 10417,
+   "code": "NIC"
+ },
+ {
+   "Year": 1998,
+   "name": "norway",
+   "norm": 21803,
+   "code": "NOR"
+ },
+ {
+   "Year": 1998,
+   "name": "panama",
+   "norm": 12573,
+   "code": "PAN"
+ },
+ {
+   "Year": 1998,
+   "name": "paraguay",
+   "norm": 12966,
+   "code": "PRY"
+ },
+ {
+   "Year": 1998,
+   "name": "republic of korea",
+   "norm": 11821,
+   "code": "PRK"
+ },
+ {
+   "Year": 1998,
+   "name": "republic of moldova",
+   "norm": 26335,
+   "code": "MDA"
+ },
+ {
+   "Year": 1998,
+   "name": "saint kitts and nevis",
+   "norm": 17926,
+   "code": "KNA"
+ },
+ {
+   "Year": 1998,
+   "name": "saint lucia",
+   "norm": 17875,
+   "code": "LCA"
+ },
+ {
+   "Year": 1998,
+   "name": "serbia",
+   "norm": 28848,
+   "code": "SRB"
+ },
+ {
+   "Year": 1998,
+   "name": "serbia and montenegro, former",
+   "norm": 28469,
+   "code": "SCG"
+ },
+ {
+   "Year": 1998,
+   "name": "slovakia",
+   "norm": 27906,
+   "code": "SVK"
+ },
+ {
+   "Year": 1998,
+   "name": "slovenia",
+   "norm": 20712,
+   "code": "SVL"
+ },
+ {
+   "Year": 1998,
+   "name": "south africa",
+   "norm": 8844,
+   "code": "ZAF"
+ },
+ {
+   "Year": 1998,
+   "name": "suriname",
+   "norm": 15630,
+   "code": "SUR"
+ },
+ {
+   "Year": 1998,
+   "name": "sweden",
+   "norm": 24025,
+   "code": "SWE"
+ },
+ {
+   "Year": 1998,
+   "name": "switzerland",
+   "norm": 20332,
+   "code": "CHE"
+ },
+ {
+   "Year": 1998,
+   "name": "thailand",
+   "norm": 8433,
+   "code": "THA"
+ },
+ {
+   "Year": 1998,
+   "name": "turks and caicos islands",
+   "norm": 15555,
+   "code": "TCA"
+ },
+ {
+   "Year": 1998,
+   "name": "uruguay",
+   "norm": 17512,
+   "code": "URY"
+ },
+ {
+   "Year": 1998,
+   "name": "venezuela",
+   "norm": 15495,
+   "code": "VEN"
+ },
+ {
+   "Year": 1999,
+   "name": "antigua and barbuda",
+   "norm": 19200,
+   "code": "ATG"
+ },
+ {
+   "Year": 1999,
+   "name": "argentina",
+   "norm": 17083,
+   "code": "ARG"
+ },
+ {
+   "Year": 1999,
+   "name": "aruba",
+   "norm": 18659,
+   "code": "ABW"
+ },
+ {
+   "Year": 1999,
+   "name": "australia",
+   "norm": 20011,
+   "code": "AUS"
+ },
+ {
+   "Year": 1999,
+   "name": "bahamas",
+   "norm": 13777,
+   "code": "BHS"
+ },
+ {
+   "Year": 1999,
+   "name": "bahrain",
+   "norm": 14713,
+   "code": "BHR"
+ },
+ {
+   "Year": 1999,
+   "name": "belgium",
+   "norm": 17697,
+   "code": "BEL"
+ },
+ {
+   "Year": 1999,
+   "name": "belize",
+   "norm": 12657,
+   "code": "BLZ"
+ },
+ {
+   "Year": 1999,
+   "name": "bermuda",
+   "norm": 19469,
+   "code": "BMU"
+ },
+ {
+   "Year": 1999,
+   "name": "brazil",
+   "norm": 13698,
+   "code": "BRA"
+ },
+ {
+   "Year": 1999,
+   "name": "british virgin islands",
+   "norm": 19801,
+   "code": "VGB"
+ },
+ {
+   "Year": 1999,
+   "name": "cayman islands",
+   "norm": 21484,
+   "code": "CYM"
+ },
+ {
+   "Year": 1999,
+   "name": "chile",
+   "norm": 13861,
+   "code": "CHL"
+ },
+ {
+   "Year": 1999,
+   "name": "colombia",
+   "norm": 13703,
+   "code": "COL"
+ },
+ {
+   "Year": 1999,
+   "name": "costa rica",
+   "norm": 15207,
+   "code": "CRI"
+ },
+ {
+   "Year": 1999,
+   "name": "croatia",
+   "norm": 26057,
+   "code": "HRV"
+ },
+ {
+   "Year": 1999,
+   "name": "czech republic",
+   "norm": 27460,
+   "code": "CZE"
+ },
+ {
+   "Year": 1999,
+   "name": "denmark",
+   "norm": 18271,
+   "code": "DNK"
+ },
+ {
+   "Year": 1999,
+   "name": "dominican republic",
+   "norm": 15142,
+   "code": "DOM"
+ },
+ {
+   "Year": 1999,
+   "name": "ecuador",
+   "norm": 11154,
+   "code": "ECU"
+ },
+ {
+   "Year": 1999,
+   "name": "el salvador",
+   "norm": 9680,
+   "code": "SLV"
+ },
+ {
+   "Year": 1999,
+   "name": "estonia",
+   "norm": 27376,
+   "code": "EST"
+ },
+ {
+   "Year": 1999,
+   "name": "finland",
+   "norm": 21775,
+   "code": "FIN"
+ },
+ {
+   "Year": 1999,
+   "name": "georgia",
+   "norm": 35568,
+   "code": "GEO"
+ },
+ {
+   "Year": 1999,
+   "name": "germany",
+   "norm": 23993,
+   "code": "DEU"
+ },
+ {
+   "Year": 1999,
+   "name": "haiti",
+   "norm": 4145,
+   "code": "HTI"
+ },
+ {
+   "Year": 1999,
+   "name": "hungary",
+   "norm": 25603,
+   "code": "HUN"
+ },
+ {
+   "Year": 1999,
+   "name": "iceland",
+   "norm": 20831,
+   "code": "ISL"
+ },
+ {
+   "Year": 1999,
+   "name": "israel",
+   "norm": 15602,
+   "code": "ISR"
+ },
+ {
+   "Year": 1999,
+   "name": "japan",
+   "norm": 15752,
+   "code": "JPN"
+ },
+ {
+   "Year": 1999,
+   "name": "kiribati",
+   "norm": 7477,
+   "code": "KIR"
+ },
+ {
+   "Year": 1999,
+   "name": "kuwait",
+   "norm": 20461,
+   "code": "KWT"
+ },
+ {
+   "Year": 1999,
+   "name": "latvia",
+   "norm": 27606,
+   "code": "LVA"
+ },
+ {
+   "Year": 1999,
+   "name": "lithuania",
+   "norm": 27376,
+   "code": "LTU"
+ },
+ {
+   "Year": 1999,
+   "name": "luxembourg",
+   "norm": 20293,
+   "code": "LUX"
+ },
+ {
+   "Year": 1999,
+   "name": "malta",
+   "norm": 23926,
+   "code": "MLT"
+ },
+ {
+   "Year": 1999,
+   "name": "mexico",
+   "norm": 11109,
+   "code": "MEX"
+ },
+ {
+   "Year": 1999,
+   "name": "montserrat",
+   "norm": 15254,
+   "code": "MSR"
+ },
+ {
+   "Year": 1999,
+   "name": "netherlands",
+   "norm": 17650,
+   "code": "NLD"
+ },
+ {
+   "Year": 1999,
+   "name": "netherlands antilles",
+   "norm": 16224,
+   "code": "ANT"
+ },
+ {
+   "Year": 1999,
+   "name": "nicaragua",
+   "norm": 11709,
+   "code": "NIC"
+ },
+ {
+   "Year": 1999,
+   "name": "norway",
+   "norm": 21323,
+   "code": "NOR"
+ },
+ {
+   "Year": 1999,
+   "name": "panama",
+   "norm": 12854,
+   "code": "PAN"
+ },
+ {
+   "Year": 1999,
+   "name": "paraguay",
+   "norm": 12466,
+   "code": "PRY"
+ },
+ {
+   "Year": 1999,
+   "name": "peru",
+   "norm": 7009,
+   "code": "PER"
+ },
+ {
+   "Year": 1999,
+   "name": "philippines",
+   "norm": 14482,
+   "code": "PHL"
+ },
+ {
+   "Year": 1999,
+   "name": "poland",
+   "norm": 23789,
+   "code": "POL"
+ },
+ {
+   "Year": 1999,
+   "name": "puerto rico",
+   "norm": 15301,
+   "code": "PRI"
+ },
+ {
+   "Year": 1999,
+   "name": "republic of korea",
+   "norm": 11671,
+   "code": "PRK"
+ },
+ {
+   "Year": 1999,
+   "name": "republic of moldova",
+   "norm": 27506,
+   "code": "MDA"
+ },
+ {
+   "Year": 1999,
+   "name": "romania",
+   "norm": 31197,
+   "code": "ROU"
+ },
+ {
+   "Year": 1999,
+   "name": "saint kitts and nevis",
+   "norm": 20588,
+   "code": "KNA"
+ },
+ {
+   "Year": 1999,
+   "name": "saint lucia",
+   "norm": 18462,
+   "code": "LCA"
+ },
+ {
+   "Year": 1999,
+   "name": "serbia",
+   "norm": 28588,
+   "code": "SRB"
+ },
+ {
+   "Year": 1999,
+   "name": "serbia and montenegro, former",
+   "norm": 28328,
+   "code": "SCG"
+ },
+ {
+   "Year": 1999,
+   "name": "slovakia",
+   "norm": 27285,
+   "code": "SVK"
+ },
+ {
+   "Year": 1999,
+   "name": "slovenia",
+   "norm": 20299,
+   "code": "SVL"
+ },
+ {
+   "Year": 1999,
+   "name": "south africa",
+   "norm": 8654,
+   "code": "ZAF"
+ },
+ {
+   "Year": 1999,
+   "name": "spain",
+   "norm": 17754,
+   "code": "ESP"
+ },
+ {
+   "Year": 1999,
+   "name": "suriname",
+   "norm": 14137,
+   "code": "SUR"
+ },
+ {
+   "Year": 1999,
+   "name": "sweden",
+   "norm": 23430,
+   "code": "SWE"
+ },
+ {
+   "Year": 1999,
+   "name": "switzerland",
+   "norm": 20359,
+   "code": "CHE"
+ },
+ {
+   "Year": 1999,
+   "name": "thailand",
+   "norm": 5830,
+   "code": "THA"
+ },
+ {
+   "Year": 1999,
+   "name": "trinidad and tobago",
+   "norm": 19292,
+   "code": "TTO"
+ },
+ {
+   "Year": 1999,
+   "name": "turks and caicos islands",
+   "norm": 16250,
+   "code": "TCA"
+ },
+ {
+   "Year": 1999,
+   "name": "united states of america",
+   "norm": 19953,
+   "code": "USA"
+ },
+ {
+   "Year": 1999,
+   "name": "uruguay",
+   "norm": 16878,
+   "code": "URY"
+ },
+ {
+   "Year": 1999,
+   "name": "venezuela",
+   "norm": 15311,
+   "code": "VEN"
+ },
+ {
+   "Year": 1999,
+   "name": "virgin islands (usa)",
+   "norm": 18057,
+   "code": "VIR"
+ },
+ {
+   "Year": 2000,
+   "name": "anguilla",
+   "norm": 23611,
+   "code": "AIA"
+ },
+ {
+   "Year": 2000,
+   "name": "antigua and barbuda",
+   "norm": 16831,
+   "code": "ATG"
+ },
+ {
+   "Year": 2000,
+   "name": "argentina",
+   "norm": 16508,
+   "code": "ARG"
+ },
+ {
+   "Year": 2000,
+   "name": "aruba",
+   "norm": 24230,
+   "code": "ABW"
+ },
+ {
+   "Year": 2000,
+   "name": "australia",
+   "norm": 19347,
+   "code": "AUS"
+ },
+ {
+   "Year": 2000,
+   "name": "bahamas",
+   "norm": 14092,
+   "code": "BHS"
+ },
+ {
+   "Year": 2000,
+   "name": "bahrain",
+   "norm": 13207,
+   "code": "BHR"
+ },
+ {
+   "Year": 2000,
+   "name": "barbados",
+   "norm": 16858,
+   "code": "BRB"
+ },
+ {
+   "Year": 2000,
+   "name": "belgium",
+   "norm": 18147,
+   "code": "BEL"
+ },
+ {
+   "Year": 2000,
+   "name": "belize",
+   "norm": 20273,
+   "code": "BLZ"
+ },
+ {
+   "Year": 2000,
+   "name": "bermuda",
+   "norm": 20900,
+   "code": "BMU"
+ },
+ {
+   "Year": 2000,
+   "name": "bolivia",
+   "norm": 3861,
+   "code": "BOL"
+ },
+ {
+   "Year": 2000,
+   "name": "brazil",
+   "norm": 13765,
+   "code": "BRA"
+ },
+ {
+   "Year": 2000,
+   "name": "british virgin islands",
+   "norm": 16489,
+   "code": "VGB"
+ },
+ {
+   "Year": 2000,
+   "name": "canada",
+   "norm": 17523,
+   "code": "CAN"
+ },
+ {
+   "Year": 2000,
+   "name": "cayman islands",
+   "norm": 20072,
+   "code": "CYM"
+ },
+ {
+   "Year": 2000,
+   "name": "chile",
+   "norm": 13928,
+   "code": "CHL"
+ },
+ {
+   "Year": 2000,
+   "name": "colombia",
+   "norm": 13778,
+   "code": "COL"
+ },
+ {
+   "Year": 2000,
+   "name": "costa rica",
+   "norm": 15855,
+   "code": "CRI"
+ },
+ {
+   "Year": 2000,
+   "name": "croatia",
+   "norm": 26581,
+   "code": "HRV"
+ },
+ {
+   "Year": 2000,
+   "name": "czech republic",
+   "norm": 26693,
+   "code": "CZE"
+ },
+ {
+   "Year": 2000,
+   "name": "denmark",
+   "norm": 17995,
+   "code": "DNK"
+ },
+ {
+   "Year": 2000,
+   "name": "dominican republic",
+   "norm": 14119,
+   "code": "DOM"
+ },
+ {
+   "Year": 2000,
+   "name": "ecuador",
+   "norm": 11031,
+   "code": "ECU"
+ },
+ {
+   "Year": 2000,
+   "name": "egypt",
+   "norm": 19124,
+   "code": "EGY"
+ },
+ {
+   "Year": 2000,
+   "name": "el salvador",
+   "norm": 9823,
+   "code": "SLV"
+ },
+ {
+   "Year": 2000,
+   "name": "estonia",
+   "norm": 27120,
+   "code": "EST"
+ },
+ {
+   "Year": 2000,
+   "name": "finland",
+   "norm": 21695,
+   "code": "FIN"
+ },
+ {
+   "Year": 2000,
+   "name": "france",
+   "norm": 15250,
+   "code": "FRA"
+ },
+ {
+   "Year": 2000,
+   "name": "georgia",
+   "norm": 35970,
+   "code": "GEO"
+ },
+ {
+   "Year": 2000,
+   "name": "germany",
+   "norm": 23548,
+   "code": "DEU"
+ },
+ {
+   "Year": 2000,
+   "name": "guadeloupe",
+   "norm": 14510,
+   "code": "GLP"
+ },
+ {
+   "Year": 2000,
+   "name": "hungary",
+   "norm": 25395,
+   "code": "HUN"
+ },
+ {
+   "Year": 2000,
+   "name": "iceland",
+   "norm": 19611,
+   "code": "ISL"
+ },
+ {
+   "Year": 2000,
+   "name": "israel",
+   "norm": 15666,
+   "code": "ISR"
+ },
+ {
+   "Year": 2000,
+   "name": "jamaica",
+   "norm": 15672,
+   "code": "JAM"
+ },
+ {
+   "Year": 2000,
+   "name": "japan",
+   "norm": 15511,
+   "code": "JPN"
+ },
+ {
+   "Year": 2000,
+   "name": "kiribati",
+   "norm": 5860,
+   "code": "KIR"
+ },
+ {
+   "Year": 2000,
+   "name": "kuwait",
+   "norm": 19978,
+   "code": "KWT"
+ },
+ {
+   "Year": 2000,
+   "name": "kyrgyzstan",
+   "norm": 22585,
+   "code": "KGZ"
+ },
+ {
+   "Year": 2000,
+   "name": "latvia",
+   "norm": 27737,
+   "code": "LVA"
+ },
+ {
+   "Year": 2000,
+   "name": "lithuania",
+   "norm": 26889,
+   "code": "LTU"
+ },
+ {
+   "Year": 2000,
+   "name": "luxembourg",
+   "norm": 19514,
+   "code": "LUX"
+ },
+ {
+   "Year": 2000,
+   "name": "malaysia",
+   "norm": 13919,
+   "code": "MYS"
+ },
+ {
+   "Year": 2000,
+   "name": "maldives",
+   "norm": 2208,
+   "code": "MDV"
+ },
+ {
+   "Year": 2000,
+   "name": "malta",
+   "norm": 23343,
+   "code": "MLT"
+ },
+ {
+   "Year": 2000,
+   "name": "martinique",
+   "norm": 15768,
+   "code": "MTQ"
+ },
+ {
+   "Year": 2000,
+   "name": "mexico",
+   "norm": 11156,
+   "code": "MEX"
+ },
+ {
+   "Year": 2000,
+   "name": "montenegro",
+   "norm": 26903,
+   "code": "MNE"
+ },
+ {
+   "Year": 2000,
+   "name": "montserrat",
+   "norm": 12500,
+   "code": "MSR"
+ },
+ {
+   "Year": 2000,
+   "name": "morocco",
+   "norm": 8928,
+   "code": "MAR"
+ },
+ {
+   "Year": 2000,
+   "name": "netherlands",
+   "norm": 17502,
+   "code": "NLD"
+ },
+ {
+   "Year": 2000,
+   "name": "netherlands antilles",
+   "norm": 17972,
+   "code": "ANT"
+ },
+ {
+   "Year": 2000,
+   "name": "new zealand",
+   "norm": 20435,
+   "code": "NZL"
+ },
+ {
+   "Year": 2000,
+   "name": "nicaragua",
+   "norm": 12479,
+   "code": "NIC"
+ },
+ {
+   "Year": 2000,
+   "name": "norway",
+   "norm": 20663,
+   "code": "NOR"
+ },
+ {
+   "Year": 2000,
+   "name": "panama",
+   "norm": 12635,
+   "code": "PAN"
+ },
+ {
+   "Year": 2000,
+   "name": "paraguay",
+   "norm": 11882,
+   "code": "PRY"
+ },
+ {
+   "Year": 2000,
+   "name": "peru",
+   "norm": 8237,
+   "code": "PER"
+ },
+ {
+   "Year": 2000,
+   "name": "philippines",
+   "norm": 14810,
+   "code": "PHL"
+ },
+ {
+   "Year": 2000,
+   "name": "poland",
+   "norm": 23830,
+   "code": "POL"
+ },
+ {
+   "Year": 2000,
+   "name": "puerto rico",
+   "norm": 14655,
+   "code": "PRI"
+ },
+ {
+   "Year": 2000,
+   "name": "republic of korea",
+   "norm": 11824,
+   "code": "PRK"
+ },
+ {
+   "Year": 2000,
+   "name": "republic of moldova",
+   "norm": 27893,
+   "code": "MDA"
+ },
+ {
+   "Year": 2000,
+   "name": "romania",
+   "norm": 30765,
+   "code": "ROU"
+ },
+ {
+   "Year": 2000,
+   "name": "saint kitts and nevis",
+   "norm": 21763,
+   "code": "KNA"
+ },
+ {
+   "Year": 2000,
+   "name": "saint lucia",
+   "norm": 15525,
+   "code": "LCA"
+ },
+ {
+   "Year": 2000,
+   "name": "saint vincent and grenadines",
+   "norm": 15335,
+   "code": "VCT"
+ },
+ {
+   "Year": 2000,
+   "name": "serbia",
+   "norm": 27920,
+   "code": "SRB"
+ },
+ {
+   "Year": 2000,
+   "name": "serbia and montenegro, former",
+   "norm": 27942,
+   "code": "SCG"
+ },
+ {
+   "Year": 2000,
+   "name": "slovakia",
+   "norm": 27390,
+   "code": "SVK"
+ },
+ {
+   "Year": 2000,
+   "name": "slovenia",
+   "norm": 20185,
+   "code": "SVL"
+ },
+ {
+   "Year": 2000,
+   "name": "south africa",
+   "norm": 8499,
+   "code": "ZAF"
+ },
+ {
+   "Year": 2000,
+   "name": "spain",
+   "norm": 17442,
+   "code": "ESP"
+ },
+ {
+   "Year": 2000,
+   "name": "suriname",
+   "norm": 14755,
+   "code": "SUR"
+ },
+ {
+   "Year": 2000,
+   "name": "sweden",
+   "norm": 23138,
+   "code": "SWE"
+ },
+ {
+   "Year": 2000,
+   "name": "switzerland",
+   "norm": 19913,
+   "code": "CHE"
+ },
+ {
+   "Year": 2000,
+   "name": "thailand",
+   "norm": 4421,
+   "code": "THA"
+ },
+ {
+   "Year": 2000,
+   "name": "trinidad and tobago",
+   "norm": 18558,
+   "code": "TTO"
+ },
+ {
+   "Year": 2000,
+   "name": "turks and caicos islands",
+   "norm": 16417,
+   "code": "TCA"
+ },
+ {
+   "Year": 2000,
+   "name": "united kingdom, scotland",
+   "norm": 20464,
+   "code": "GBR"
+ },
+ {
+   "Year": 2000,
+   "name": "united states of america",
+   "norm": 19587,
+   "code": "USA"
+ },
+ {
+   "Year": 2000,
+   "name": "uruguay",
+   "norm": 16819,
+   "code": "URY"
+ },
+ {
+   "Year": 2000,
+   "name": "venezuela",
+   "norm": 15119,
+   "code": "VEN"
+ },
+ {
+   "Year": 2000,
+   "name": "virgin islands (usa)",
+   "norm": 20904,
+   "code": "VIR"
+ },
+ {
+   "Year": 2001,
+   "name": "anguilla",
+   "norm": 20192,
+   "code": "AIA"
+ },
+ {
+   "Year": 2001,
+   "name": "antigua and barbuda",
+   "norm": 16991,
+   "code": "ATG"
+ },
+ {
+   "Year": 2001,
+   "name": "argentina",
+   "norm": 16432,
+   "code": "ARG"
+ },
+ {
+   "Year": 2001,
+   "name": "aruba",
+   "norm": 15138,
+   "code": "ABW"
+ },
+ {
+   "Year": 2001,
+   "name": "australia",
+   "norm": 19250,
+   "code": "AUS"
+ },
+ {
+   "Year": 2001,
+   "name": "bahamas",
+   "norm": 14498,
+   "code": "BHS"
+ },
+ {
+   "Year": 2001,
+   "name": "bahrain",
+   "norm": 14249,
+   "code": "BHR"
+ },
+ {
+   "Year": 2001,
+   "name": "barbados",
+   "norm": 16384,
+   "code": "BRB"
+ },
+ {
+   "Year": 2001,
+   "name": "belgium",
+   "norm": 17851,
+   "code": "BEL"
+ },
+ {
+   "Year": 2001,
+   "name": "belize",
+   "norm": 11498,
+   "code": "BLZ"
+ },
+ {
+   "Year": 2001,
+   "name": "bermuda",
+   "norm": 20134,
+   "code": "BMU"
+ },
+ {
+   "Year": 2001,
+   "name": "bolivia",
+   "norm": 4097,
+   "code": "BOL"
+ },
+ {
+   "Year": 2001,
+   "name": "brazil",
+   "norm": 13697,
+   "code": "BRA"
+ },
+ {
+   "Year": 2001,
+   "name": "british virgin islands",
+   "norm": 18556,
+   "code": "VGB"
+ },
+ {
+   "Year": 2001,
+   "name": "canada",
+   "norm": 17039,
+   "code": "CAN"
+ },
+ {
+   "Year": 2001,
+   "name": "cayman islands",
+   "norm": 19402,
+   "code": "CYM"
+ },
+ {
+   "Year": 2001,
+   "name": "chile",
+   "norm": 13841,
+   "code": "CHL"
+ },
+ {
+   "Year": 2001,
+   "name": "colombia",
+   "norm": 13360,
+   "code": "COL"
+ },
+ {
+   "Year": 2001,
+   "name": "costa rica",
+   "norm": 15644,
+   "code": "CRI"
+ },
+ {
+   "Year": 2001,
+   "name": "croatia",
+   "norm": 26781,
+   "code": "HRV"
+ },
+ {
+   "Year": 2001,
+   "name": "cuba",
+   "norm": 20903,
+   "code": "CUB"
+ },
+ {
+   "Year": 2001,
+   "name": "czech republic",
+   "norm": 26636,
+   "code": "CZE"
+ },
+ {
+   "Year": 2001,
+   "name": "denmark",
+   "norm": 18108,
+   "code": "DNK"
+ },
+ {
+   "Year": 2001,
+   "name": "dominica",
+   "norm": 17450,
+   "code": "DMA"
+ },
+ {
+   "Year": 2001,
+   "name": "dominican republic",
+   "norm": 14031,
+   "code": "DOM"
+ },
+ {
+   "Year": 2001,
+   "name": "ecuador",
+   "norm": 11183,
+   "code": "ECU"
+ },
+ {
+   "Year": 2001,
+   "name": "egypt",
+   "norm": 19814,
+   "code": "EGY"
+ },
+ {
+   "Year": 2001,
+   "name": "el salvador",
+   "norm": 9396,
+   "code": "SLV"
+ },
+ {
+   "Year": 2001,
+   "name": "estonia",
+   "norm": 26793,
+   "code": "EST"
+ },
+ {
+   "Year": 2001,
+   "name": "fiji",
+   "norm": 24609,
+   "code": "FJI"
+ },
+ {
+   "Year": 2001,
+   "name": "finland",
+   "norm": 21428,
+   "code": "FIN"
+ },
+ {
+   "Year": 2001,
+   "name": "france",
+   "norm": 15078,
+   "code": "FRA"
+ },
+ {
+   "Year": 2001,
+   "name": "french guiana",
+   "norm": 9015,
+   "code": "GUF"
+ },
+ {
+   "Year": 2001,
+   "name": "georgia",
+   "norm": 36016,
+   "code": "GEO"
+ },
+ {
+   "Year": 2001,
+   "name": "germany",
+   "norm": 23639,
+   "code": "DEU"
+ },
+ {
+   "Year": 2001,
+   "name": "grenada",
+   "norm": 17161,
+   "code": "GRD"
+ },
+ {
+   "Year": 2001,
+   "name": "guadeloupe",
+   "norm": 14551,
+   "code": "GLP"
+ },
+ {
+   "Year": 2001,
+   "name": "guyana",
+   "norm": 15446,
+   "code": "GUY"
+ },
+ {
+   "Year": 2001,
+   "name": "haiti",
+   "norm": 6511,
+   "code": "HTI"
+ },
+ {
+   "Year": 2001,
+   "name": "hong kong sar",
+   "norm": 12682,
+   "code": "HKG"
+ },
+ {
+   "Year": 2001,
+   "name": "hungary",
+   "norm": 25503,
+   "code": "HUN"
+ },
+ {
+   "Year": 2001,
+   "name": "iceland",
+   "norm": 19768,
+   "code": "ISL"
+ },
+ {
+   "Year": 2001,
+   "name": "israel",
+   "norm": 15549,
+   "code": "ISR"
+ },
+ {
+   "Year": 2001,
+   "name": "jamaica",
+   "norm": 14220,
+   "code": "JAM"
+ },
+ {
+   "Year": 2001,
+   "name": "japan",
+   "norm": 15464,
+   "code": "JPN"
+ },
+ {
+   "Year": 2001,
+   "name": "kiribati",
+   "norm": 6461,
+   "code": "KIR"
+ },
+ {
+   "Year": 2001,
+   "name": "kuwait",
+   "norm": 20073,
+   "code": "KWT"
+ },
+ {
+   "Year": 2001,
+   "name": "kyrgyzstan",
+   "norm": 23342,
+   "code": "KGZ"
+ },
+ {
+   "Year": 2001,
+   "name": "latvia",
+   "norm": 27943,
+   "code": "LVA"
+ },
+ {
+   "Year": 2001,
+   "name": "lithuania",
+   "norm": 27066,
+   "code": "LTU"
+ },
+ {
+   "Year": 2001,
+   "name": "luxembourg",
+   "norm": 19793,
+   "code": "LUX"
+ },
+ {
+   "Year": 2001,
+   "name": "malaysia",
+   "norm": 13957,
+   "code": "MYS"
+ },
+ {
+   "Year": 2001,
+   "name": "maldives",
+   "norm": 15388,
+   "code": "MDV"
+ },
+ {
+   "Year": 2001,
+   "name": "malta",
+   "norm": 21856,
+   "code": "MLT"
+ },
+ {
+   "Year": 2001,
+   "name": "martinique",
+   "norm": 14679,
+   "code": "MTQ"
+ },
+ {
+   "Year": 2001,
+   "name": "mexico",
+   "norm": 11250,
+   "code": "MEX"
+ },
+ {
+   "Year": 2001,
+   "name": "montenegro",
+   "norm": 26440,
+   "code": "MNE"
+ },
+ {
+   "Year": 2001,
+   "name": "montserrat",
+   "norm": 18000,
+   "code": "MSR"
+ },
+ {
+   "Year": 2001,
+   "name": "morocco",
+   "norm": 9047,
+   "code": "MAR"
+ },
+ {
+   "Year": 2001,
+   "name": "netherlands",
+   "norm": 16969,
+   "code": "NLD"
+ },
+ {
+   "Year": 2001,
+   "name": "new zealand",
+   "norm": 20317,
+   "code": "NZL"
+ },
+ {
+   "Year": 2001,
+   "name": "nicaragua",
+   "norm": 12608,
+   "code": "NIC"
+ },
+ {
+   "Year": 2001,
+   "name": "norway",
+   "norm": 20315,
+   "code": "NOR"
+ },
+ {
+   "Year": 2001,
+   "name": "panama",
+   "norm": 13104,
+   "code": "PAN"
+ },
+ {
+   "Year": 2001,
+   "name": "paraguay",
+   "norm": 11809,
+   "code": "PRY"
+ },
+ {
+   "Year": 2001,
+   "name": "peru",
+   "norm": 9046,
+   "code": "PER"
+ },
+ {
+   "Year": 2001,
+   "name": "philippines",
+   "norm": 15195,
+   "code": "PHL"
+ },
+ {
+   "Year": 2001,
+   "name": "poland",
+   "norm": 23926,
+   "code": "POL"
+ },
+ {
+   "Year": 2001,
+   "name": "puerto rico",
+   "norm": 15050,
+   "code": "PRI"
+ },
+ {
+   "Year": 2001,
+   "name": "qatar",
+   "norm": 18801,
+   "code": "QAT"
+ },
+ {
+   "Year": 2001,
+   "name": "republic of korea",
+   "norm": 11911,
+   "code": "PRK"
+ },
+ {
+   "Year": 2001,
+   "name": "republic of moldova",
+   "norm": 28000,
+   "code": "MDA"
+ },
+ {
+   "Year": 2001,
+   "name": "reunion",
+   "norm": 15182,
+   "code": "REU"
+ },
+ {
+   "Year": 2001,
+   "name": "romania",
+   "norm": 30669,
+   "code": "ROU"
+ },
+ {
+   "Year": 2001,
+   "name": "saint kitts and nevis",
+   "norm": 23333,
+   "code": "KNA"
+ },
+ {
+   "Year": 2001,
+   "name": "saint lucia",
+   "norm": 14747,
+   "code": "LCA"
+ },
+ {
+   "Year": 2001,
+   "name": "saint vincent and grenadines",
+   "norm": 16291,
+   "code": "VCT"
+ },
+ {
+   "Year": 2001,
+   "name": "serbia",
+   "norm": 27647,
+   "code": "SRB"
+ },
+ {
+   "Year": 2001,
+   "name": "serbia and montenegro, former",
+   "norm": 27585,
+   "code": "SCG"
+ },
+ {
+   "Year": 2001,
+   "name": "slovakia",
+   "norm": 27513,
+   "code": "SVK"
+ },
+ {
+   "Year": 2001,
+   "name": "slovenia",
+   "norm": 19494,
+   "code": "SVL"
+ },
+ {
+   "Year": 2001,
+   "name": "south africa",
+   "norm": 8051,
+   "code": "ZAF"
+ },
+ {
+   "Year": 2001,
+   "name": "spain",
+   "norm": 17269,
+   "code": "ESP"
+ },
+ {
+   "Year": 2001,
+   "name": "suriname",
+   "norm": 14007,
+   "code": "SUR"
+ },
+ {
+   "Year": 2001,
+   "name": "sweden",
+   "norm": 22756,
+   "code": "SWE"
+ },
+ {
+   "Year": 2001,
+   "name": "switzerland",
+   "norm": 19702,
+   "code": "CHE"
+ },
+ {
+   "Year": 2001,
+   "name": "trinidad and tobago",
+   "norm": 18250,
+   "code": "TTO"
+ },
+ {
+   "Year": 2001,
+   "name": "turks and caicos islands",
+   "norm": 13793,
+   "code": "TCA"
+ },
+ {
+   "Year": 2001,
+   "name": "united kingdom",
+   "norm": 19919,
+   "code": "GBR"
+ },
+ {
+   "Year": 2001,
+   "name": "united kingdom, england and wales",
+   "norm": 19933,
+   "code": "GBR"
+ },
+ {
+   "Year": 2001,
+   "name": "united kingdom, northern ireland",
+   "norm": 20081,
+   "code": "GBR"
+ },
+ {
+   "Year": 2001,
+   "name": "united kingdom, scotland",
+   "norm": 19750,
+   "code": "GBR"
+ },
+ {
+   "Year": 2001,
+   "name": "united states of america",
+   "norm": 19181,
+   "code": "USA"
+ },
+ {
+   "Year": 2001,
+   "name": "uruguay",
+   "norm": 16776,
+   "code": "URY"
+ },
+ {
+   "Year": 2001,
+   "name": "venezuela",
+   "norm": 15235,
+   "code": "VEN"
+ },
+ {
+   "Year": 2001,
+   "name": "virgin islands (usa)",
+   "norm": 18760,
+   "code": "VIR"
+ },
+ {
+   "Year": 2002,
+   "name": "anguilla",
+   "norm": 15789,
+   "code": "AIA"
+ },
+ {
+   "Year": 2002,
+   "name": "antigua and barbuda",
+   "norm": 16554,
+   "code": "ATG"
+ },
+ {
+   "Year": 2002,
+   "name": "argentina",
+   "norm": 16291,
+   "code": "ARG"
+ },
+ {
+   "Year": 2002,
+   "name": "aruba",
+   "norm": 17251,
+   "code": "ABW"
+ },
+ {
+   "Year": 2002,
+   "name": "australia",
+   "norm": 18781,
+   "code": "AUS"
+ },
+ {
+   "Year": 2002,
+   "name": "austria",
+   "norm": 24238,
+   "code": "AUT"
+ },
+ {
+   "Year": 2002,
+   "name": "bahamas",
+   "norm": 15489,
+   "code": "BHS"
+ },
+ {
+   "Year": 2002,
+   "name": "bahrain",
+   "norm": 14250,
+   "code": "BHR"
+ },
+ {
+   "Year": 2002,
+   "name": "barbados",
+   "norm": 15803,
+   "code": "BRB"
+ },
+ {
+   "Year": 2002,
+   "name": "belgium",
+   "norm": 17695,
+   "code": "BEL"
+ },
+ {
+   "Year": 2002,
+   "name": "belize",
+   "norm": 11721,
+   "code": "BLZ"
+ },
+ {
+   "Year": 2002,
+   "name": "bermuda",
+   "norm": 15909,
+   "code": "BMU"
+ },
+ {
+   "Year": 2002,
+   "name": "bolivia",
+   "norm": 4948,
+   "code": "BOL"
+ },
+ {
+   "Year": 2002,
+   "name": "brazil",
+   "norm": 13607,
+   "code": "BRA"
+ },
+ {
+   "Year": 2002,
+   "name": "british virgin islands",
+   "norm": 20526,
+   "code": "VGB"
+ },
+ {
+   "Year": 2002,
+   "name": "canada",
+   "norm": 16687,
+   "code": "CAN"
+ },
+ {
+   "Year": 2002,
+   "name": "cayman islands",
+   "norm": 19166,
+   "code": "CYM"
+ },
+ {
+   "Year": 2002,
+   "name": "chile",
+   "norm": 13845,
+   "code": "CHL"
+ },
+ {
+   "Year": 2002,
+   "name": "colombia",
+   "norm": 13450,
+   "code": "COL"
+ },
+ {
+   "Year": 2002,
+   "name": "costa rica",
+   "norm": 15052,
+   "code": "CRI"
+ },
+ {
+   "Year": 2002,
+   "name": "croatia",
+   "norm": 26397,
+   "code": "HRV"
+ },
+ {
+   "Year": 2002,
+   "name": "cuba",
+   "norm": 20619,
+   "code": "CUB"
+ },
+ {
+   "Year": 2002,
+   "name": "czech republic",
+   "norm": 26399,
+   "code": "CZE"
+ },
+ {
+   "Year": 2002,
+   "name": "denmark",
+   "norm": 17506,
+   "code": "DNK"
+ },
+ {
+   "Year": 2002,
+   "name": "dominica",
+   "norm": 16666,
+   "code": "DMA"
+ },
+ {
+   "Year": 2002,
+   "name": "dominican republic",
+   "norm": 14187,
+   "code": "DOM"
+ },
+ {
+   "Year": 2002,
+   "name": "ecuador",
+   "norm": 11596,
+   "code": "ECU"
+ },
+ {
+   "Year": 2002,
+   "name": "egypt",
+   "norm": 20426,
+   "code": "EGY"
+ },
+ {
+   "Year": 2002,
+   "name": "el salvador",
+   "norm": 9775,
+   "code": "SLV"
+ },
+ {
+   "Year": 2002,
+   "name": "estonia",
+   "norm": 27194,
+   "code": "EST"
+ },
+ {
+   "Year": 2002,
+   "name": "fiji",
+   "norm": 21747,
+   "code": "FJI"
+ },
+ {
+   "Year": 2002,
+   "name": "finland",
+   "norm": 21394,
+   "code": "FIN"
+ },
+ {
+   "Year": 2002,
+   "name": "france",
+   "norm": 14771,
+   "code": "FRA"
+ },
+ {
+   "Year": 2002,
+   "name": "french guiana",
+   "norm": 11210,
+   "code": "GUF"
+ },
+ {
+   "Year": 2002,
+   "name": "germany",
+   "norm": 23392,
+   "code": "DEU"
+ },
+ {
+   "Year": 2002,
+   "name": "grenada",
+   "norm": 17736,
+   "code": "GRD"
+ },
+ {
+   "Year": 2002,
+   "name": "guadeloupe",
+   "norm": 15027,
+   "code": "GLP"
+ },
+ {
+   "Year": 2002,
+   "name": "guyana",
+   "norm": 15230,
+   "code": "GUY"
+ },
+ {
+   "Year": 2002,
+   "name": "haiti",
+   "norm": 7822,
+   "code": "HTI"
+ },
+ {
+   "Year": 2002,
+   "name": "hong kong sar",
+   "norm": 12969,
+   "code": "HKG"
+ },
+ {
+   "Year": 2002,
+   "name": "hungary",
+   "norm": 25530,
+   "code": "HUN"
+ },
+ {
+   "Year": 2002,
+   "name": "iceland",
+   "norm": 20444,
+   "code": "ISL"
+ },
+ {
+   "Year": 2002,
+   "name": "israel",
+   "norm": 14974,
+   "code": "ISR"
+ },
+ {
+   "Year": 2002,
+   "name": "jamaica",
+   "norm": 13416,
+   "code": "JAM"
+ },
+ {
+   "Year": 2002,
+   "name": "japan",
+   "norm": 15426,
+   "code": "JPN"
+ },
+ {
+   "Year": 2002,
+   "name": "kuwait",
+   "norm": 19702,
+   "code": "KWT"
+ },
+ {
+   "Year": 2002,
+   "name": "kyrgyzstan",
+   "norm": 23814,
+   "code": "KGZ"
+ },
+ {
+   "Year": 2002,
+   "name": "latvia",
+   "norm": 27984,
+   "code": "LVA"
+ },
+ {
+   "Year": 2002,
+   "name": "lithuania",
+   "norm": 27185,
+   "code": "LTU"
+ },
+ {
+   "Year": 2002,
+   "name": "luxembourg",
+   "norm": 19608,
+   "code": "LUX"
+ },
+ {
+   "Year": 2002,
+   "name": "malaysia",
+   "norm": 13754,
+   "code": "MYS"
+ },
+ {
+   "Year": 2002,
+   "name": "maldives",
+   "norm": 14279,
+   "code": "MDV"
+ },
+ {
+   "Year": 2002,
+   "name": "malta",
+   "norm": 22038,
+   "code": "MLT"
+ },
+ {
+   "Year": 2002,
+   "name": "martinique",
+   "norm": 15251,
+   "code": "MTQ"
+ },
+ {
+   "Year": 2002,
+   "name": "mexico",
+   "norm": 11350,
+   "code": "MEX"
+ },
+ {
+   "Year": 2002,
+   "name": "montenegro",
+   "norm": 24541,
+   "code": "MNE"
+ },
+ {
+   "Year": 2002,
+   "name": "montserrat",
+   "norm": 19318,
+   "code": "MSR"
+ },
+ {
+   "Year": 2002,
+   "name": "morocco",
+   "norm": 8792,
+   "code": "MAR"
+ },
+ {
+   "Year": 2002,
+   "name": "netherlands",
+   "norm": 16856,
+   "code": "NLD"
+ },
+ {
+   "Year": 2002,
+   "name": "new zealand",
+   "norm": 20106,
+   "code": "NZL"
+ },
+ {
+   "Year": 2002,
+   "name": "nicaragua",
+   "norm": 12714,
+   "code": "NIC"
+ },
+ {
+   "Year": 2002,
+   "name": "norway",
+   "norm": 19866,
+   "code": "NOR"
+ },
+ {
+   "Year": 2002,
+   "name": "panama",
+   "norm": 13043,
+   "code": "PAN"
+ },
+ {
+   "Year": 2002,
+   "name": "paraguay",
+   "norm": 10922,
+   "code": "PRY"
+ },
+ {
+   "Year": 2002,
+   "name": "peru",
+   "norm": 8968,
+   "code": "PER"
+ },
+ {
+   "Year": 2002,
+   "name": "philippines",
+   "norm": 15107,
+   "code": "PHL"
+ },
+ {
+   "Year": 2002,
+   "name": "poland",
+   "norm": 23547,
+   "code": "POL"
+ },
+ {
+   "Year": 2002,
+   "name": "portugal",
+   "norm": 19215,
+   "code": "PRT"
+ },
+ {
+   "Year": 2002,
+   "name": "puerto rico",
+   "norm": 14510,
+   "code": "PRI"
+ },
+ {
+   "Year": 2002,
+   "name": "republic of korea",
+   "norm": 12485,
+   "code": "PRK"
+ },
+ {
+   "Year": 2002,
+   "name": "republic of moldova",
+   "norm": 28336,
+   "code": "MDA"
+ },
+ {
+   "Year": 2002,
+   "name": "reunion",
+   "norm": 15158,
+   "code": "REU"
+ },
+ {
+   "Year": 2002,
+   "name": "romania",
+   "norm": 31030,
+   "code": "ROU"
+ },
+ {
+   "Year": 2002,
+   "name": "saint kitts and nevis",
+   "norm": 21813,
+   "code": "KNA"
+ },
+ {
+   "Year": 2002,
+   "name": "saint lucia",
+   "norm": 13510,
+   "code": "LCA"
+ },
+ {
+   "Year": 2002,
+   "name": "saint vincent and grenadines",
+   "norm": 16535,
+   "code": "VCT"
+ },
+ {
+   "Year": 2002,
+   "name": "serbia",
+   "norm": 27608,
+   "code": "SRB"
+ },
+ {
+   "Year": 2002,
+   "name": "serbia and montenegro, former",
+   "norm": 27452,
+   "code": "SCG"
+ },
+ {
+   "Year": 2002,
+   "name": "slovakia",
+   "norm": 27162,
+   "code": "SVK"
+ },
+ {
+   "Year": 2002,
+   "name": "slovenia",
+   "norm": 19164,
+   "code": "SVL"
+ },
+ {
+   "Year": 2002,
+   "name": "south africa",
+   "norm": 7658,
+   "code": "ZAF"
+ },
+ {
+   "Year": 2002,
+   "name": "spain",
+   "norm": 17063,
+   "code": "ESP"
+ },
+ {
+   "Year": 2002,
+   "name": "suriname",
+   "norm": 14868,
+   "code": "SUR"
+ },
+ {
+   "Year": 2002,
+   "name": "sweden",
+   "norm": 22289,
+   "code": "SWE"
+ },
+ {
+   "Year": 2002,
+   "name": "switzerland",
+   "norm": 19215,
+   "code": "CHE"
+ },
+ {
+   "Year": 2002,
+   "name": "thailand",
+   "norm": 4320,
+   "code": "THA"
+ },
+ {
+   "Year": 2002,
+   "name": "trinidad and tobago",
+   "norm": 18469,
+   "code": "TTO"
+ },
+ {
+   "Year": 2002,
+   "name": "turks and caicos islands",
+   "norm": 12790,
+   "code": "TCA"
+ },
+ {
+   "Year": 2002,
+   "name": "united kingdom",
+   "norm": 19598,
+   "code": "GBR"
+ },
+ {
+   "Year": 2002,
+   "name": "united kingdom, england and wales",
+   "norm": 19605,
+   "code": "GBR"
+ },
+ {
+   "Year": 2002,
+   "name": "united kingdom, northern ireland",
+   "norm": 19635,
+   "code": "GBR"
+ },
+ {
+   "Year": 2002,
+   "name": "united kingdom, scotland",
+   "norm": 19523,
+   "code": "GBR"
+ },
+ {
+   "Year": 2002,
+   "name": "united states of america",
+   "norm": 18894,
+   "code": "USA"
+ },
+ {
+   "Year": 2002,
+   "name": "uruguay",
+   "norm": 16443,
+   "code": "URY"
+ },
+ {
+   "Year": 2002,
+   "name": "venezuela",
+   "norm": 14756,
+   "code": "VEN"
+ },
+ {
+   "Year": 2002,
+   "name": "virgin islands (usa)",
+   "norm": 19286,
+   "code": "VIR"
+ },
+ {
+   "Year": 2003,
+   "name": "anguilla",
+   "norm": 14285,
+   "code": "AIA"
+ },
+ {
+   "Year": 2003,
+   "name": "antigua and barbuda",
+   "norm": 20399,
+   "code": "ATG"
+ },
+ {
+   "Year": 2003,
+   "name": "argentina",
+   "norm": 15740,
+   "code": "ARG"
+ },
+ {
+   "Year": 2003,
+   "name": "aruba",
+   "norm": 17786,
+   "code": "ABW"
+ },
+ {
+   "Year": 2003,
+   "name": "australia",
+   "norm": 18440,
+   "code": "AUS"
+ },
+ {
+   "Year": 2003,
+   "name": "austria",
+   "norm": 22610,
+   "code": "AUT"
+ },
+ {
+   "Year": 2003,
+   "name": "bahamas",
+   "norm": 15281,
+   "code": "BHS"
+ },
+ {
+   "Year": 2003,
+   "name": "bahrain",
+   "norm": 15567,
+   "code": "BHR"
+ },
+ {
+   "Year": 2003,
+   "name": "barbados",
+   "norm": 15955,
+   "code": "BRB"
+ },
+ {
+   "Year": 2003,
+   "name": "belgium",
+   "norm": 17450,
+   "code": "BEL"
+ },
+ {
+   "Year": 2003,
+   "name": "belize",
+   "norm": 12725,
+   "code": "BLZ"
+ },
+ {
+   "Year": 2003,
+   "name": "bermuda",
+   "norm": 15148,
+   "code": "BMU"
+ },
+ {
+   "Year": 2003,
+   "name": "bolivia",
+   "norm": 5075,
+   "code": "BOL"
+ },
+ {
+   "Year": 2003,
+   "name": "brazil",
+   "norm": 13671,
+   "code": "BRA"
+ },
+ {
+   "Year": 2003,
+   "name": "british virgin islands",
+   "norm": 18269,
+   "code": "VGB"
+ },
+ {
+   "Year": 2003,
+   "name": "canada",
+   "norm": 16415,
+   "code": "CAN"
+ },
+ {
+   "Year": 2003,
+   "name": "cayman islands",
+   "norm": 16911,
+   "code": "CYM"
+ },
+ {
+   "Year": 2003,
+   "name": "chile",
+   "norm": 14204,
+   "code": "CHL"
+ },
+ {
+   "Year": 2003,
+   "name": "colombia",
+   "norm": 14094,
+   "code": "COL"
+ },
+ {
+   "Year": 2003,
+   "name": "costa rica",
+   "norm": 14218,
+   "code": "CRI"
+ },
+ {
+   "Year": 2003,
+   "name": "croatia",
+   "norm": 26506,
+   "code": "HRV"
+ },
+ {
+   "Year": 2003,
+   "name": "cuba",
+   "norm": 20426,
+   "code": "CUB"
+ },
+ {
+   "Year": 2003,
+   "name": "czech republic",
+   "norm": 26087,
+   "code": "CZE"
+ },
+ {
+   "Year": 2003,
+   "name": "denmark",
+   "norm": 17286,
+   "code": "DNK"
+ },
+ {
+   "Year": 2003,
+   "name": "dominica",
+   "norm": 16427,
+   "code": "DMA"
+ },
+ {
+   "Year": 2003,
+   "name": "dominican republic",
+   "norm": 14996,
+   "code": "DOM"
+ },
+ {
+   "Year": 2003,
+   "name": "ecuador",
+   "norm": 11791,
+   "code": "ECU"
+ },
+ {
+   "Year": 2003,
+   "name": "egypt",
+   "norm": 20438,
+   "code": "EGY"
+ },
+ {
+   "Year": 2003,
+   "name": "el salvador",
+   "norm": 9528,
+   "code": "SLV"
+ },
+ {
+   "Year": 2003,
+   "name": "estonia",
+   "norm": 27412,
+   "code": "EST"
+ },
+ {
+   "Year": 2003,
+   "name": "fiji",
+   "norm": 20152,
+   "code": "FJI"
+ },
+ {
+   "Year": 2003,
+   "name": "finland",
+   "norm": 21184,
+   "code": "FIN"
+ },
+ {
+   "Year": 2003,
+   "name": "france",
+   "norm": 14466,
+   "code": "FRA"
+ },
+ {
+   "Year": 2003,
+   "name": "french guiana",
+   "norm": 11095,
+   "code": "GUF"
+ },
+ {
+   "Year": 2003,
+   "name": "germany",
+   "norm": 23222,
+   "code": "DEU"
+ },
+ {
+   "Year": 2003,
+   "name": "grenada",
+   "norm": 16748,
+   "code": "GRD"
+ },
+ {
+   "Year": 2003,
+   "name": "guadeloupe",
+   "norm": 14669,
+   "code": "GLP"
+ },
+ {
+   "Year": 2003,
+   "name": "guyana",
+   "norm": 16937,
+   "code": "GUY"
+ },
+ {
+   "Year": 2003,
+   "name": "haiti",
+   "norm": 8806,
+   "code": "HTI"
+ },
+ {
+   "Year": 2003,
+   "name": "hong kong sar",
+   "norm": 13226,
+   "code": "HKG"
+ },
+ {
+   "Year": 2003,
+   "name": "hungary",
+   "norm": 25419,
+   "code": "HUN"
+ },
+ {
+   "Year": 2003,
+   "name": "iceland",
+   "norm": 20016,
+   "code": "ISL"
+ },
+ {
+   "Year": 2003,
+   "name": "israel",
+   "norm": 14724,
+   "code": "ISR"
+ },
+ {
+   "Year": 2003,
+   "name": "italy",
+   "norm": 20526,
+   "code": "ITA"
+ },
+ {
+   "Year": 2003,
+   "name": "jamaica",
+   "norm": 15716,
+   "code": "JAM"
+ },
+ {
+   "Year": 2003,
+   "name": "japan",
+   "norm": 15389,
+   "code": "JPN"
+ },
+ {
+   "Year": 2003,
+   "name": "kuwait",
+   "norm": 20445,
+   "code": "KWT"
+ },
+ {
+   "Year": 2003,
+   "name": "kyrgyzstan",
+   "norm": 23556,
+   "code": "KGZ"
+ },
+ {
+   "Year": 2003,
+   "name": "latvia",
+   "norm": 28062,
+   "code": "LVA"
+ },
+ {
+   "Year": 2003,
+   "name": "lithuania",
+   "norm": 27195,
+   "code": "LTU"
+ },
+ {
+   "Year": 2003,
+   "name": "luxembourg",
+   "norm": 19618,
+   "code": "LUX"
+ },
+ {
+   "Year": 2003,
+   "name": "malaysia",
+   "norm": 13219,
+   "code": "MYS"
+ },
+ {
+   "Year": 2003,
+   "name": "maldives",
+   "norm": 20974,
+   "code": "MDV"
+ },
+ {
+   "Year": 2003,
+   "name": "malta",
+   "norm": 21728,
+   "code": "MLT"
+ },
+ {
+   "Year": 2003,
+   "name": "martinique",
+   "norm": 14649,
+   "code": "MTQ"
+ },
+ {
+   "Year": 2003,
+   "name": "mexico",
+   "norm": 11426,
+   "code": "MEX"
+ },
+ {
+   "Year": 2003,
+   "name": "montenegro",
+   "norm": 25184,
+   "code": "MNE"
+ },
+ {
+   "Year": 2003,
+   "name": "montserrat",
+   "norm": 16363,
+   "code": "MSR"
+ },
+ {
+   "Year": 2003,
+   "name": "morocco",
+   "norm": 9027,
+   "code": "MAR"
+ },
+ {
+   "Year": 2003,
+   "name": "netherlands",
+   "norm": 16536,
+   "code": "NLD"
+ },
+ {
+   "Year": 2003,
+   "name": "new zealand",
+   "norm": 19748,
+   "code": "NZL"
+ },
+ {
+   "Year": 2003,
+   "name": "nicaragua",
+   "norm": 12940,
+   "code": "NIC"
+ },
+ {
+   "Year": 2003,
+   "name": "norway",
+   "norm": 19533,
+   "code": "NOR"
+ },
+ {
+   "Year": 2003,
+   "name": "panama",
+   "norm": 13069,
+   "code": "PAN"
+ },
+ {
+   "Year": 2003,
+   "name": "paraguay",
+   "norm": 10703,
+   "code": "PRY"
+ },
+ {
+   "Year": 2003,
+   "name": "peru",
+   "norm": 9142,
+   "code": "PER"
+ },
+ {
+   "Year": 2003,
+   "name": "philippines",
+   "norm": 15083,
+   "code": "PHL"
+ },
+ {
+   "Year": 2003,
+   "name": "poland",
+   "norm": 23586,
+   "code": "POL"
+ },
+ {
+   "Year": 2003,
+   "name": "portugal",
+   "norm": 18797,
+   "code": "PRT"
+ },
+ {
+   "Year": 2003,
+   "name": "puerto rico",
+   "norm": 14619,
+   "code": "PRI"
+ },
+ {
+   "Year": 2003,
+   "name": "republic of korea",
+   "norm": 12269,
+   "code": "PRK"
+ },
+ {
+   "Year": 2003,
+   "name": "republic of moldova",
+   "norm": 28491,
+   "code": "MDA"
+ },
+ {
+   "Year": 2003,
+   "name": "reunion",
+   "norm": 14872,
+   "code": "REU"
+ },
+ {
+   "Year": 2003,
+   "name": "romania",
+   "norm": 31065,
+   "code": "ROU"
+ },
+ {
+   "Year": 2003,
+   "name": "saint kitts and nevis",
+   "norm": 22237,
+   "code": "KNA"
+ },
+ {
+   "Year": 2003,
+   "name": "saint lucia",
+   "norm": 15711,
+   "code": "LCA"
+ },
+ {
+   "Year": 2003,
+   "name": "saint vincent and grenadines",
+   "norm": 16795,
+   "code": "VCT"
+ },
+ {
+   "Year": 2003,
+   "name": "serbia",
+   "norm": 27598,
+   "code": "SRB"
+ },
+ {
+   "Year": 2003,
+   "name": "slovakia",
+   "norm": 26934,
+   "code": "SVK"
+ },
+ {
+   "Year": 2003,
+   "name": "slovenia",
+   "norm": 18860,
+   "code": "SVL"
+ },
+ {
+   "Year": 2003,
+   "name": "south africa",
+   "norm": 7439,
+   "code": "ZAF"
+ },
+ {
+   "Year": 2003,
+   "name": "spain",
+   "norm": 16862,
+   "code": "ESP"
+ },
+ {
+   "Year": 2003,
+   "name": "suriname",
+   "norm": 15968,
+   "code": "SUR"
+ },
+ {
+   "Year": 2003,
+   "name": "sweden",
+   "norm": 22163,
+   "code": "SWE"
+ },
+ {
+   "Year": 2003,
+   "name": "switzerland",
+   "norm": 18942,
+   "code": "CHE"
+ },
+ {
+   "Year": 2003,
+   "name": "thailand",
+   "norm": 5218,
+   "code": "THA"
+ },
+ {
+   "Year": 2003,
+   "name": "trinidad and tobago",
+   "norm": 18131,
+   "code": "TTO"
+ },
+ {
+   "Year": 2003,
+   "name": "turks and caicos islands",
+   "norm": 14516,
+   "code": "TCA"
+ },
+ {
+   "Year": 2003,
+   "name": "united kingdom",
+   "norm": 19049,
+   "code": "GBR"
+ },
+ {
+   "Year": 2003,
+   "name": "united kingdom, england and wales",
+   "norm": 19071,
+   "code": "GBR"
+ },
+ {
+   "Year": 2003,
+   "name": "united kingdom, northern ireland",
+   "norm": 18835,
+   "code": "GBR"
+ },
+ {
+   "Year": 2003,
+   "name": "united kingdom, scotland",
+   "norm": 18899,
+   "code": "GBR"
+ },
+ {
+   "Year": 2003,
+   "name": "united states of america",
+   "norm": 18526,
+   "code": "USA"
+ },
+ {
+   "Year": 2003,
+   "name": "uruguay",
+   "norm": 16789,
+   "code": "URY"
+ },
+ {
+   "Year": 2003,
+   "name": "venezuela",
+   "norm": 14579,
+   "code": "VEN"
+ },
+ {
+   "Year": 2003,
+   "name": "virgin islands (usa)",
+   "norm": 18858,
+   "code": "VIR"
+ },
+ {
+   "Year": 2004,
+   "name": "anguilla",
+   "norm": 14583,
+   "code": "AIA"
+ },
+ {
+   "Year": 2004,
+   "name": "antigua and barbuda",
+   "norm": 17123,
+   "code": "ATG"
+ },
+ {
+   "Year": 2004,
+   "name": "argentina",
+   "norm": 15473,
+   "code": "ARG"
+ },
+ {
+   "Year": 2004,
+   "name": "aruba",
+   "norm": 18137,
+   "code": "ABW"
+ },
+ {
+   "Year": 2004,
+   "name": "australia",
+   "norm": 17966,
+   "code": "AUS"
+ },
+ {
+   "Year": 2004,
+   "name": "austria",
+   "norm": 21863,
+   "code": "AUT"
+ },
+ {
+   "Year": 2004,
+   "name": "bahamas",
+   "norm": 17190,
+   "code": "BHS"
+ },
+ {
+   "Year": 2004,
+   "name": "bahrain",
+   "norm": 13428,
+   "code": "BHR"
+ },
+ {
+   "Year": 2004,
+   "name": "barbados",
+   "norm": 14437,
+   "code": "BRB"
+ },
+ {
+   "Year": 2004,
+   "name": "belgium",
+   "norm": 17433,
+   "code": "BEL"
+ },
+ {
+   "Year": 2004,
+   "name": "belize",
+   "norm": 11825,
+   "code": "BLZ"
+ },
+ {
+   "Year": 2004,
+   "name": "bermuda",
+   "norm": 19471,
+   "code": "BMU"
+ },
+ {
+   "Year": 2004,
+   "name": "brazil",
+   "norm": 13941,
+   "code": "BRA"
+ },
+ {
+   "Year": 2004,
+   "name": "british virgin islands",
+   "norm": 16806,
+   "code": "VGB"
+ },
+ {
+   "Year": 2004,
+   "name": "canada",
+   "norm": 16052,
+   "code": "CAN"
+ },
+ {
+   "Year": 2004,
+   "name": "cayman islands",
+   "norm": 14506,
+   "code": "CYM"
+ },
+ {
+   "Year": 2004,
+   "name": "chile",
+   "norm": 14086,
+   "code": "CHL"
+ },
+ {
+   "Year": 2004,
+   "name": "colombia",
+   "norm": 14365,
+   "code": "COL"
+ },
+ {
+   "Year": 2004,
+   "name": "costa rica",
+   "norm": 14509,
+   "code": "CRI"
+ },
+ {
+   "Year": 2004,
+   "name": "croatia",
+   "norm": 25081,
+   "code": "HRV"
+ },
+ {
+   "Year": 2004,
+   "name": "cuba",
+   "norm": 20222,
+   "code": "CUB"
+ },
+ {
+   "Year": 2004,
+   "name": "cyprus",
+   "norm": 19263,
+   "code": "CYP"
+ },
+ {
+   "Year": 2004,
+   "name": "czech republic",
+   "norm": 25678,
+   "code": "CZE"
+ },
+ {
+   "Year": 2004,
+   "name": "denmark",
+   "norm": 16659,
+   "code": "DNK"
+ },
+ {
+   "Year": 2004,
+   "name": "dominica",
+   "norm": 17594,
+   "code": "DMA"
+ },
+ {
+   "Year": 2004,
+   "name": "dominican republic",
+   "norm": 15212,
+   "code": "DOM"
+ },
+ {
+   "Year": 2004,
+   "name": "ecuador",
+   "norm": 11070,
+   "code": "ECU"
+ },
+ {
+   "Year": 2004,
+   "name": "egypt",
+   "norm": 21752,
+   "code": "EGY"
+ },
+ {
+   "Year": 2004,
+   "name": "el salvador",
+   "norm": 9170,
+   "code": "SLV"
+ },
+ {
+   "Year": 2004,
+   "name": "estonia",
+   "norm": 26581,
+   "code": "EST"
+ },
+ {
+   "Year": 2004,
+   "name": "fiji",
+   "norm": 19367,
+   "code": "FJI"
+ },
+ {
+   "Year": 2004,
+   "name": "finland",
+   "norm": 20685,
+   "code": "FIN"
+ },
+ {
+   "Year": 2004,
+   "name": "france",
+   "norm": 14459,
+   "code": "FRA"
+ },
+ {
+   "Year": 2004,
+   "name": "french guiana",
+   "norm": 9318,
+   "code": "GUF"
+ },
+ {
+   "Year": 2004,
+   "name": "georgia",
+   "norm": 32218,
+   "code": "GEO"
+ },
+ {
+   "Year": 2004,
+   "name": "germany",
+   "norm": 22515,
+   "code": "DEU"
+ },
+ {
+   "Year": 2004,
+   "name": "grenada",
+   "norm": 17713,
+   "code": "GRD"
+ },
+ {
+   "Year": 2004,
+   "name": "guadeloupe",
+   "norm": 15587,
+   "code": "GLP"
+ },
+ {
+   "Year": 2004,
+   "name": "guyana",
+   "norm": 17311,
+   "code": "GUY"
+ },
+ {
+   "Year": 2004,
+   "name": "haiti",
+   "norm": 9787,
+   "code": "HTI"
+ },
+ {
+   "Year": 2004,
+   "name": "hong kong sar",
+   "norm": 13592,
+   "code": "HKG"
+ },
+ {
+   "Year": 2004,
+   "name": "hungary",
+   "norm": 25346,
+   "code": "HUN"
+ },
+ {
+   "Year": 2004,
+   "name": "iceland",
+   "norm": 20065,
+   "code": "ISL"
+ },
+ {
+   "Year": 2004,
+   "name": "israel",
+   "norm": 14606,
+   "code": "ISR"
+ },
+ {
+   "Year": 2004,
+   "name": "italy",
+   "norm": 20027,
+   "code": "ITA"
+ },
+ {
+   "Year": 2004,
+   "name": "jamaica",
+   "norm": 16972,
+   "code": "JAM"
+ },
+ {
+   "Year": 2004,
+   "name": "japan",
+   "norm": 15112,
+   "code": "JPN"
+ },
+ {
+   "Year": 2004,
+   "name": "kuwait",
+   "norm": 20070,
+   "code": "KWT"
+ },
+ {
+   "Year": 2004,
+   "name": "kyrgyzstan",
+   "norm": 23096,
+   "code": "KGZ"
+ },
+ {
+   "Year": 2004,
+   "name": "latvia",
+   "norm": 27926,
+   "code": "LVA"
+ },
+ {
+   "Year": 2004,
+   "name": "lithuania",
+   "norm": 27250,
+   "code": "LTU"
+ },
+ {
+   "Year": 2004,
+   "name": "luxembourg",
+   "norm": 19494,
+   "code": "LUX"
+ },
+ {
+   "Year": 2004,
+   "name": "malaysia",
+   "norm": 12962,
+   "code": "MYS"
+ },
+ {
+   "Year": 2004,
+   "name": "maldives",
+   "norm": 9182,
+   "code": "MDV"
+ },
+ {
+   "Year": 2004,
+   "name": "malta",
+   "norm": 20923,
+   "code": "MLT"
+ },
+ {
+   "Year": 2004,
+   "name": "martinique",
+   "norm": 14884,
+   "code": "MTQ"
+ },
+ {
+   "Year": 2004,
+   "name": "mexico",
+   "norm": 11375,
+   "code": "MEX"
+ },
+ {
+   "Year": 2004,
+   "name": "montenegro",
+   "norm": 25929,
+   "code": "MNE"
+ },
+ {
+   "Year": 2004,
+   "name": "montserrat",
+   "norm": 23214,
+   "code": "MSR"
+ },
+ {
+   "Year": 2004,
+   "name": "morocco",
+   "norm": 9137,
+   "code": "MAR"
+ },
+ {
+   "Year": 2004,
+   "name": "netherlands",
+   "norm": 16344,
+   "code": "NLD"
+ },
+ {
+   "Year": 2004,
+   "name": "new zealand",
+   "norm": 19718,
+   "code": "NZL"
+ },
+ {
+   "Year": 2004,
+   "name": "nicaragua",
+   "norm": 12930,
+   "code": "NIC"
+ },
+ {
+   "Year": 2004,
+   "name": "norway",
+   "norm": 19223,
+   "code": "NOR"
+ },
+ {
+   "Year": 2004,
+   "name": "panama",
+   "norm": 13481,
+   "code": "PAN"
+ },
+ {
+   "Year": 2004,
+   "name": "paraguay",
+   "norm": 12069,
+   "code": "PRY"
+ },
+ {
+   "Year": 2004,
+   "name": "peru",
+   "norm": 9061,
+   "code": "PER"
+ },
+ {
+   "Year": 2004,
+   "name": "poland",
+   "norm": 23199,
+   "code": "POL"
+ },
+ {
+   "Year": 2004,
+   "name": "puerto rico",
+   "norm": 14345,
+   "code": "PRI"
+ },
+ {
+   "Year": 2004,
+   "name": "qatar",
+   "norm": 9428,
+   "code": "QAT"
+ },
+ {
+   "Year": 2004,
+   "name": "republic of korea",
+   "norm": 11899,
+   "code": "PRK"
+ },
+ {
+   "Year": 2004,
+   "name": "republic of moldova",
+   "norm": 28265,
+   "code": "MDA"
+ },
+ {
+   "Year": 2004,
+   "name": "reunion",
+   "norm": 15708,
+   "code": "REU"
+ },
+ {
+   "Year": 2004,
+   "name": "romania",
+   "norm": 30756,
+   "code": "ROU"
+ },
+ {
+   "Year": 2004,
+   "name": "saint kitts and nevis",
+   "norm": 20454,
+   "code": "KNA"
+ },
+ {
+   "Year": 2004,
+   "name": "saint lucia",
+   "norm": 13691,
+   "code": "LCA"
+ },
+ {
+   "Year": 2004,
+   "name": "saint vincent and grenadines",
+   "norm": 14904,
+   "code": "VCT"
+ },
+ {
+   "Year": 2004,
+   "name": "serbia",
+   "norm": 27256,
+   "code": "SRB"
+ },
+ {
+   "Year": 2004,
+   "name": "slovakia",
+   "norm": 27047,
+   "code": "SVK"
+ },
+ {
+   "Year": 2004,
+   "name": "slovenia",
+   "norm": 19195,
+   "code": "SVL"
+ },
+ {
+   "Year": 2004,
+   "name": "south africa",
+   "norm": 6965,
+   "code": "ZAF"
+ },
+ {
+   "Year": 2004,
+   "name": "spain",
+   "norm": 16651,
+   "code": "ESP"
+ },
+ {
+   "Year": 2004,
+   "name": "sri lanka",
+   "norm": 11686,
+   "code": "LKA"
+ },
+ {
+   "Year": 2004,
+   "name": "suriname",
+   "norm": 16337,
+   "code": "SUR"
+ },
+ {
+   "Year": 2004,
+   "name": "sweden",
+   "norm": 21439,
+   "code": "SWE"
+ },
+ {
+   "Year": 2004,
+   "name": "switzerland",
+   "norm": 18653,
+   "code": "CHE"
+ },
+ {
+   "Year": 2004,
+   "name": "thailand",
+   "norm": 5024,
+   "code": "THA"
+ },
+ {
+   "Year": 2004,
+   "name": "trinidad and tobago",
+   "norm": 17823,
+   "code": "TTO"
+ },
+ {
+   "Year": 2004,
+   "name": "turks and caicos islands",
+   "norm": 13636,
+   "code": "TCA"
+ },
+ {
+   "Year": 2004,
+   "name": "united kingdom",
+   "norm": 18544,
+   "code": "GBR"
+ },
+ {
+   "Year": 2004,
+   "name": "united kingdom, england and wales",
+   "norm": 18549,
+   "code": "GBR"
+ },
+ {
+   "Year": 2004,
+   "name": "united kingdom, northern ireland",
+   "norm": 18364,
+   "code": "GBR"
+ },
+ {
+   "Year": 2004,
+   "name": "united kingdom, scotland",
+   "norm": 18542,
+   "code": "GBR"
+ },
+ {
+   "Year": 2004,
+   "name": "united states of america",
+   "norm": 18056,
+   "code": "USA"
+ },
+ {
+   "Year": 2004,
+   "name": "uruguay",
+   "norm": 16503,
+   "code": "URY"
+ },
+ {
+   "Year": 2004,
+   "name": "uzbekistan",
+   "norm": 27337,
+   "code": "UZB"
+ },
+ {
+   "Year": 2004,
+   "name": "venezuela",
+   "norm": 14897,
+   "code": "VEN"
+ },
+ {
+   "Year": 2004,
+   "name": "virgin islands (usa)",
+   "norm": 18690,
+   "code": "VIR"
+ },
+ {
+   "Year": 2005,
+   "name": "anguilla",
+   "norm": 11607,
+   "code": "AIA"
+ },
+ {
+   "Year": 2005,
+   "name": "antigua and barbuda",
+   "norm": 19529,
+   "code": "ATG"
+ },
+ {
+   "Year": 2005,
+   "name": "argentina",
+   "norm": 15273,
+   "code": "ARG"
+ },
+ {
+   "Year": 2005,
+   "name": "aruba",
+   "norm": 14154,
+   "code": "ABW"
+ },
+ {
+   "Year": 2005,
+   "name": "austria",
+   "norm": 21702,
+   "code": "AUT"
+ },
+ {
+   "Year": 2005,
+   "name": "bahamas",
+   "norm": 16310,
+   "code": "BHS"
+ },
+ {
+   "Year": 2005,
+   "name": "bahrain",
+   "norm": 11896,
+   "code": "BHR"
+ },
+ {
+   "Year": 2005,
+   "name": "barbados",
+   "norm": 14043,
+   "code": "BRB"
+ },
+ {
+   "Year": 2005,
+   "name": "belgium",
+   "norm": 16806,
+   "code": "BEL"
+ },
+ {
+   "Year": 2005,
+   "name": "belize",
+   "norm": 11468,
+   "code": "BLZ"
+ },
+ {
+   "Year": 2005,
+   "name": "bermuda",
+   "norm": 17780,
+   "code": "BMU"
+ },
+ {
+   "Year": 2005,
+   "name": "brazil",
+   "norm": 14099,
+   "code": "BRA"
+ },
+ {
+   "Year": 2005,
+   "name": "bulgaria",
+   "norm": 33046,
+   "code": "BGR"
+ },
+ {
+   "Year": 2005,
+   "name": "canada",
+   "norm": 15588,
+   "code": "CAN"
+ },
+ {
+   "Year": 2005,
+   "name": "cayman islands",
+   "norm": 16772,
+   "code": "CYM"
+ },
+ {
+   "Year": 2005,
+   "name": "chile",
+   "norm": 14105,
+   "code": "CHL"
+ },
+ {
+   "Year": 2005,
+   "name": "colombia",
+   "norm": 14778,
+   "code": "COL"
+ },
+ {
+   "Year": 2005,
+   "name": "costa rica",
+   "norm": 14646,
+   "code": "CRI"
+ },
+ {
+   "Year": 2005,
+   "name": "croatia",
+   "norm": 25129,
+   "code": "HRV"
+ },
+ {
+   "Year": 2005,
+   "name": "cuba",
+   "norm": 20510,
+   "code": "CUB"
+ },
+ {
+   "Year": 2005,
+   "name": "cyprus",
+   "norm": 19585,
+   "code": "CYP"
+ },
+ {
+   "Year": 2005,
+   "name": "czech republic",
+   "norm": 25549,
+   "code": "CZE"
+ },
+ {
+   "Year": 2005,
+   "name": "denmark",
+   "norm": 16119,
+   "code": "DNK"
+ },
+ {
+   "Year": 2005,
+   "name": "dominica",
+   "norm": 16053,
+   "code": "DMA"
+ },
+ {
+   "Year": 2005,
+   "name": "dominican republic",
+   "norm": 15724,
+   "code": "DOM"
+ },
+ {
+   "Year": 2005,
+   "name": "ecuador",
+   "norm": 11221,
+   "code": "ECU"
+ },
+ {
+   "Year": 2005,
+   "name": "egypt",
+   "norm": 22359,
+   "code": "EGY"
+ },
+ {
+   "Year": 2005,
+   "name": "el salvador",
+   "norm": 8932,
+   "code": "SLV"
+ },
+ {
+   "Year": 2005,
+   "name": "estonia",
+   "norm": 26654,
+   "code": "EST"
+ },
+ {
+   "Year": 2005,
+   "name": "fiji",
+   "norm": 19884,
+   "code": "FJI"
+ },
+ {
+   "Year": 2005,
+   "name": "finland",
+   "norm": 20694,
+   "code": "FIN"
+ },
+ {
+   "Year": 2005,
+   "name": "france",
+   "norm": 14202,
+   "code": "FRA"
+ },
+ {
+   "Year": 2005,
+   "name": "french guiana",
+   "norm": 10270,
+   "code": "GUF"
+ },
+ {
+   "Year": 2005,
+   "name": "georgia",
+   "norm": 33750,
+   "code": "GEO"
+ },
+ {
+   "Year": 2005,
+   "name": "germany",
+   "norm": 22124,
+   "code": "DEU"
+ },
+ {
+   "Year": 2005,
+   "name": "grenada",
+   "norm": 18860,
+   "code": "GRD"
+ },
+ {
+   "Year": 2005,
+   "name": "guadeloupe",
+   "norm": 14742,
+   "code": "GLP"
+ },
+ {
+   "Year": 2005,
+   "name": "guatemala",
+   "norm": 6161,
+   "code": "GTM"
+ },
+ {
+   "Year": 2005,
+   "name": "guyana",
+   "norm": 16762,
+   "code": "GUY"
+ },
+ {
+   "Year": 2005,
+   "name": "hong kong sar",
+   "norm": 13103,
+   "code": "HKG"
+ },
+ {
+   "Year": 2005,
+   "name": "hungary",
+   "norm": 26131,
+   "code": "HUN"
+ },
+ {
+   "Year": 2005,
+   "name": "iceland",
+   "norm": 17855,
+   "code": "ISL"
+ },
+ {
+   "Year": 2005,
+   "name": "israel",
+   "norm": 14298,
+   "code": "ISR"
+ },
+ {
+   "Year": 2005,
+   "name": "italy",
+   "norm": 20079,
+   "code": "ITA"
+ },
+ {
+   "Year": 2005,
+   "name": "jamaica",
+   "norm": 13139,
+   "code": "JAM"
+ },
+ {
+   "Year": 2005,
+   "name": "japan",
+   "norm": 15200,
+   "code": "JPN"
+ },
+ {
+   "Year": 2005,
+   "name": "kuwait",
+   "norm": 20401,
+   "code": "KWT"
+ },
+ {
+   "Year": 2005,
+   "name": "kyrgyzstan",
+   "norm": 23669,
+   "code": "KGZ"
+ },
+ {
+   "Year": 2005,
+   "name": "latvia",
+   "norm": 27572,
+   "code": "LVA"
+ },
+ {
+   "Year": 2005,
+   "name": "lithuania",
+   "norm": 27195,
+   "code": "LTU"
+ },
+ {
+   "Year": 2005,
+   "name": "luxembourg",
+   "norm": 19692,
+   "code": "LUX"
+ },
+ {
+   "Year": 2005,
+   "name": "malaysia",
+   "norm": 13190,
+   "code": "MYS"
+ },
+ {
+   "Year": 2005,
+   "name": "maldives",
+   "norm": 2914,
+   "code": "MDV"
+ },
+ {
+   "Year": 2005,
+   "name": "malta",
+   "norm": 22172,
+   "code": "MLT"
+ },
+ {
+   "Year": 2005,
+   "name": "martinique",
+   "norm": 13202,
+   "code": "MTQ"
+ },
+ {
+   "Year": 2005,
+   "name": "mauritius",
+   "norm": 18665,
+   "code": "MUS"
+ },
+ {
+   "Year": 2005,
+   "name": "mexico",
+   "norm": 11308,
+   "code": "MEX"
+ },
+ {
+   "Year": 2005,
+   "name": "montenegro",
+   "norm": 26425,
+   "code": "MNE"
+ },
+ {
+   "Year": 2005,
+   "name": "montserrat",
+   "norm": 24576,
+   "code": "MSR"
+ },
+ {
+   "Year": 2005,
+   "name": "netherlands",
+   "norm": 15890,
+   "code": "NLD"
+ },
+ {
+   "Year": 2005,
+   "name": "new zealand",
+   "norm": 19352,
+   "code": "NZL"
+ },
+ {
+   "Year": 2005,
+   "name": "nicaragua",
+   "norm": 12541,
+   "code": "NIC"
+ },
+ {
+   "Year": 2005,
+   "name": "norway",
+   "norm": 17662,
+   "code": "NOR"
+ },
+ {
+   "Year": 2005,
+   "name": "panama",
+   "norm": 14365,
+   "code": "PAN"
+ },
+ {
+   "Year": 2005,
+   "name": "paraguay",
+   "norm": 12179,
+   "code": "PRY"
+ },
+ {
+   "Year": 2005,
+   "name": "peru",
+   "norm": 9376,
+   "code": "PER"
+ },
+ {
+   "Year": 2005,
+   "name": "poland",
+   "norm": 22839,
+   "code": "POL"
+ },
+ {
+   "Year": 2005,
+   "name": "puerto rico",
+   "norm": 14117,
+   "code": "PRI"
+ },
+ {
+   "Year": 2005,
+   "name": "qatar",
+   "norm": 10019,
+   "code": "QAT"
+ },
+ {
+   "Year": 2005,
+   "name": "republic of korea",
+   "norm": 11534,
+   "code": "PRK"
+ },
+ {
+   "Year": 2005,
+   "name": "republic of moldova",
+   "norm": 28156,
+   "code": "MDA"
+ },
+ {
+   "Year": 2005,
+   "name": "reunion",
+   "norm": 15051,
+   "code": "REU"
+ },
+ {
+   "Year": 2005,
+   "name": "rodrigues",
+   "norm": 20982,
+   "code": "MU-RO"
+ },
+ {
+   "Year": 2005,
+   "name": "romania",
+   "norm": 31094,
+   "code": "ROU"
+ },
+ {
+   "Year": 2005,
+   "name": "saint kitts and nevis",
+   "norm": 18679,
+   "code": "KNA"
+ },
+ {
+   "Year": 2005,
+   "name": "saint lucia",
+   "norm": 16402,
+   "code": "LCA"
+ },
+ {
+   "Year": 2005,
+   "name": "saint pierre and miquelon",
+   "norm": 19811,
+   "code": "SPM"
+ },
+ {
+   "Year": 2005,
+   "name": "saint vincent and grenadines",
+   "norm": 16871,
+   "code": "VCT"
+ },
+ {
+   "Year": 2005,
+   "name": "serbia",
+   "norm": 28417,
+   "code": "SRB"
+ },
+ {
+   "Year": 2005,
+   "name": "slovakia",
+   "norm": 27161,
+   "code": "SVK"
+ },
+ {
+   "Year": 2005,
+   "name": "slovenia",
+   "norm": 20313,
+   "code": "SVL"
+ },
+ {
+   "Year": 2005,
+   "name": "south africa",
+   "norm": 6648,
+   "code": "ZAF"
+ },
+ {
+   "Year": 2005,
+   "name": "spain",
+   "norm": 16381,
+   "code": "ESP"
+ },
+ {
+   "Year": 2005,
+   "name": "sri lanka",
+   "norm": 10491,
+   "code": "LKA"
+ },
+ {
+   "Year": 2005,
+   "name": "suriname",
+   "norm": 16767,
+   "code": "SUR"
+ },
+ {
+   "Year": 2005,
+   "name": "sweden",
+   "norm": 21040,
+   "code": "SWE"
+ },
+ {
+   "Year": 2005,
+   "name": "switzerland",
+   "norm": 18700,
+   "code": "CHE"
+ },
+ {
+   "Year": 2005,
+   "name": "thailand",
+   "norm": 4650,
+   "code": "THA"
+ },
+ {
+   "Year": 2005,
+   "name": "trinidad and tobago",
+   "norm": 17339,
+   "code": "TTO"
+ },
+ {
+   "Year": 2005,
+   "name": "turks and caicos islands",
+   "norm": 13207,
+   "code": "TCA"
+ },
+ {
+   "Year": 2005,
+   "name": "united kingdom",
+   "norm": 17902,
+   "code": "GBR"
+ },
+ {
+   "Year": 2005,
+   "name": "united kingdom, england and wales",
+   "norm": 17901,
+   "code": "GBR"
+ },
+ {
+   "Year": 2005,
+   "name": "united kingdom, northern ireland",
+   "norm": 17582,
+   "code": "GBR"
+ },
+ {
+   "Year": 2005,
+   "name": "united kingdom, scotland",
+   "norm": 17991,
+   "code": "GBR"
+ },
+ {
+   "Year": 2005,
+   "name": "united states of america",
+   "norm": 17582,
+   "code": "USA"
+ },
+ {
+   "Year": 2005,
+   "name": "uruguay",
+   "norm": 16182,
+   "code": "URY"
+ },
+ {
+   "Year": 2005,
+   "name": "uzbekistan",
+   "norm": 28137,
+   "code": "UZB"
+ },
+ {
+   "Year": 2005,
+   "name": "venezuela",
+   "norm": 15048,
+   "code": "VEN"
+ },
+ {
+   "Year": 2005,
+   "name": "virgin islands (usa)",
+   "norm": 19683,
+   "code": "VIR"
+ },
+ {
+   "Year": 2006,
+   "name": "anguilla",
+   "norm": 11818,
+   "code": "AIA"
+ },
+ {
+   "Year": 2006,
+   "name": "antigua and barbuda",
+   "norm": 18143,
+   "code": "ATG"
+ },
+ {
+   "Year": 2006,
+   "name": "argentina",
+   "norm": 15334,
+   "code": "ARG"
+ },
+ {
+   "Year": 2006,
+   "name": "armenia",
+   "norm": 24974,
+   "code": "ARM"
+ },
+ {
+   "Year": 2006,
+   "name": "aruba",
+   "norm": 17264,
+   "code": "ABW"
+ },
+ {
+   "Year": 2006,
+   "name": "australia",
+   "norm": 17165,
+   "code": "AUS"
+ },
+ {
+   "Year": 2006,
+   "name": "austria",
+   "norm": 21864,
+   "code": "AUT"
+ },
+ {
+   "Year": 2006,
+   "name": "bahamas",
+   "norm": 15231,
+   "code": "BHS"
+ },
+ {
+   "Year": 2006,
+   "name": "bahrain",
+   "norm": 11415,
+   "code": "BHR"
+ },
+ {
+   "Year": 2006,
+   "name": "barbados",
+   "norm": 14982,
+   "code": "BRB"
+ },
+ {
+   "Year": 2006,
+   "name": "belgium",
+   "norm": 16431,
+   "code": "BEL"
+ },
+ {
+   "Year": 2006,
+   "name": "belize",
+   "norm": 11290,
+   "code": "BLZ"
+ },
+ {
+   "Year": 2006,
+   "name": "bermuda",
+   "norm": 20088,
+   "code": "BMU"
+ },
+ {
+   "Year": 2006,
+   "name": "brazil",
+   "norm": 14675,
+   "code": "BRA"
+ },
+ {
+   "Year": 2006,
+   "name": "british virgin islands",
+   "norm": 15822,
+   "code": "VGB"
+ },
+ {
+   "Year": 2006,
+   "name": "bulgaria",
+   "norm": 33204,
+   "code": "BGR"
+ },
+ {
+   "Year": 2006,
+   "name": "canada",
+   "norm": 15130,
+   "code": "CAN"
+ },
+ {
+   "Year": 2006,
+   "name": "cayman islands",
+   "norm": 12574,
+   "code": "CYM"
+ },
+ {
+   "Year": 2006,
+   "name": "chile",
+   "norm": 14063,
+   "code": "CHL"
+ },
+ {
+   "Year": 2006,
+   "name": "colombia",
+   "norm": 14984,
+   "code": "COL"
+ },
+ {
+   "Year": 2006,
+   "name": "costa rica",
+   "norm": 14422,
+   "code": "CRI"
+ },
+ {
+   "Year": 2006,
+   "name": "croatia",
+   "norm": 25418,
+   "code": "HRV"
+ },
+ {
+   "Year": 2006,
+   "name": "cuba",
+   "norm": 20221,
+   "code": "CUB"
+ },
+ {
+   "Year": 2006,
+   "name": "cyprus",
+   "norm": 19894,
+   "code": "CYP"
+ },
+ {
+   "Year": 2006,
+   "name": "czech republic",
+   "norm": 25162,
+   "code": "CZE"
+ },
+ {
+   "Year": 2006,
+   "name": "denmark",
+   "norm": 15367,
+   "code": "DNK"
+ },
+ {
+   "Year": 2006,
+   "name": "dominica",
+   "norm": 17717,
+   "code": "DMA"
+ },
+ {
+   "Year": 2006,
+   "name": "dominican republic",
+   "norm": 15920,
+   "code": "DOM"
+ },
+ {
+   "Year": 2006,
+   "name": "ecuador",
+   "norm": 11436,
+   "code": "ECU"
+ },
+ {
+   "Year": 2006,
+   "name": "egypt",
+   "norm": 22668,
+   "code": "EGY"
+ },
+ {
+   "Year": 2006,
+   "name": "el salvador",
+   "norm": 9158,
+   "code": "SLV"
+ },
+ {
+   "Year": 2006,
+   "name": "estonia",
+   "norm": 26527,
+   "code": "EST"
+ },
+ {
+   "Year": 2006,
+   "name": "fiji",
+   "norm": 18672,
+   "code": "FJI"
+ },
+ {
+   "Year": 2006,
+   "name": "finland",
+   "norm": 20766,
+   "code": "FIN"
+ },
+ {
+   "Year": 2006,
+   "name": "france",
+   "norm": 14095,
+   "code": "FRA"
+ },
+ {
+   "Year": 2006,
+   "name": "french guiana",
+   "norm": 9022,
+   "code": "GUF"
+ },
+ {
+   "Year": 2006,
+   "name": "georgia",
+   "norm": 33564,
+   "code": "GEO"
+ },
+ {
+   "Year": 2006,
+   "name": "germany",
+   "norm": 21844,
+   "code": "DEU"
+ },
+ {
+   "Year": 2006,
+   "name": "grenada",
+   "norm": 17361,
+   "code": "GRD"
+ },
+ {
+   "Year": 2006,
+   "name": "guadeloupe",
+   "norm": 14258,
+   "code": "GLP"
+ },
+ {
+   "Year": 2006,
+   "name": "guatemala",
+   "norm": 7018,
+   "code": "GTM"
+ },
+ {
+   "Year": 2006,
+   "name": "guyana",
+   "norm": 16885,
+   "code": "GUY"
+ },
+ {
+   "Year": 2006,
+   "name": "hong kong sar",
+   "norm": 12935,
+   "code": "HKG"
+ },
+ {
+   "Year": 2006,
+   "name": "hungary",
+   "norm": 25288,
+   "code": "HUN"
+ },
+ {
+   "Year": 2006,
+   "name": "iceland",
+   "norm": 18812,
+   "code": "ISL"
+ },
+ {
+   "Year": 2006,
+   "name": "israel",
+   "norm": 13905,
+   "code": "ISR"
+ },
+ {
+   "Year": 2006,
+   "name": "italy",
+   "norm": 19698,
+   "code": "ITA"
+ },
+ {
+   "Year": 2006,
+   "name": "jamaica",
+   "norm": 16605,
+   "code": "JAM"
+ },
+ {
+   "Year": 2006,
+   "name": "japan",
+   "norm": 14974,
+   "code": "JPN"
+ },
+ {
+   "Year": 2006,
+   "name": "kuwait",
+   "norm": 20945,
+   "code": "KWT"
+ },
+ {
+   "Year": 2006,
+   "name": "kyrgyzstan",
+   "norm": 23725,
+   "code": "KGZ"
+ },
+ {
+   "Year": 2006,
+   "name": "latvia",
+   "norm": 26768,
+   "code": "LVA"
+ },
+ {
+   "Year": 2006,
+   "name": "lithuania",
+   "norm": 27136,
+   "code": "LTU"
+ },
+ {
+   "Year": 2006,
+   "name": "luxembourg",
+   "norm": 19983,
+   "code": "LUX"
+ },
+ {
+   "Year": 2006,
+   "name": "malaysia",
+   "norm": 13092,
+   "code": "MYS"
+ },
+ {
+   "Year": 2006,
+   "name": "malta",
+   "norm": 21284,
+   "code": "MLT"
+ },
+ {
+   "Year": 2006,
+   "name": "martinique",
+   "norm": 13855,
+   "code": "MTQ"
+ },
+ {
+   "Year": 2006,
+   "name": "mauritius",
+   "norm": 17960,
+   "code": "MUS"
+ },
+ {
+   "Year": 2006,
+   "name": "mexico",
+   "norm": 11324,
+   "code": "MEX"
+ },
+ {
+   "Year": 2006,
+   "name": "montenegro",
+   "norm": 28401,
+   "code": "MNE"
+ },
+ {
+   "Year": 2006,
+   "name": "montserrat",
+   "norm": 24468,
+   "code": "MSR"
+ },
+ {
+   "Year": 2006,
+   "name": "netherlands",
+   "norm": 15409,
+   "code": "NLD"
+ },
+ {
+   "Year": 2006,
+   "name": "new zealand",
+   "norm": 19088,
+   "code": "NZL"
+ },
+ {
+   "Year": 2006,
+   "name": "nicaragua",
+   "norm": 12395,
+   "code": "NIC"
+ },
+ {
+   "Year": 2006,
+   "name": "north macedonia",
+   "norm": 29331,
+   "code": "MKD"
+ },
+ {
+   "Year": 2006,
+   "name": "norway",
+   "norm": 17765,
+   "code": "NOR"
+ },
+ {
+   "Year": 2006,
+   "name": "panama",
+   "norm": 13288,
+   "code": "PAN"
+ },
+ {
+   "Year": 2006,
+   "name": "paraguay",
+   "norm": 13388,
+   "code": "PRY"
+ },
+ {
+   "Year": 2006,
+   "name": "peru",
+   "norm": 9676,
+   "code": "PER"
+ },
+ {
+   "Year": 2006,
+   "name": "philippines",
+   "norm": 15708,
+   "code": "PHL"
+ },
+ {
+   "Year": 2006,
+   "name": "poland",
+   "norm": 22793,
+   "code": "POL"
+ },
+ {
+   "Year": 2006,
+   "name": "puerto rico",
+   "norm": 14114,
+   "code": "PRI"
+ },
+ {
+   "Year": 2006,
+   "name": "qatar",
+   "norm": 9207,
+   "code": "QAT"
+ },
+ {
+   "Year": 2006,
+   "name": "republic of korea",
+   "norm": 11575,
+   "code": "PRK"
+ },
+ {
+   "Year": 2006,
+   "name": "republic of moldova",
+   "norm": 27899,
+   "code": "MDA"
+ },
+ {
+   "Year": 2006,
+   "name": "reunion",
+   "norm": 14877,
+   "code": "REU"
+ },
+ {
+   "Year": 2006,
+   "name": "rodrigues",
+   "norm": 17959,
+   "code": "MU-RO"
+ },
+ {
+   "Year": 2006,
+   "name": "romania",
+   "norm": 31059,
+   "code": "ROU"
+ },
+ {
+   "Year": 2006,
+   "name": "saint kitts and nevis",
+   "norm": 18817,
+   "code": "KNA"
+ },
+ {
+   "Year": 2006,
+   "name": "saint lucia",
+   "norm": 15863,
+   "code": "LCA"
+ },
+ {
+   "Year": 2006,
+   "name": "saint pierre and miquelon",
+   "norm": 14583,
+   "code": "SPM"
+ },
+ {
+   "Year": 2006,
+   "name": "saint vincent and grenadines",
+   "norm": 16384,
+   "code": "VCT"
+ },
+ {
+   "Year": 2006,
+   "name": "serbia",
+   "norm": 28636,
+   "code": "SRB"
+ },
+ {
+   "Year": 2006,
+   "name": "slovakia",
+   "norm": 27399,
+   "code": "SVK"
+ },
+ {
+   "Year": 2006,
+   "name": "slovenia",
+   "norm": 19873,
+   "code": "SVL"
+ },
+ {
+   "Year": 2006,
+   "name": "south africa",
+   "norm": 6835,
+   "code": "ZAF"
+ },
+ {
+   "Year": 2006,
+   "name": "spain",
+   "norm": 16253,
+   "code": "ESP"
+ },
+ {
+   "Year": 2006,
+   "name": "sri lanka",
+   "norm": 12460,
+   "code": "LKA"
+ },
+ {
+   "Year": 2006,
+   "name": "suriname",
+   "norm": 15681,
+   "code": "SUR"
+ },
+ {
+   "Year": 2006,
+   "name": "sweden",
+   "norm": 21066,
+   "code": "SWE"
+ },
+ {
+   "Year": 2006,
+   "name": "switzerland",
+   "norm": 18572,
+   "code": "CHE"
+ },
+ {
+   "Year": 2006,
+   "name": "thailand",
+   "norm": 4358,
+   "code": "THA"
+ },
+ {
+   "Year": 2006,
+   "name": "trinidad and tobago",
+   "norm": 17575,
+   "code": "TTO"
+ },
+ {
+   "Year": 2006,
+   "name": "turks and caicos islands",
+   "norm": 14666,
+   "code": "TCA"
+ },
+ {
+   "Year": 2006,
+   "name": "united kingdom",
+   "norm": 17325,
+   "code": "GBR"
+ },
+ {
+   "Year": 2006,
+   "name": "united kingdom, england and wales",
+   "norm": 17373,
+   "code": "GBR"
+ },
+ {
+   "Year": 2006,
+   "name": "united kingdom, northern ireland",
+   "norm": 16787,
+   "code": "GBR"
+ },
+ {
+   "Year": 2006,
+   "name": "united kingdom, scotland",
+   "norm": 17035,
+   "code": "GBR"
+ },
+ {
+   "Year": 2006,
+   "name": "united states of america",
+   "norm": 17057,
+   "code": "USA"
+ },
+ {
+   "Year": 2006,
+   "name": "uruguay",
+   "norm": 15773,
+   "code": "URY"
+ },
+ {
+   "Year": 2006,
+   "name": "venezuela",
+   "norm": 15110,
+   "code": "VEN"
+ },
+ {
+   "Year": 2006,
+   "name": "virgin islands (usa)",
+   "norm": 17708,
+   "code": "VIR"
+ },
+ {
+   "Year": 2007,
+   "name": "antigua and barbuda",
+   "norm": 16425,
+   "code": "ATG"
+ },
+ {
+   "Year": 2007,
+   "name": "argentina",
+   "norm": 15113,
+   "code": "ARG"
+ },
+ {
+   "Year": 2007,
+   "name": "armenia",
+   "norm": 25165,
+   "code": "ARM"
+ },
+ {
+   "Year": 2007,
+   "name": "aruba",
+   "norm": 15018,
+   "code": "ABW"
+ },
+ {
+   "Year": 2007,
+   "name": "australia",
+   "norm": 17031,
+   "code": "AUS"
+ },
+ {
+   "Year": 2007,
+   "name": "austria",
+   "norm": 22019,
+   "code": "AUT"
+ },
+ {
+   "Year": 2007,
+   "name": "azerbaijan",
+   "norm": 27403,
+   "code": "AZE"
+ },
+ {
+   "Year": 2007,
+   "name": "bahamas",
+   "norm": 15656,
+   "code": "BHS"
+ },
+ {
+   "Year": 2007,
+   "name": "bahrain",
+   "norm": 13524,
+   "code": "BHR"
+ },
+ {
+   "Year": 2007,
+   "name": "barbados",
+   "norm": 15304,
+   "code": "BRB"
+ },
+ {
+   "Year": 2007,
+   "name": "belgium",
+   "norm": 16315,
+   "code": "BEL"
+ },
+ {
+   "Year": 2007,
+   "name": "belize",
+   "norm": 11675,
+   "code": "BLZ"
+ },
+ {
+   "Year": 2007,
+   "name": "bermuda",
+   "norm": 21923,
+   "code": "BMU"
+ },
+ {
+   "Year": 2007,
+   "name": "brazil",
+   "norm": 14719,
+   "code": "BRA"
+ },
+ {
+   "Year": 2007,
+   "name": "bulgaria",
+   "norm": 32910,
+   "code": "BGR"
+ },
+ {
+   "Year": 2007,
+   "name": "canada",
+   "norm": 14844,
+   "code": "CAN"
+ },
+ {
+   "Year": 2007,
+   "name": "cayman islands",
+   "norm": 16118,
+   "code": "CYM"
+ },
+ {
+   "Year": 2007,
+   "name": "chile",
+   "norm": 14030,
+   "code": "CHL"
+ },
+ {
+   "Year": 2007,
+   "name": "colombia",
+   "norm": 14988,
+   "code": "COL"
+ },
+ {
+   "Year": 2007,
+   "name": "costa rica",
+   "norm": 14763,
+   "code": "CRI"
+ },
+ {
+   "Year": 2007,
+   "name": "croatia",
+   "norm": 25307,
+   "code": "HRV"
+ },
+ {
+   "Year": 2007,
+   "name": "cuba",
+   "norm": 19922,
+   "code": "CUB"
+ },
+ {
+   "Year": 2007,
+   "name": "cyprus",
+   "norm": 19442,
+   "code": "CYP"
+ },
+ {
+   "Year": 2007,
+   "name": "czech republic",
+   "norm": 25069,
+   "code": "CZE"
+ },
+ {
+   "Year": 2007,
+   "name": "denmark",
+   "norm": 14509,
+   "code": "DNK"
+ },
+ {
+   "Year": 2007,
+   "name": "dominica",
+   "norm": 18165,
+   "code": "DMA"
+ },
+ {
+   "Year": 2007,
+   "name": "dominican republic",
+   "norm": 17120,
+   "code": "DOM"
+ },
+ {
+   "Year": 2007,
+   "name": "ecuador",
+   "norm": 11513,
+   "code": "ECU"
+ },
+ {
+   "Year": 2007,
+   "name": "egypt",
+   "norm": 22428,
+   "code": "EGY"
+ },
+ {
+   "Year": 2007,
+   "name": "el salvador",
+   "norm": 8743,
+   "code": "SLV"
+ },
+ {
+   "Year": 2007,
+   "name": "estonia",
+   "norm": 26012,
+   "code": "EST"
+ },
+ {
+   "Year": 2007,
+   "name": "fiji",
+   "norm": 17369,
+   "code": "FJI"
+ },
+ {
+   "Year": 2007,
+   "name": "finland",
+   "norm": 20687,
+   "code": "FIN"
+ },
+ {
+   "Year": 2007,
+   "name": "france",
+   "norm": 13954,
+   "code": "FRA"
+ },
+ {
+   "Year": 2007,
+   "name": "french guiana",
+   "norm": 9730,
+   "code": "GUF"
+ },
+ {
+   "Year": 2007,
+   "name": "georgia",
+   "norm": 33458,
+   "code": "GEO"
+ },
+ {
+   "Year": 2007,
+   "name": "germany",
+   "norm": 21681,
+   "code": "DEU"
+ },
+ {
+   "Year": 2007,
+   "name": "grenada",
+   "norm": 16511,
+   "code": "GRD"
+ },
+ {
+   "Year": 2007,
+   "name": "guadeloupe",
+   "norm": 13519,
+   "code": "GLP"
+ },
+ {
+   "Year": 2007,
+   "name": "guatemala",
+   "norm": 7724,
+   "code": "GTM"
+ },
+ {
+   "Year": 2007,
+   "name": "guyana",
+   "norm": 17697,
+   "code": "GUY"
+ },
+ {
+   "Year": 2007,
+   "name": "hong kong sar",
+   "norm": 13434,
+   "code": "HKG"
+ },
+ {
+   "Year": 2007,
+   "name": "hungary",
+   "norm": 25029,
+   "code": "HUN"
+ },
+ {
+   "Year": 2007,
+   "name": "iceland",
+   "norm": 17730,
+   "code": "ISL"
+ },
+ {
+   "Year": 2007,
+   "name": "ireland",
+   "norm": 17704,
+   "code": "IRL"
+ },
+ {
+   "Year": 2007,
+   "name": "israel",
+   "norm": 14148,
+   "code": "ISR"
+ },
+ {
+   "Year": 2007,
+   "name": "italy",
+   "norm": 19577,
+   "code": "ITA"
+ },
+ {
+   "Year": 2007,
+   "name": "japan",
+   "norm": 14773,
+   "code": "JPN"
+ },
+ {
+   "Year": 2007,
+   "name": "kuwait",
+   "norm": 19931,
+   "code": "KWT"
+ },
+ {
+   "Year": 2007,
+   "name": "kyrgyzstan",
+   "norm": 24123,
+   "code": "KGZ"
+ },
+ {
+   "Year": 2007,
+   "name": "latvia",
+   "norm": 27291,
+   "code": "LVA"
+ },
+ {
+   "Year": 2007,
+   "name": "lithuania",
+   "norm": 26638,
+   "code": "LTU"
+ },
+ {
+   "Year": 2007,
+   "name": "luxembourg",
+   "norm": 18518,
+   "code": "LUX"
+ },
+ {
+   "Year": 2007,
+   "name": "malaysia",
+   "norm": 13392,
+   "code": "MYS"
+ },
+ {
+   "Year": 2007,
+   "name": "maldives",
+   "norm": 18990,
+   "code": "MDV"
+ },
+ {
+   "Year": 2007,
+   "name": "malta",
+   "norm": 20331,
+   "code": "MLT"
+ },
+ {
+   "Year": 2007,
+   "name": "martinique",
+   "norm": 14026,
+   "code": "MTQ"
+ },
+ {
+   "Year": 2007,
+   "name": "mauritius",
+   "norm": 18184,
+   "code": "MUS"
+ },
+ {
+   "Year": 2007,
+   "name": "mexico",
+   "norm": 11632,
+   "code": "MEX"
+ },
+ {
+   "Year": 2007,
+   "name": "montenegro",
+   "norm": 27897,
+   "code": "MNE"
+ },
+ {
+   "Year": 2007,
+   "name": "montserrat",
+   "norm": 20454,
+   "code": "MSR"
+ },
+ {
+   "Year": 2007,
+   "name": "morocco",
+   "norm": 9458,
+   "code": "MAR"
+ },
+ {
+   "Year": 2007,
+   "name": "netherlands",
+   "norm": 15354,
+   "code": "NLD"
+ },
+ {
+   "Year": 2007,
+   "name": "new zealand",
+   "norm": 18324,
+   "code": "NZL"
+ },
+ {
+   "Year": 2007,
+   "name": "nicaragua",
+   "norm": 12956,
+   "code": "NIC"
+ },
+ {
+   "Year": 2007,
+   "name": "north macedonia",
+   "norm": 28853,
+   "code": "MKD"
+ },
+ {
+   "Year": 2007,
+   "name": "norway",
+   "norm": 17408,
+   "code": "NOR"
+ },
+ {
+   "Year": 2007,
+   "name": "panama",
+   "norm": 14116,
+   "code": "PAN"
+ },
+ {
+   "Year": 2007,
+   "name": "paraguay",
+   "norm": 12878,
+   "code": "PRY"
+ },
+ {
+   "Year": 2007,
+   "name": "peru",
+   "norm": 9596,
+   "code": "PER"
+ },
+ {
+   "Year": 2007,
+   "name": "philippines",
+   "norm": 16514,
+   "code": "PHL"
+ },
+ {
+   "Year": 2007,
+   "name": "poland",
+   "norm": 22714,
+   "code": "POL"
+ },
+ {
+   "Year": 2007,
+   "name": "portugal",
+   "norm": 16486,
+   "code": "PRT"
+ },
+ {
+   "Year": 2007,
+   "name": "puerto rico",
+   "norm": 13548,
+   "code": "PRI"
+ },
+ {
+   "Year": 2007,
+   "name": "qatar",
+   "norm": 7355,
+   "code": "QAT"
+ },
+ {
+   "Year": 2007,
+   "name": "republic of korea",
+   "norm": 11758,
+   "code": "PRK"
+ },
+ {
+   "Year": 2007,
+   "name": "republic of moldova",
+   "norm": 28081,
+   "code": "MDA"
+ },
+ {
+   "Year": 2007,
+   "name": "reunion",
+   "norm": 14179,
+   "code": "REU"
+ },
+ {
+   "Year": 2007,
+   "name": "rodrigues",
+   "norm": 17714,
+   "code": "MU-RO"
+ },
+ {
+   "Year": 2007,
+   "name": "romania",
+   "norm": 30662,
+   "code": "ROU"
+ },
+ {
+   "Year": 2007,
+   "name": "saint kitts and nevis",
+   "norm": 15797,
+   "code": "KNA"
+ },
+ {
+   "Year": 2007,
+   "name": "saint vincent and grenadines",
+   "norm": 18974,
+   "code": "VCT"
+ },
+ {
+   "Year": 2007,
+   "name": "serbia",
+   "norm": 28018,
+   "code": "SRB"
+ },
+ {
+   "Year": 2007,
+   "name": "slovakia",
+   "norm": 27138,
+   "code": "SVK"
+ },
+ {
+   "Year": 2007,
+   "name": "slovenia",
+   "norm": 20453,
+   "code": "SVL"
+ },
+ {
+   "Year": 2007,
+   "name": "south africa",
+   "norm": 6870,
+   "code": "ZAF"
+ },
+ {
+   "Year": 2007,
+   "name": "spain",
+   "norm": 16105,
+   "code": "ESP"
+ },
+ {
+   "Year": 2007,
+   "name": "sri lanka",
+   "norm": 12486,
+   "code": "LKA"
+ },
+ {
+   "Year": 2007,
+   "name": "suriname",
+   "norm": 14735,
+   "code": "SUR"
+ },
+ {
+   "Year": 2007,
+   "name": "sweden",
+   "norm": 20670,
+   "code": "SWE"
+ },
+ {
+   "Year": 2007,
+   "name": "switzerland",
+   "norm": 18508,
+   "code": "CHE"
+ },
+ {
+   "Year": 2007,
+   "name": "thailand",
+   "norm": 4417,
+   "code": "THA"
+ },
+ {
+   "Year": 2007,
+   "name": "trinidad and tobago",
+   "norm": 16626,
+   "code": "TTO"
+ },
+ {
+   "Year": 2007,
+   "name": "turks and caicos islands",
+   "norm": 15454,
+   "code": "TCA"
+ },
+ {
+   "Year": 2007,
+   "name": "united kingdom",
+   "norm": 16858,
+   "code": "GBR"
+ },
+ {
+   "Year": 2007,
+   "name": "united kingdom, england and wales",
+   "norm": 16897,
+   "code": "GBR"
+ },
+ {
+   "Year": 2007,
+   "name": "united kingdom, northern ireland",
+   "norm": 16513,
+   "code": "GBR"
+ },
+ {
+   "Year": 2007,
+   "name": "united kingdom, scotland",
+   "norm": 16592,
+   "code": "GBR"
+ },
+ {
+   "Year": 2007,
+   "name": "united states of america",
+   "norm": 16715,
+   "code": "USA"
+ },
+ {
+   "Year": 2007,
+   "name": "uruguay",
+   "norm": 15658,
+   "code": "URY"
+ },
+ {
+   "Year": 2007,
+   "name": "venezuela",
+   "norm": 14804,
+   "code": "VEN"
+ },
+ {
+   "Year": 2007,
+   "name": "virgin islands (usa)",
+   "norm": 19630,
+   "code": "VIR"
+ },
+ {
+   "Year": 2008,
+   "name": "anguilla",
+   "norm": 12500,
+   "code": "AIA"
+ },
+ {
+   "Year": 2008,
+   "name": "antigua and barbuda",
+   "norm": 17329,
+   "code": "ATG"
+ },
+ {
+   "Year": 2008,
+   "name": "argentina",
+   "norm": 14978,
+   "code": "ARG"
+ },
+ {
+   "Year": 2008,
+   "name": "armenia",
+   "norm": 24954,
+   "code": "ARM"
+ },
+ {
+   "Year": 2008,
+   "name": "aruba",
+   "norm": 14159,
+   "code": "ABW"
+ },
+ {
+   "Year": 2008,
+   "name": "australia",
+   "norm": 16906,
+   "code": "AUS"
+ },
+ {
+   "Year": 2008,
+   "name": "austria",
+   "norm": 21505,
+   "code": "AUT"
+ },
+ {
+   "Year": 2008,
+   "name": "bahamas",
+   "norm": 16756,
+   "code": "BHS"
+ },
+ {
+   "Year": 2008,
+   "name": "bahrain",
+   "norm": 12677,
+   "code": "BHR"
+ },
+ {
+   "Year": 2008,
+   "name": "barbados",
+   "norm": 15858,
+   "code": "BRB"
+ },
+ {
+   "Year": 2008,
+   "name": "belgium",
+   "norm": 15970,
+   "code": "BEL"
+ },
+ {
+   "Year": 2008,
+   "name": "belize",
+   "norm": 10795,
+   "code": "BLZ"
+ },
+ {
+   "Year": 2008,
+   "name": "bermuda",
+   "norm": 15952,
+   "code": "BMU"
+ },
+ {
+   "Year": 2008,
+   "name": "brazil",
+   "norm": 14735,
+   "code": "BRA"
+ },
+ {
+   "Year": 2008,
+   "name": "british virgin islands",
+   "norm": 16336,
+   "code": "VGB"
+ },
+ {
+   "Year": 2008,
+   "name": "bulgaria",
+   "norm": 32342,
+   "code": "BGR"
+ },
+ {
+   "Year": 2008,
+   "name": "canada",
+   "norm": 14656,
+   "code": "CAN"
+ },
+ {
+   "Year": 2008,
+   "name": "cayman islands",
+   "norm": 15333,
+   "code": "CYM"
+ },
+ {
+   "Year": 2008,
+   "name": "chile",
+   "norm": 13776,
+   "code": "CHL"
+ },
+ {
+   "Year": 2008,
+   "name": "colombia",
+   "norm": 14915,
+   "code": "COL"
+ },
+ {
+   "Year": 2008,
+   "name": "costa rica",
+   "norm": 14130,
+   "code": "CRI"
+ },
+ {
+   "Year": 2008,
+   "name": "croatia",
+   "norm": 25152,
+   "code": "HRV"
+ },
+ {
+   "Year": 2008,
+   "name": "cuba",
+   "norm": 20108,
+   "code": "CUB"
+ },
+ {
+   "Year": 2008,
+   "name": "cyprus",
+   "norm": 19397,
+   "code": "CYP"
+ },
+ {
+   "Year": 2008,
+   "name": "czech republic",
+   "norm": 24907,
+   "code": "CZE"
+ },
+ {
+   "Year": 2008,
+   "name": "denmark",
+   "norm": 13849,
+   "code": "DNK"
+ },
+ {
+   "Year": 2008,
+   "name": "dominica",
+   "norm": 19266,
+   "code": "DMA"
+ },
+ {
+   "Year": 2008,
+   "name": "dominican republic",
+   "norm": 17836,
+   "code": "DOM"
+ },
+ {
+   "Year": 2008,
+   "name": "ecuador",
+   "norm": 11575,
+   "code": "ECU"
+ },
+ {
+   "Year": 2008,
+   "name": "egypt",
+   "norm": 22551,
+   "code": "EGY"
+ },
+ {
+   "Year": 2008,
+   "name": "el salvador",
+   "norm": 9169,
+   "code": "SLV"
+ },
+ {
+   "Year": 2008,
+   "name": "estonia",
+   "norm": 27208,
+   "code": "EST"
+ },
+ {
+   "Year": 2008,
+   "name": "fiji",
+   "norm": 16960,
+   "code": "FJI"
+ },
+ {
+   "Year": 2008,
+   "name": "finland",
+   "norm": 20656,
+   "code": "FIN"
+ },
+ {
+   "Year": 2008,
+   "name": "france",
+   "norm": 13771,
+   "code": "FRA"
+ },
+ {
+   "Year": 2008,
+   "name": "french guiana",
+   "norm": 10271,
+   "code": "GUF"
+ },
+ {
+   "Year": 2008,
+   "name": "germany",
+   "norm": 21122,
+   "code": "DEU"
+ },
+ {
+   "Year": 2008,
+   "name": "grenada",
+   "norm": 18728,
+   "code": "GRD"
+ },
+ {
+   "Year": 2008,
+   "name": "guadeloupe",
+   "norm": 13654,
+   "code": "GLP"
+ },
+ {
+   "Year": 2008,
+   "name": "guatemala",
+   "norm": 7688,
+   "code": "GTM"
+ },
+ {
+   "Year": 2008,
+   "name": "guyana",
+   "norm": 18478,
+   "code": "GUY"
+ },
+ {
+   "Year": 2008,
+   "name": "honduras",
+   "norm": 9228,
+   "code": "HND"
+ },
+ {
+   "Year": 2008,
+   "name": "hong kong sar",
+   "norm": 13644,
+   "code": "HKG"
+ },
+ {
+   "Year": 2008,
+   "name": "hungary",
+   "norm": 24898,
+   "code": "HUN"
+ },
+ {
+   "Year": 2008,
+   "name": "iceland",
+   "norm": 17765,
+   "code": "ISL"
+ },
+ {
+   "Year": 2008,
+   "name": "iraq",
+   "norm": 20297,
+   "code": "IRQ"
+ },
+ {
+   "Year": 2008,
+   "name": "ireland",
+   "norm": 17606,
+   "code": "IRL"
+ },
+ {
+   "Year": 2008,
+   "name": "israel",
+   "norm": 13070,
+   "code": "ISR"
+ },
+ {
+   "Year": 2008,
+   "name": "italy",
+   "norm": 19398,
+   "code": "ITA"
+ },
+ {
+   "Year": 2008,
+   "name": "japan",
+   "norm": 14660,
+   "code": "JPN"
+ },
+ {
+   "Year": 2008,
+   "name": "jordan",
+   "norm": 18039,
+   "code": "JOR"
+ },
+ {
+   "Year": 2008,
+   "name": "kuwait",
+   "norm": 21864,
+   "code": "KWT"
+ },
+ {
+   "Year": 2008,
+   "name": "kyrgyzstan",
+   "norm": 24421,
+   "code": "KGZ"
+ },
+ {
+   "Year": 2008,
+   "name": "latvia",
+   "norm": 26612,
+   "code": "LVA"
+ },
+ {
+   "Year": 2008,
+   "name": "lithuania",
+   "norm": 26947,
+   "code": "LTU"
+ },
+ {
+   "Year": 2008,
+   "name": "luxembourg",
+   "norm": 19030,
+   "code": "LUX"
+ },
+ {
+   "Year": 2008,
+   "name": "malaysia",
+   "norm": 13372,
+   "code": "MYS"
+ },
+ {
+   "Year": 2008,
+   "name": "maldives",
+   "norm": 18480,
+   "code": "MDV"
+ },
+ {
+   "Year": 2008,
+   "name": "malta",
+   "norm": 19626,
+   "code": "MLT"
+ },
+ {
+   "Year": 2008,
+   "name": "martinique",
+   "norm": 13893,
+   "code": "MTQ"
+ },
+ {
+   "Year": 2008,
+   "name": "mauritius",
+   "norm": 17481,
+   "code": "MUS"
+ },
+ {
+   "Year": 2008,
+   "name": "mexico",
+   "norm": 11713,
+   "code": "MEX"
+ },
+ {
+   "Year": 2008,
+   "name": "montenegro",
+   "norm": 26962,
+   "code": "MNE"
+ },
+ {
+   "Year": 2008,
+   "name": "montserrat",
+   "norm": 20000,
+   "code": "MSR"
+ },
+ {
+   "Year": 2008,
+   "name": "morocco",
+   "norm": 10048,
+   "code": "MAR"
+ },
+ {
+   "Year": 2008,
+   "name": "netherlands",
+   "norm": 14847,
+   "code": "NLD"
+ },
+ {
+   "Year": 2008,
+   "name": "new zealand",
+   "norm": 17967,
+   "code": "NZL"
+ },
+ {
+   "Year": 2008,
+   "name": "nicaragua",
+   "norm": 12827,
+   "code": "NIC"
+ },
+ {
+   "Year": 2008,
+   "name": "north macedonia",
+   "norm": 28666,
+   "code": "MKD"
+ },
+ {
+   "Year": 2008,
+   "name": "norway",
+   "norm": 16941,
+   "code": "NOR"
+ },
+ {
+   "Year": 2008,
+   "name": "occupied palestinian territory",
+   "norm": 20420,
+   "code": "PSE"
+ },
+ {
+   "Year": 2008,
+   "name": "panama",
+   "norm": 13691,
+   "code": "PAN"
+ },
+ {
+   "Year": 2008,
+   "name": "paraguay",
+   "norm": 13246,
+   "code": "PRY"
+ },
+ {
+   "Year": 2008,
+   "name": "peru",
+   "norm": 8499,
+   "code": "PER"
+ },
+ {
+   "Year": 2008,
+   "name": "philippines",
+   "norm": 16569,
+   "code": "PHL"
+ },
+ {
+   "Year": 2008,
+   "name": "poland",
+   "norm": 22791,
+   "code": "POL"
+ },
+ {
+   "Year": 2008,
+   "name": "portugal",
+   "norm": 16136,
+   "code": "PRT"
+ },
+ {
+   "Year": 2008,
+   "name": "puerto rico",
+   "norm": 13065,
+   "code": "PRI"
+ },
+ {
+   "Year": 2008,
+   "name": "qatar",
+   "norm": 7161,
+   "code": "QAT"
+ },
+ {
+   "Year": 2008,
+   "name": "republic of korea",
+   "norm": 11267,
+   "code": "PRK"
+ },
+ {
+   "Year": 2008,
+   "name": "republic of moldova",
+   "norm": 27975,
+   "code": "MDA"
+ },
+ {
+   "Year": 2008,
+   "name": "reunion",
+   "norm": 13538,
+   "code": "REU"
+ },
+ {
+   "Year": 2008,
+   "name": "rodrigues",
+   "norm": 17961,
+   "code": "MU-RO"
+ },
+ {
+   "Year": 2008,
+   "name": "romania",
+   "norm": 30240,
+   "code": "ROU"
+ },
+ {
+   "Year": 2008,
+   "name": "saint kitts and nevis",
+   "norm": 16844,
+   "code": "KNA"
+ },
+ {
+   "Year": 2008,
+   "name": "saint lucia",
+   "norm": 15963,
+   "code": "LCA"
+ },
+ {
+   "Year": 2008,
+   "name": "saint pierre and miquelon",
+   "norm": 8823,
+   "code": "SPM"
+ },
+ {
+   "Year": 2008,
+   "name": "saint vincent and grenadines",
+   "norm": 21393,
+   "code": "VCT"
+ },
+ {
+   "Year": 2008,
+   "name": "serbia",
+   "norm": 27914,
+   "code": "SRB"
+ },
+ {
+   "Year": 2008,
+   "name": "slovakia",
+   "norm": 26780,
+   "code": "SVK"
+ },
+ {
+   "Year": 2008,
+   "name": "slovenia",
+   "norm": 19731,
+   "code": "SVL"
+ },
+ {
+   "Year": 2008,
+   "name": "south africa",
+   "norm": 6962,
+   "code": "ZAF"
+ },
+ {
+   "Year": 2008,
+   "name": "spain",
+   "norm": 15892,
+   "code": "ESP"
+ },
+ {
+   "Year": 2008,
+   "name": "suriname",
+   "norm": 13761,
+   "code": "SUR"
+ },
+ {
+   "Year": 2008,
+   "name": "sweden",
+   "norm": 20463,
+   "code": "SWE"
+ },
+ {
+   "Year": 2008,
+   "name": "switzerland",
+   "norm": 18226,
+   "code": "CHE"
+ },
+ {
+   "Year": 2008,
+   "name": "thailand",
+   "norm": 4453,
+   "code": "THA"
+ },
+ {
+   "Year": 2008,
+   "name": "trinidad and tobago",
+   "norm": 16314,
+   "code": "TTO"
+ },
+ {
+   "Year": 2008,
+   "name": "turks and caicos islands",
+   "norm": 20909,
+   "code": "TCA"
+ },
+ {
+   "Year": 2008,
+   "name": "united kingdom",
+   "norm": 16461,
+   "code": "GBR"
+ },
+ {
+   "Year": 2008,
+   "name": "united kingdom, england and wales",
+   "norm": 16525,
+   "code": "GBR"
+ },
+ {
+   "Year": 2008,
+   "name": "united kingdom, northern ireland",
+   "norm": 15938,
+   "code": "GBR"
+ },
+ {
+   "Year": 2008,
+   "name": "united kingdom, scotland",
+   "norm": 16022,
+   "code": "GBR"
+ },
+ {
+   "Year": 2008,
+   "name": "united states of america",
+   "norm": 16353,
+   "code": "USA"
+ },
+ {
+   "Year": 2008,
+   "name": "uruguay",
+   "norm": 15295,
+   "code": "URY"
+ },
+ {
+   "Year": 2008,
+   "name": "venezuela",
+   "norm": 14993,
+   "code": "VEN"
+ },
+ {
+   "Year": 2008,
+   "name": "virgin islands (usa)",
+   "norm": 20870,
+   "code": "VIR"
+ },
+ {
+   "Year": 2009,
+   "name": "anguilla",
+   "norm": 16428,
+   "code": "AIA"
+ },
+ {
+   "Year": 2009,
+   "name": "antigua and barbuda",
+   "norm": 17607,
+   "code": "ATG"
+ },
+ {
+   "Year": 2009,
+   "name": "argentina",
+   "norm": 14780,
+   "code": "ARG"
+ },
+ {
+   "Year": 2009,
+   "name": "armenia",
+   "norm": 24537,
+   "code": "ARM"
+ },
+ {
+   "Year": 2009,
+   "name": "aruba",
+   "norm": 15196,
+   "code": "ABW"
+ },
+ {
+   "Year": 2009,
+   "name": "australia",
+   "norm": 16404,
+   "code": "AUS"
+ },
+ {
+   "Year": 2009,
+   "name": "austria",
+   "norm": 21467,
+   "code": "AUT"
+ },
+ {
+   "Year": 2009,
+   "name": "bahamas",
+   "norm": 16872,
+   "code": "BHS"
+ },
+ {
+   "Year": 2009,
+   "name": "bahrain",
+   "norm": 12819,
+   "code": "BHR"
+ },
+ {
+   "Year": 2009,
+   "name": "barbados",
+   "norm": 15192,
+   "code": "BRB"
+ },
+ {
+   "Year": 2009,
+   "name": "belgium",
+   "norm": 15700,
+   "code": "BEL"
+ },
+ {
+   "Year": 2009,
+   "name": "belize",
+   "norm": 11734,
+   "code": "BLZ"
+ },
+ {
+   "Year": 2009,
+   "name": "bermuda",
+   "norm": 15068,
+   "code": "BMU"
+ },
+ {
+   "Year": 2009,
+   "name": "brazil",
+   "norm": 14508,
+   "code": "BRA"
+ },
+ {
+   "Year": 2009,
+   "name": "british virgin islands",
+   "norm": 13302,
+   "code": "VGB"
+ },
+ {
+   "Year": 2009,
+   "name": "bulgaria",
+   "norm": 32991,
+   "code": "BGR"
+ },
+ {
+   "Year": 2009,
+   "name": "canada",
+   "norm": 14408,
+   "code": "CAN"
+ },
+ {
+   "Year": 2009,
+   "name": "cayman islands",
+   "norm": 14625,
+   "code": "CYM"
+ },
+ {
+   "Year": 2009,
+   "name": "chile",
+   "norm": 13502,
+   "code": "CHL"
+ },
+ {
+   "Year": 2009,
+   "name": "colombia",
+   "norm": 14570,
+   "code": "COL"
+ },
+ {
+   "Year": 2009,
+   "name": "costa rica",
+   "norm": 14433,
+   "code": "CRI"
+ },
+ {
+   "Year": 2009,
+   "name": "croatia",
+   "norm": 24779,
+   "code": "HRV"
+ },
+ {
+   "Year": 2009,
+   "name": "cuba",
+   "norm": 19805,
+   "code": "CUB"
+ },
+ {
+   "Year": 2009,
+   "name": "cyprus",
+   "norm": 18824,
+   "code": "CYP"
+ },
+ {
+   "Year": 2009,
+   "name": "czech republic",
+   "norm": 25181,
+   "code": "CZE"
+ },
+ {
+   "Year": 2009,
+   "name": "denmark",
+   "norm": 13412,
+   "code": "DNK"
+ },
+ {
+   "Year": 2009,
+   "name": "dominica",
+   "norm": 17978,
+   "code": "DMA"
+ },
+ {
+   "Year": 2009,
+   "name": "dominican republic",
+   "norm": 17834,
+   "code": "DOM"
+ },
+ {
+   "Year": 2009,
+   "name": "ecuador",
+   "norm": 10922,
+   "code": "ECU"
+ },
+ {
+   "Year": 2009,
+   "name": "egypt",
+   "norm": 22849,
+   "code": "EGY"
+ },
+ {
+   "Year": 2009,
+   "name": "el salvador",
+   "norm": 9036,
+   "code": "SLV"
+ },
+ {
+   "Year": 2009,
+   "name": "estonia",
+   "norm": 27318,
+   "code": "EST"
+ },
+ {
+   "Year": 2009,
+   "name": "fiji",
+   "norm": 20260,
+   "code": "FJI"
+ },
+ {
+   "Year": 2009,
+   "name": "finland",
+   "norm": 20400,
+   "code": "FIN"
+ },
+ {
+   "Year": 2009,
+   "name": "france",
+   "norm": 13481,
+   "code": "FRA"
+ },
+ {
+   "Year": 2009,
+   "name": "french guiana",
+   "norm": 9686,
+   "code": "GUF"
+ },
+ {
+   "Year": 2009,
+   "name": "georgia",
+   "norm": 27587,
+   "code": "GEO"
+ },
+ {
+   "Year": 2009,
+   "name": "germany",
+   "norm": 20856,
+   "code": "DEU"
+ },
+ {
+   "Year": 2009,
+   "name": "grenada",
+   "norm": 17131,
+   "code": "GRD"
+ },
+ {
+   "Year": 2009,
+   "name": "guadeloupe",
+   "norm": 14082,
+   "code": "GLP"
+ },
+ {
+   "Year": 2009,
+   "name": "guatemala",
+   "norm": 6642,
+   "code": "GTM"
+ },
+ {
+   "Year": 2009,
+   "name": "guyana",
+   "norm": 19958,
+   "code": "GUY"
+ },
+ {
+   "Year": 2009,
+   "name": "honduras",
+   "norm": 9038,
+   "code": "HND"
+ },
+ {
+   "Year": 2009,
+   "name": "hong kong sar",
+   "norm": 12907,
+   "code": "HKG"
+ },
+ {
+   "Year": 2009,
+   "name": "hungary",
+   "norm": 24890,
+   "code": "HUN"
+ },
+ {
+   "Year": 2009,
+   "name": "iceland",
+   "norm": 18206,
+   "code": "ISL"
+ },
+ {
+   "Year": 2009,
+   "name": "ireland",
+   "norm": 16769,
+   "code": "IRL"
+ },
+ {
+   "Year": 2009,
+   "name": "israel",
+   "norm": 12865,
+   "code": "ISR"
+ },
+ {
+   "Year": 2009,
+   "name": "italy",
+   "norm": 19103,
+   "code": "ITA"
+ },
+ {
+   "Year": 2009,
+   "name": "jamaica",
+   "norm": 14620,
+   "code": "JAM"
+ },
+ {
+   "Year": 2009,
+   "name": "japan",
+   "norm": 14438,
+   "code": "JPN"
+ },
+ {
+   "Year": 2009,
+   "name": "jordan",
+   "norm": 17957,
+   "code": "JOR"
+ },
+ {
+   "Year": 2009,
+   "name": "kuwait",
+   "norm": 20539,
+   "code": "KWT"
+ },
+ {
+   "Year": 2009,
+   "name": "kyrgyzstan",
+   "norm": 24477,
+   "code": "KGZ"
+ },
+ {
+   "Year": 2009,
+   "name": "latvia",
+   "norm": 26853,
+   "code": "LVA"
+ },
+ {
+   "Year": 2009,
+   "name": "lithuania",
+   "norm": 27707,
+   "code": "LTU"
+ },
+ {
+   "Year": 2009,
+   "name": "luxembourg",
+   "norm": 18413,
+   "code": "LUX"
+ },
+ {
+   "Year": 2009,
+   "name": "malaysia",
+   "norm": 13778,
+   "code": "MYS"
+ },
+ {
+   "Year": 2009,
+   "name": "malta",
+   "norm": 19397,
+   "code": "MLT"
+ },
+ {
+   "Year": 2009,
+   "name": "martinique",
+   "norm": 12762,
+   "code": "MTQ"
+ },
+ {
+   "Year": 2009,
+   "name": "mauritius",
+   "norm": 16868,
+   "code": "MUS"
+ },
+ {
+   "Year": 2009,
+   "name": "mexico",
+   "norm": 11676,
+   "code": "MEX"
+ },
+ {
+   "Year": 2009,
+   "name": "montenegro",
+   "norm": 27429,
+   "code": "MNE"
+ },
+ {
+   "Year": 2009,
+   "name": "montserrat",
+   "norm": 23863,
+   "code": "MSR"
+ },
+ {
+   "Year": 2009,
+   "name": "morocco",
+   "norm": 10552,
+   "code": "MAR"
+ },
+ {
+   "Year": 2009,
+   "name": "netherlands",
+   "norm": 14488,
+   "code": "NLD"
+ },
+ {
+   "Year": 2009,
+   "name": "new zealand",
+   "norm": 17761,
+   "code": "NZL"
+ },
+ {
+   "Year": 2009,
+   "name": "nicaragua",
+   "norm": 12734,
+   "code": "NIC"
+ },
+ {
+   "Year": 2009,
+   "name": "north macedonia",
+   "norm": 28934,
+   "code": "MKD"
+ },
+ {
+   "Year": 2009,
+   "name": "norway",
+   "norm": 16313,
+   "code": "NOR"
+ },
+ {
+   "Year": 2009,
+   "name": "occupied palestinian territory",
+   "norm": 21661,
+   "code": "PSE"
+ },
+ {
+   "Year": 2009,
+   "name": "panama",
+   "norm": 14682,
+   "code": "PAN"
+ },
+ {
+   "Year": 2009,
+   "name": "paraguay",
+   "norm": 14075,
+   "code": "PRY"
+ },
+ {
+   "Year": 2009,
+   "name": "peru",
+   "norm": 8573,
+   "code": "PER"
+ },
+ {
+   "Year": 2009,
+   "name": "philippines",
+   "norm": 17304,
+   "code": "PHL"
+ },
+ {
+   "Year": 2009,
+   "name": "poland",
+   "norm": 23115,
+   "code": "POL"
+ },
+ {
+   "Year": 2009,
+   "name": "portugal",
+   "norm": 15944,
+   "code": "PRT"
+ },
+ {
+   "Year": 2009,
+   "name": "puerto rico",
+   "norm": 12906,
+   "code": "PRI"
+ },
+ {
+   "Year": 2009,
+   "name": "qatar",
+   "norm": 6815,
+   "code": "QAT"
+ },
+ {
+   "Year": 2009,
+   "name": "republic of korea",
+   "norm": 10983,
+   "code": "PRK"
+ },
+ {
+   "Year": 2009,
+   "name": "republic of moldova",
+   "norm": 28058,
+   "code": "MDA"
+ },
+ {
+   "Year": 2009,
+   "name": "reunion",
+   "norm": 14400,
+   "code": "REU"
+ },
+ {
+   "Year": 2009,
+   "name": "rodrigues",
+   "norm": 20675,
+   "code": "MU-RO"
+ },
+ {
+   "Year": 2009,
+   "name": "romania",
+   "norm": 30041,
+   "code": "ROU"
+ },
+ {
+   "Year": 2009,
+   "name": "saint kitts and nevis",
+   "norm": 14830,
+   "code": "KNA"
+ },
+ {
+   "Year": 2009,
+   "name": "saint lucia",
+   "norm": 16889,
+   "code": "LCA"
+ },
+ {
+   "Year": 2009,
+   "name": "saint pierre and miquelon",
+   "norm": 14285,
+   "code": "SPM"
+ },
+ {
+   "Year": 2009,
+   "name": "saint vincent and grenadines",
+   "norm": 19948,
+   "code": "VCT"
+ },
+ {
+   "Year": 2009,
+   "name": "saudi arabia",
+   "norm": 8619,
+   "code": "SAU"
+ },
+ {
+   "Year": 2009,
+   "name": "serbia",
+   "norm": 27380,
+   "code": "SRB"
+ },
+ {
+   "Year": 2009,
+   "name": "slovakia",
+   "norm": 26693,
+   "code": "SVK"
+ },
+ {
+   "Year": 2009,
+   "name": "slovenia",
+   "norm": 19818,
+   "code": "SVL"
+ },
+ {
+   "Year": 2009,
+   "name": "south africa",
+   "norm": 7369,
+   "code": "ZAF"
+ },
+ {
+   "Year": 2009,
+   "name": "spain",
+   "norm": 15594,
+   "code": "ESP"
+ },
+ {
+   "Year": 2009,
+   "name": "sri lanka",
+   "norm": 12282,
+   "code": "LKA"
+ },
+ {
+   "Year": 2009,
+   "name": "suriname",
+   "norm": 14214,
+   "code": "SUR"
+ },
+ {
+   "Year": 2009,
+   "name": "sweden",
+   "norm": 20040,
+   "code": "SWE"
+ },
+ {
+   "Year": 2009,
+   "name": "switzerland",
+   "norm": 17782,
+   "code": "CHE"
+ },
+ {
+   "Year": 2009,
+   "name": "thailand",
+   "norm": 4448,
+   "code": "THA"
+ },
+ {
+   "Year": 2009,
+   "name": "trinidad and tobago",
+   "norm": 16548,
+   "code": "TTO"
+ },
+ {
+   "Year": 2009,
+   "name": "tunisia",
+   "norm": 14423,
+   "code": "TUN"
+ },
+ {
+   "Year": 2009,
+   "name": "turkey",
+   "norm": 19921,
+   "code": "TUR"
+ },
+ {
+   "Year": 2009,
+   "name": "turks and caicos islands",
+   "norm": 11842,
+   "code": "TCA"
+ },
+ {
+   "Year": 2009,
+   "name": "united kingdom",
+   "norm": 16176,
+   "code": "GBR"
+ },
+ {
+   "Year": 2009,
+   "name": "united kingdom, england and wales",
+   "norm": 16260,
+   "code": "GBR"
+ },
+ {
+   "Year": 2009,
+   "name": "united kingdom, northern ireland",
+   "norm": 15558,
+   "code": "GBR"
+ },
+ {
+   "Year": 2009,
+   "name": "united kingdom, scotland",
+   "norm": 15568,
+   "code": "GBR"
+ },
+ {
+   "Year": 2009,
+   "name": "united states of america",
+   "norm": 16098,
+   "code": "USA"
+ },
+ {
+   "Year": 2009,
+   "name": "uruguay",
+   "norm": 14822,
+   "code": "URY"
+ },
+ {
+   "Year": 2009,
+   "name": "uzbekistan",
+   "norm": 29651,
+   "code": "UZB"
+ },
+ {
+   "Year": 2009,
+   "name": "venezuela",
+   "norm": 14883,
+   "code": "VEN"
+ },
+ {
+   "Year": 2009,
+   "name": "virgin islands (usa)",
+   "norm": 17717,
+   "code": "VIR"
+ },
+ {
+   "Year": 2010,
+   "name": "anguilla",
+   "norm": 17692,
+   "code": "AIA"
+ },
+ {
+   "Year": 2010,
+   "name": "argentina",
+   "norm": 15254,
+   "code": "ARG"
+ },
+ {
+   "Year": 2010,
+   "name": "armenia",
+   "norm": 24456,
+   "code": "ARM"
+ },
+ {
+   "Year": 2010,
+   "name": "aruba",
+   "norm": 16080,
+   "code": "ABW"
+ },
+ {
+   "Year": 2010,
+   "name": "australia",
+   "norm": 15863,
+   "code": "AUS"
+ },
+ {
+   "Year": 2010,
+   "name": "austria",
+   "norm": 21500,
+   "code": "AUT"
+ },
+ {
+   "Year": 2010,
+   "name": "bahamas",
+   "norm": 17053,
+   "code": "BHS"
+ },
+ {
+   "Year": 2010,
+   "name": "bahrain",
+   "norm": 16597,
+   "code": "BHR"
+ },
+ {
+   "Year": 2010,
+   "name": "barbados",
+   "norm": 14547,
+   "code": "BRB"
+ },
+ {
+   "Year": 2010,
+   "name": "belgium",
+   "norm": 15306,
+   "code": "BEL"
+ },
+ {
+   "Year": 2010,
+   "name": "belize",
+   "norm": 10468,
+   "code": "BLZ"
+ },
+ {
+   "Year": 2010,
+   "name": "bermuda",
+   "norm": 13369,
+   "code": "BMU"
+ },
+ {
+   "Year": 2010,
+   "name": "brazil",
+   "norm": 14352,
+   "code": "BRA"
+ },
+ {
+   "Year": 2010,
+   "name": "british virgin islands",
+   "norm": 11538,
+   "code": "VGB"
+ },
+ {
+   "Year": 2010,
+   "name": "bulgaria",
+   "norm": 33763,
+   "code": "BGR"
+ },
+ {
+   "Year": 2010,
+   "name": "canada",
+   "norm": 14099,
+   "code": "CAN"
+ },
+ {
+   "Year": 2010,
+   "name": "cayman islands",
+   "norm": 14238,
+   "code": "CYM"
+ },
+ {
+   "Year": 2010,
+   "name": "chile",
+   "norm": 13866,
+   "code": "CHL"
+ },
+ {
+   "Year": 2010,
+   "name": "colombia",
+   "norm": 14810,
+   "code": "COL"
+ },
+ {
+   "Year": 2010,
+   "name": "costa rica",
+   "norm": 14743,
+   "code": "CRI"
+ },
+ {
+   "Year": 2010,
+   "name": "croatia",
+   "norm": 24599,
+   "code": "HRV"
+ },
+ {
+   "Year": 2010,
+   "name": "cuba",
+   "norm": 20167,
+   "code": "CUB"
+ },
+ {
+   "Year": 2010,
+   "name": "cyprus",
+   "norm": 18920,
+   "code": "CYP"
+ },
+ {
+   "Year": 2010,
+   "name": "czech republic",
+   "norm": 25078,
+   "code": "CZE"
+ },
+ {
+   "Year": 2010,
+   "name": "denmark",
+   "norm": 13324,
+   "code": "DNK"
+ },
+ {
+   "Year": 2010,
+   "name": "dominica",
+   "norm": 15619,
+   "code": "DMA"
+ },
+ {
+   "Year": 2010,
+   "name": "dominican republic",
+   "norm": 17991,
+   "code": "DOM"
+ },
+ {
+   "Year": 2010,
+   "name": "ecuador",
+   "norm": 10996,
+   "code": "ECU"
+ },
+ {
+   "Year": 2010,
+   "name": "egypt",
+   "norm": 22597,
+   "code": "EGY"
+ },
+ {
+   "Year": 2010,
+   "name": "el salvador",
+   "norm": 9266,
+   "code": "SLV"
+ },
+ {
+   "Year": 2010,
+   "name": "estonia",
+   "norm": 27723,
+   "code": "EST"
+ },
+ {
+   "Year": 2010,
+   "name": "finland",
+   "norm": 20219,
+   "code": "FIN"
+ },
+ {
+   "Year": 2010,
+   "name": "france",
+   "norm": 13215,
+   "code": "FRA"
+ },
+ {
+   "Year": 2010,
+   "name": "french guiana",
+   "norm": 9403,
+   "code": "GUF"
+ },
+ {
+   "Year": 2010,
+   "name": "georgia",
+   "norm": 15069,
+   "code": "GEO"
+ },
+ {
+   "Year": 2010,
+   "name": "germany",
+   "norm": 20534,
+   "code": "DEU"
+ },
+ {
+   "Year": 2010,
+   "name": "grenada",
+   "norm": 17572,
+   "code": "GRD"
+ },
+ {
+   "Year": 2010,
+   "name": "guadeloupe",
+   "norm": 12922,
+   "code": "GLP"
+ },
+ {
+   "Year": 2010,
+   "name": "guatemala",
+   "norm": 7055,
+   "code": "GTM"
+ },
+ {
+   "Year": 2010,
+   "name": "guyana",
+   "norm": 18267,
+   "code": "GUY"
+ },
+ {
+   "Year": 2010,
+   "name": "honduras",
+   "norm": 9400,
+   "code": "HND"
+ },
+ {
+   "Year": 2010,
+   "name": "hong kong sar",
+   "norm": 12681,
+   "code": "HKG"
+ },
+ {
+   "Year": 2010,
+   "name": "hungary",
+   "norm": 25226,
+   "code": "HUN"
+ },
+ {
+   "Year": 2010,
+   "name": "iceland",
+   "norm": 17929,
+   "code": "ISL"
+ },
+ {
+   "Year": 2010,
+   "name": "ireland",
+   "norm": 16940,
+   "code": "IRL"
+ },
+ {
+   "Year": 2010,
+   "name": "israel",
+   "norm": 12865,
+   "code": "ISR"
+ },
+ {
+   "Year": 2010,
+   "name": "italy",
+   "norm": 18954,
+   "code": "ITA"
+ },
+ {
+   "Year": 2010,
+   "name": "jamaica",
+   "norm": 16285,
+   "code": "JAM"
+ },
+ {
+   "Year": 2010,
+   "name": "japan",
+   "norm": 14280,
+   "code": "JPN"
+ },
+ {
+   "Year": 2010,
+   "name": "jordan",
+   "norm": 18021,
+   "code": "JOR"
+ },
+ {
+   "Year": 2010,
+   "name": "kuwait",
+   "norm": 21016,
+   "code": "KWT"
+ },
+ {
+   "Year": 2010,
+   "name": "kyrgyzstan",
+   "norm": 24386,
+   "code": "KGZ"
+ },
+ {
+   "Year": 2010,
+   "name": "latvia",
+   "norm": 27060,
+   "code": "LVA"
+ },
+ {
+   "Year": 2010,
+   "name": "lithuania",
+   "norm": 28047,
+   "code": "LTU"
+ },
+ {
+   "Year": 2010,
+   "name": "luxembourg",
+   "norm": 16956,
+   "code": "LUX"
+ },
+ {
+   "Year": 2010,
+   "name": "malaysia",
+   "norm": 13749,
+   "code": "MYS"
+ },
+ {
+   "Year": 2010,
+   "name": "maldives",
+   "norm": 21156,
+   "code": "MDV"
+ },
+ {
+   "Year": 2010,
+   "name": "malta",
+   "norm": 19119,
+   "code": "MLT"
+ },
+ {
+   "Year": 2010,
+   "name": "martinique",
+   "norm": 12859,
+   "code": "MTQ"
+ },
+ {
+   "Year": 2010,
+   "name": "mauritius",
+   "norm": 16111,
+   "code": "MUS"
+ },
+ {
+   "Year": 2010,
+   "name": "mexico",
+   "norm": 11916,
+   "code": "MEX"
+ },
+ {
+   "Year": 2010,
+   "name": "montserrat",
+   "norm": 21250,
+   "code": "MSR"
+ },
+ {
+   "Year": 2010,
+   "name": "morocco",
+   "norm": 9597,
+   "code": "MAR"
+ },
+ {
+   "Year": 2010,
+   "name": "netherlands",
+   "norm": 14335,
+   "code": "NLD"
+ },
+ {
+   "Year": 2010,
+   "name": "new zealand",
+   "norm": 17758,
+   "code": "NZL"
+ },
+ {
+   "Year": 2010,
+   "name": "nicaragua",
+   "norm": 13049,
+   "code": "NIC"
+ },
+ {
+   "Year": 2010,
+   "name": "north macedonia",
+   "norm": 28951,
+   "code": "MKD"
+ },
+ {
+   "Year": 2010,
+   "name": "norway",
+   "norm": 15839,
+   "code": "NOR"
+ },
+ {
+   "Year": 2010,
+   "name": "occupied palestinian territory",
+   "norm": 20362,
+   "code": "PSE"
+ },
+ {
+   "Year": 2010,
+   "name": "oman",
+   "norm": 9992,
+   "code": "OMN"
+ },
+ {
+   "Year": 2010,
+   "name": "panama",
+   "norm": 13925,
+   "code": "PAN"
+ },
+ {
+   "Year": 2010,
+   "name": "paraguay",
+   "norm": 14069,
+   "code": "PRY"
+ },
+ {
+   "Year": 2010,
+   "name": "peru",
+   "norm": 8729,
+   "code": "PER"
+ },
+ {
+   "Year": 2010,
+   "name": "philippines",
+   "norm": 17561,
+   "code": "PHL"
+ },
+ {
+   "Year": 2010,
+   "name": "poland",
+   "norm": 22987,
+   "code": "POL"
+ },
+ {
+   "Year": 2010,
+   "name": "portugal",
+   "norm": 15897,
+   "code": "PRT"
+ },
+ {
+   "Year": 2010,
+   "name": "puerto rico",
+   "norm": 12614,
+   "code": "PRI"
+ },
+ {
+   "Year": 2010,
+   "name": "qatar",
+   "norm": 7335,
+   "code": "QAT"
+ },
+ {
+   "Year": 2010,
+   "name": "republic of korea",
+   "norm": 10986,
+   "code": "PRK"
+ },
+ {
+   "Year": 2010,
+   "name": "republic of moldova",
+   "norm": 28090,
+   "code": "MDA"
+ },
+ {
+   "Year": 2010,
+   "name": "reunion",
+   "norm": 14483,
+   "code": "REU"
+ },
+ {
+   "Year": 2010,
+   "name": "rodrigues",
+   "norm": 18958,
+   "code": "MU-RO"
+ },
+ {
+   "Year": 2010,
+   "name": "romania",
+   "norm": 30101,
+   "code": "ROU"
+ },
+ {
+   "Year": 2010,
+   "name": "saint kitts and nevis",
+   "norm": 16860,
+   "code": "KNA"
+ },
+ {
+   "Year": 2010,
+   "name": "saint lucia",
+   "norm": 17781,
+   "code": "LCA"
+ },
+ {
+   "Year": 2010,
+   "name": "saint pierre and miquelon",
+   "norm": 11538,
+   "code": "SPM"
+ },
+ {
+   "Year": 2010,
+   "name": "saint vincent and grenadines",
+   "norm": 18286,
+   "code": "VCT"
+ },
+ {
+   "Year": 2010,
+   "name": "serbia",
+   "norm": 27345,
+   "code": "SRB"
+ },
+ {
+   "Year": 2010,
+   "name": "slovakia",
+   "norm": 26698,
+   "code": "SVK"
+ },
+ {
+   "Year": 2010,
+   "name": "slovenia",
+   "norm": 19697,
+   "code": "SVL"
+ },
+ {
+   "Year": 2010,
+   "name": "south africa",
+   "norm": 7601,
+   "code": "ZAF"
+ },
+ {
+   "Year": 2010,
+   "name": "spain",
+   "norm": 15590,
+   "code": "ESP"
+ },
+ {
+   "Year": 2010,
+   "name": "sri lanka",
+   "norm": 12506,
+   "code": "LKA"
+ },
+ {
+   "Year": 2010,
+   "name": "suriname",
+   "norm": 14390,
+   "code": "SUR"
+ },
+ {
+   "Year": 2010,
+   "name": "sweden",
+   "norm": 19854,
+   "code": "SWE"
+ },
+ {
+   "Year": 2010,
+   "name": "switzerland",
+   "norm": 17525,
+   "code": "CHE"
+ },
+ {
+   "Year": 2010,
+   "name": "syrian arab republic",
+   "norm": 25199,
+   "code": "SYR"
+ },
+ {
+   "Year": 2010,
+   "name": "thailand",
+   "norm": 4796,
+   "code": "THA"
+ },
+ {
+   "Year": 2010,
+   "name": "trinidad and tobago",
+   "norm": 16293,
+   "code": "TTO"
+ },
+ {
+   "Year": 2010,
+   "name": "turkey",
+   "norm": 19815,
+   "code": "TUR"
+ },
+ {
+   "Year": 2010,
+   "name": "united kingdom",
+   "norm": 15944,
+   "code": "GBR"
+ },
+ {
+   "Year": 2010,
+   "name": "united kingdom, england and wales",
+   "norm": 16028,
+   "code": "GBR"
+ },
+ {
+   "Year": 2010,
+   "name": "united kingdom, northern ireland",
+   "norm": 15480,
+   "code": "GBR"
+ },
+ {
+   "Year": 2010,
+   "name": "united kingdom, scotland",
+   "norm": 15302,
+   "code": "GBR"
+ },
+ {
+   "Year": 2010,
+   "name": "united states of america",
+   "norm": 15888,
+   "code": "USA"
+ },
+ {
+   "Year": 2010,
+   "name": "uruguay",
+   "norm": 14799,
+   "code": "URY"
+ },
+ {
+   "Year": 2010,
+   "name": "uzbekistan",
+   "norm": 30568,
+   "code": "UZB"
+ },
+ {
+   "Year": 2010,
+   "name": "venezuela",
+   "norm": 15317,
+   "code": "VEN"
+ },
+ {
+   "Year": 2010,
+   "name": "virgin islands (usa)",
+   "norm": 16809,
+   "code": "VIR"
+ },
+ {
+   "Year": 2011,
+   "name": "anguilla",
+   "norm": 18032,
+   "code": "AIA"
+ },
+ {
+   "Year": 2011,
+   "name": "argentina",
+   "norm": 15128,
+   "code": "ARG"
+ },
+ {
+   "Year": 2011,
+   "name": "armenia",
+   "norm": 23808,
+   "code": "ARM"
+ },
+ {
+   "Year": 2011,
+   "name": "aruba",
+   "norm": 16428,
+   "code": "ABW"
+ },
+ {
+   "Year": 2011,
+   "name": "australia",
+   "norm": 15529,
+   "code": "AUS"
+ },
+ {
+   "Year": 2011,
+   "name": "austria",
+   "norm": 21165,
+   "code": "AUT"
+ },
+ {
+   "Year": 2011,
+   "name": "bahamas",
+   "norm": 16698,
+   "code": "BHS"
+ },
+ {
+   "Year": 2011,
+   "name": "bahrain",
+   "norm": 16165,
+   "code": "BHR"
+ },
+ {
+   "Year": 2011,
+   "name": "barbados",
+   "norm": 14564,
+   "code": "BRB"
+ },
+ {
+   "Year": 2011,
+   "name": "belgium",
+   "norm": 14865,
+   "code": "BEL"
+ },
+ {
+   "Year": 2011,
+   "name": "belize",
+   "norm": 10900,
+   "code": "BLZ"
+ },
+ {
+   "Year": 2011,
+   "name": "bermuda",
+   "norm": 18393,
+   "code": "BMU"
+ },
+ {
+   "Year": 2011,
+   "name": "bosnia and herzegovina",
+   "norm": 26258,
+   "code": "BIH"
+ },
+ {
+   "Year": 2011,
+   "name": "brazil",
+   "norm": 14319,
+   "code": "BRA"
+ },
+ {
+   "Year": 2011,
+   "name": "brunei darussalam",
+   "norm": 13319,
+   "code": "BRN"
+ },
+ {
+   "Year": 2011,
+   "name": "bulgaria",
+   "norm": 33522,
+   "code": "BGR"
+ },
+ {
+   "Year": 2011,
+   "name": "canada",
+   "norm": 13668,
+   "code": "CAN"
+ },
+ {
+   "Year": 2011,
+   "name": "cape verde",
+   "norm": 12990,
+   "code": "CPV"
+ },
+ {
+   "Year": 2011,
+   "name": "chile",
+   "norm": 13551,
+   "code": "CHL"
+ },
+ {
+   "Year": 2011,
+   "name": "colombia",
+   "norm": 15032,
+   "code": "COL"
+ },
+ {
+   "Year": 2011,
+   "name": "costa rica",
+   "norm": 14736,
+   "code": "CRI"
+ },
+ {
+   "Year": 2011,
+   "name": "croatia",
+   "norm": 24344,
+   "code": "HRV"
+ },
+ {
+   "Year": 2011,
+   "name": "cuba",
+   "norm": 19328,
+   "code": "CUB"
+ },
+ {
+   "Year": 2011,
+   "name": "cyprus",
+   "norm": 19445,
+   "code": "CYP"
+ },
+ {
+   "Year": 2011,
+   "name": "czech republic",
+   "norm": 24672,
+   "code": "CZE"
+ },
+ {
+   "Year": 2011,
+   "name": "denmark",
+   "norm": 12539,
+   "code": "DNK"
+ },
+ {
+   "Year": 2011,
+   "name": "dominica",
+   "norm": 15091,
+   "code": "DMA"
+ },
+ {
+   "Year": 2011,
+   "name": "dominican republic",
+   "norm": 17398,
+   "code": "DOM"
+ },
+ {
+   "Year": 2011,
+   "name": "ecuador",
+   "norm": 10960,
+   "code": "ECU"
+ },
+ {
+   "Year": 2011,
+   "name": "egypt",
+   "norm": 22187,
+   "code": "EGY"
+ },
+ {
+   "Year": 2011,
+   "name": "el salvador",
+   "norm": 9415,
+   "code": "SLV"
+ },
+ {
+   "Year": 2011,
+   "name": "estonia",
+   "norm": 26831,
+   "code": "EST"
+ },
+ {
+   "Year": 2011,
+   "name": "fiji",
+   "norm": 17454,
+   "code": "FJI"
+ },
+ {
+   "Year": 2011,
+   "name": "finland",
+   "norm": 20018,
+   "code": "FIN"
+ },
+ {
+   "Year": 2011,
+   "name": "france",
+   "norm": 12921,
+   "code": "FRA"
+ },
+ {
+   "Year": 2011,
+   "name": "french guiana",
+   "norm": 9163,
+   "code": "GUF"
+ },
+ {
+   "Year": 2011,
+   "name": "georgia",
+   "norm": 17946,
+   "code": "GEO"
+ },
+ {
+   "Year": 2011,
+   "name": "germany",
+   "norm": 20076,
+   "code": "DEU"
+ },
+ {
+   "Year": 2011,
+   "name": "grenada",
+   "norm": 16562,
+   "code": "GRD"
+ },
+ {
+   "Year": 2011,
+   "name": "guadeloupe",
+   "norm": 13051,
+   "code": "GLP"
+ },
+ {
+   "Year": 2011,
+   "name": "guatemala",
+   "norm": 7712,
+   "code": "GTM"
+ },
+ {
+   "Year": 2011,
+   "name": "guyana",
+   "norm": 18076,
+   "code": "GUY"
+ },
+ {
+   "Year": 2011,
+   "name": "honduras",
+   "norm": 9158,
+   "code": "HND"
+ },
+ {
+   "Year": 2011,
+   "name": "hong kong sar",
+   "norm": 12261,
+   "code": "HKG"
+ },
+ {
+   "Year": 2011,
+   "name": "hungary",
+   "norm": 24942,
+   "code": "HUN"
+ },
+ {
+   "Year": 2011,
+   "name": "iceland",
+   "norm": 17328,
+   "code": "ISL"
+ },
+ {
+   "Year": 2011,
+   "name": "ireland",
+   "norm": 16228,
+   "code": "IRL"
+ },
+ {
+   "Year": 2011,
+   "name": "israel",
+   "norm": 12850,
+   "code": "ISR"
+ },
+ {
+   "Year": 2011,
+   "name": "italy",
+   "norm": 18775,
+   "code": "ITA"
+ },
+ {
+   "Year": 2011,
+   "name": "jamaica",
+   "norm": 15059,
+   "code": "JAM"
+ },
+ {
+   "Year": 2011,
+   "name": "japan",
+   "norm": 13919,
+   "code": "JPN"
+ },
+ {
+   "Year": 2011,
+   "name": "jordan",
+   "norm": 18825,
+   "code": "JOR"
+ },
+ {
+   "Year": 2011,
+   "name": "kuwait",
+   "norm": 20818,
+   "code": "KWT"
+ },
+ {
+   "Year": 2011,
+   "name": "kyrgyzstan",
+   "norm": 25028,
+   "code": "KGZ"
+ },
+ {
+   "Year": 2011,
+   "name": "latvia",
+   "norm": 27448,
+   "code": "LVA"
+ },
+ {
+   "Year": 2011,
+   "name": "lithuania",
+   "norm": 28128,
+   "code": "LTU"
+ },
+ {
+   "Year": 2011,
+   "name": "luxembourg",
+   "norm": 16966,
+   "code": "LUX"
+ },
+ {
+   "Year": 2011,
+   "name": "malaysia",
+   "norm": 14043,
+   "code": "MYS"
+ },
+ {
+   "Year": 2011,
+   "name": "maldives",
+   "norm": 19881,
+   "code": "MDV"
+ },
+ {
+   "Year": 2011,
+   "name": "malta",
+   "norm": 22390,
+   "code": "MLT"
+ },
+ {
+   "Year": 2011,
+   "name": "martinique",
+   "norm": 12838,
+   "code": "MTQ"
+ },
+ {
+   "Year": 2011,
+   "name": "mauritius",
+   "norm": 15556,
+   "code": "MUS"
+ },
+ {
+   "Year": 2011,
+   "name": "mayotte",
+   "norm": 12500,
+   "code": "MYT"
+ },
+ {
+   "Year": 2011,
+   "name": "mexico",
+   "norm": 11895,
+   "code": "MEX"
+ },
+ {
+   "Year": 2011,
+   "name": "montserrat",
+   "norm": 14545,
+   "code": "MSR"
+ },
+ {
+   "Year": 2011,
+   "name": "morocco",
+   "norm": 10269,
+   "code": "MAR"
+ },
+ {
+   "Year": 2011,
+   "name": "netherlands",
+   "norm": 14045,
+   "code": "NLD"
+ },
+ {
+   "Year": 2011,
+   "name": "new zealand",
+   "norm": 17400,
+   "code": "NZL"
+ },
+ {
+   "Year": 2011,
+   "name": "nicaragua",
+   "norm": 13110,
+   "code": "NIC"
+ },
+ {
+   "Year": 2011,
+   "name": "north macedonia",
+   "norm": 29606,
+   "code": "MKD"
+ },
+ {
+   "Year": 2011,
+   "name": "norway",
+   "norm": 15690,
+   "code": "NOR"
+ },
+ {
+   "Year": 2011,
+   "name": "occupied palestinian territory",
+   "norm": 18046,
+   "code": "PSE"
+ },
+ {
+   "Year": 2011,
+   "name": "panama",
+   "norm": 14403,
+   "code": "PAN"
+ },
+ {
+   "Year": 2011,
+   "name": "paraguay",
+   "norm": 13934,
+   "code": "PRY"
+ },
+ {
+   "Year": 2011,
+   "name": "peru",
+   "norm": 8914,
+   "code": "PER"
+ },
+ {
+   "Year": 2011,
+   "name": "philippines",
+   "norm": 17791,
+   "code": "PHL"
+ },
+ {
+   "Year": 2011,
+   "name": "poland",
+   "norm": 22619,
+   "code": "POL"
+ },
+ {
+   "Year": 2011,
+   "name": "portugal",
+   "norm": 15343,
+   "code": "PRT"
+ },
+ {
+   "Year": 2011,
+   "name": "puerto rico",
+   "norm": 12566,
+   "code": "PRI"
+ },
+ {
+   "Year": 2011,
+   "name": "qatar",
+   "norm": 6131,
+   "code": "QAT"
+ },
+ {
+   "Year": 2011,
+   "name": "republic of korea",
+   "norm": 11048,
+   "code": "PRK"
+ },
+ {
+   "Year": 2011,
+   "name": "republic of moldova",
+   "norm": 28724,
+   "code": "MDA"
+ },
+ {
+   "Year": 2011,
+   "name": "reunion",
+   "norm": 13832,
+   "code": "REU"
+ },
+ {
+   "Year": 2011,
+   "name": "rodrigues",
+   "norm": 18264,
+   "code": "MU-RO"
+ },
+ {
+   "Year": 2011,
+   "name": "romania",
+   "norm": 30134,
+   "code": "ROU"
+ },
+ {
+   "Year": 2011,
+   "name": "saint kitts and nevis",
+   "norm": 16310,
+   "code": "KNA"
+ },
+ {
+   "Year": 2011,
+   "name": "saint lucia",
+   "norm": 13880,
+   "code": "LCA"
+ },
+ {
+   "Year": 2011,
+   "name": "saint vincent and grenadines",
+   "norm": 18965,
+   "code": "VCT"
+ },
+ {
+   "Year": 2011,
+   "name": "serbia",
+   "norm": 26965,
+   "code": "SRB"
+ },
+ {
+   "Year": 2011,
+   "name": "slovenia",
+   "norm": 19284,
+   "code": "SVL"
+ },
+ {
+   "Year": 2011,
+   "name": "south africa",
+   "norm": 8093,
+   "code": "ZAF"
+ },
+ {
+   "Year": 2011,
+   "name": "spain",
+   "norm": 15251,
+   "code": "ESP"
+ },
+ {
+   "Year": 2011,
+   "name": "sri lanka",
+   "norm": 12524,
+   "code": "LKA"
+ },
+ {
+   "Year": 2011,
+   "name": "suriname",
+   "norm": 13499,
+   "code": "SUR"
+ },
+ {
+   "Year": 2011,
+   "name": "sweden",
+   "norm": 19398,
+   "code": "SWE"
+ },
+ {
+   "Year": 2011,
+   "name": "switzerland",
+   "norm": 16882,
+   "code": "CHE"
+ },
+ {
+   "Year": 2011,
+   "name": "thailand",
+   "norm": 5321,
+   "code": "THA"
+ },
+ {
+   "Year": 2011,
+   "name": "trinidad and tobago",
+   "norm": 16152,
+   "code": "TTO"
+ },
+ {
+   "Year": 2011,
+   "name": "turkey",
+   "norm": 19400,
+   "code": "TUR"
+ },
+ {
+   "Year": 2011,
+   "name": "united kingdom",
+   "norm": 14449,
+   "code": "GBR"
+ },
+ {
+   "Year": 2011,
+   "name": "united kingdom, england and wales",
+   "norm": 14424,
+   "code": "GBR"
+ },
+ {
+   "Year": 2011,
+   "name": "united kingdom, northern ireland",
+   "norm": 13908,
+   "code": "GBR"
+ },
+ {
+   "Year": 2011,
+   "name": "united kingdom, scotland",
+   "norm": 14827,
+   "code": "GBR"
+ },
+ {
+   "Year": 2011,
+   "name": "united states of america",
+   "norm": 15573,
+   "code": "USA"
+ },
+ {
+   "Year": 2011,
+   "name": "uzbekistan",
+   "norm": 30807,
+   "code": "UZB"
+ },
+ {
+   "Year": 2011,
+   "name": "venezuela",
+   "norm": 15549,
+   "code": "VEN"
+ },
+ {
+   "Year": 2011,
+   "name": "virgin islands (usa)",
+   "norm": 14627,
+   "code": "VIR"
+ },
+ {
+   "Year": 2012,
+   "name": "anguilla",
+   "norm": 13235,
+   "code": "AIA"
+ },
+ {
+   "Year": 2012,
+   "name": "antigua and barbuda",
+   "norm": 17241,
+   "code": "ATG"
+ },
+ {
+   "Year": 2012,
+   "name": "argentina",
+   "norm": 14988,
+   "code": "ARG"
+ },
+ {
+   "Year": 2012,
+   "name": "armenia",
+   "norm": 24148,
+   "code": "ARM"
+ },
+ {
+   "Year": 2012,
+   "name": "aruba",
+   "norm": 15579,
+   "code": "ABW"
+ },
+ {
+   "Year": 2012,
+   "name": "australia",
+   "norm": 14968,
+   "code": "AUS"
+ },
+ {
+   "Year": 2012,
+   "name": "austria",
+   "norm": 21357,
+   "code": "AUT"
+ },
+ {
+   "Year": 2012,
+   "name": "bahamas",
+   "norm": 15429,
+   "code": "BHS"
+ },
+ {
+   "Year": 2012,
+   "name": "bahrain",
+   "norm": 15748,
+   "code": "BHR"
+ },
+ {
+   "Year": 2012,
+   "name": "barbados",
+   "norm": 14595,
+   "code": "BRB"
+ },
+ {
+   "Year": 2012,
+   "name": "belgium",
+   "norm": 14419,
+   "code": "BEL"
+ },
+ {
+   "Year": 2012,
+   "name": "belize",
+   "norm": 11295,
+   "code": "BLZ"
+ },
+ {
+   "Year": 2012,
+   "name": "bermuda",
+   "norm": 17924,
+   "code": "BMU"
+ },
+ {
+   "Year": 2012,
+   "name": "brazil",
+   "norm": 14108,
+   "code": "BRA"
+ },
+ {
+   "Year": 2012,
+   "name": "brunei darussalam",
+   "norm": 11348,
+   "code": "BRN"
+ },
+ {
+   "Year": 2012,
+   "name": "bulgaria",
+   "norm": 32779,
+   "code": "BGR"
+ },
+ {
+   "Year": 2012,
+   "name": "canada",
+   "norm": 13575,
+   "code": "CAN"
+ },
+ {
+   "Year": 2012,
+   "name": "cape verde",
+   "norm": 12500,
+   "code": "CPV"
+ },
+ {
+   "Year": 2012,
+   "name": "chile",
+   "norm": 13766,
+   "code": "CHL"
+ },
+ {
+   "Year": 2012,
+   "name": "colombia",
+   "norm": 15277,
+   "code": "COL"
+ },
+ {
+   "Year": 2012,
+   "name": "costa rica",
+   "norm": 15140,
+   "code": "CRI"
+ },
+ {
+   "Year": 2012,
+   "name": "croatia",
+   "norm": 24161,
+   "code": "HRV"
+ },
+ {
+   "Year": 2012,
+   "name": "cuba",
+   "norm": 19127,
+   "code": "CUB"
+ },
+ {
+   "Year": 2012,
+   "name": "cyprus",
+   "norm": 18354,
+   "code": "CYP"
+ },
+ {
+   "Year": 2012,
+   "name": "czech republic",
+   "norm": 24515,
+   "code": "CZE"
+ },
+ {
+   "Year": 2012,
+   "name": "denmark",
+   "norm": 12589,
+   "code": "DNK"
+ },
+ {
+   "Year": 2012,
+   "name": "dominica",
+   "norm": 19336,
+   "code": "DMA"
+ },
+ {
+   "Year": 2012,
+   "name": "dominican republic",
+   "norm": 16808,
+   "code": "DOM"
+ },
+ {
+   "Year": 2012,
+   "name": "ecuador",
+   "norm": 11326,
+   "code": "ECU"
+ },
+ {
+   "Year": 2012,
+   "name": "egypt",
+   "norm": 23224,
+   "code": "EGY"
+ },
+ {
+   "Year": 2012,
+   "name": "el salvador",
+   "norm": 8821,
+   "code": "SLV"
+ },
+ {
+   "Year": 2012,
+   "name": "estonia",
+   "norm": 26946,
+   "code": "EST"
+ },
+ {
+   "Year": 2012,
+   "name": "fiji",
+   "norm": 16730,
+   "code": "FJI"
+ },
+ {
+   "Year": 2012,
+   "name": "finland",
+   "norm": 19646,
+   "code": "FIN"
+ },
+ {
+   "Year": 2012,
+   "name": "france",
+   "norm": 12654,
+   "code": "FRA"
+ },
+ {
+   "Year": 2012,
+   "name": "french guiana",
+   "norm": 9010,
+   "code": "GUF"
+ },
+ {
+   "Year": 2012,
+   "name": "georgia",
+   "norm": 20265,
+   "code": "GEO"
+ },
+ {
+   "Year": 2012,
+   "name": "germany",
+   "norm": 20079,
+   "code": "DEU"
+ },
+ {
+   "Year": 2012,
+   "name": "grenada",
+   "norm": 16413,
+   "code": "GRD"
+ },
+ {
+   "Year": 2012,
+   "name": "guadeloupe",
+   "norm": 12152,
+   "code": "GLP"
+ },
+ {
+   "Year": 2012,
+   "name": "guatemala",
+   "norm": 8059,
+   "code": "GTM"
+ },
+ {
+   "Year": 2012,
+   "name": "guyana",
+   "norm": 18484,
+   "code": "GUY"
+ },
+ {
+   "Year": 2012,
+   "name": "honduras",
+   "norm": 8946,
+   "code": "HND"
+ },
+ {
+   "Year": 2012,
+   "name": "hong kong sar",
+   "norm": 11815,
+   "code": "HKG"
+ },
+ {
+   "Year": 2012,
+   "name": "hungary",
+   "norm": 24790,
+   "code": "HUN"
+ },
+ {
+   "Year": 2012,
+   "name": "iceland",
+   "norm": 16777,
+   "code": "ISL"
+ },
+ {
+   "Year": 2012,
+   "name": "ireland",
+   "norm": 16240,
+   "code": "IRL"
+ },
+ {
+   "Year": 2012,
+   "name": "israel",
+   "norm": 12127,
+   "code": "ISR"
+ },
+ {
+   "Year": 2012,
+   "name": "italy",
+   "norm": 18757,
+   "code": "ITA"
+ },
+ {
+   "Year": 2012,
+   "name": "jamaica",
+   "norm": 16717,
+   "code": "JAM"
+ },
+ {
+   "Year": 2012,
+   "name": "japan",
+   "norm": 13965,
+   "code": "JPN"
+ },
+ {
+   "Year": 2012,
+   "name": "jordan",
+   "norm": 18328,
+   "code": "JOR"
+ },
+ {
+   "Year": 2012,
+   "name": "kuwait",
+   "norm": 19915,
+   "code": "KWT"
+ },
+ {
+   "Year": 2012,
+   "name": "kyrgyzstan",
+   "norm": 25659,
+   "code": "KGZ"
+ },
+ {
+   "Year": 2012,
+   "name": "latvia",
+   "norm": 28075,
+   "code": "LVA"
+ },
+ {
+   "Year": 2012,
+   "name": "lithuania",
+   "norm": 28298,
+   "code": "LTU"
+ },
+ {
+   "Year": 2012,
+   "name": "luxembourg",
+   "norm": 16259,
+   "code": "LUX"
+ },
+ {
+   "Year": 2012,
+   "name": "malaysia",
+   "norm": 13907,
+   "code": "MYS"
+ },
+ {
+   "Year": 2012,
+   "name": "maldives",
+   "norm": 19349,
+   "code": "MDV"
+ },
+ {
+   "Year": 2012,
+   "name": "malta",
+   "norm": 23333,
+   "code": "MLT"
+ },
+ {
+   "Year": 2012,
+   "name": "mauritius",
+   "norm": 15676,
+   "code": "MUS"
+ },
+ {
+   "Year": 2012,
+   "name": "mayotte",
+   "norm": 9381,
+   "code": "MYT"
+ },
+ {
+   "Year": 2012,
+   "name": "mexico",
+   "norm": 12018,
+   "code": "MEX"
+ },
+ {
+   "Year": 2012,
+   "name": "montserrat",
+   "norm": 14772,
+   "code": "MSR"
+ },
+ {
+   "Year": 2012,
+   "name": "morocco",
+   "norm": 9542,
+   "code": "MAR"
+ },
+ {
+   "Year": 2012,
+   "name": "netherlands",
+   "norm": 13624,
+   "code": "NLD"
+ },
+ {
+   "Year": 2012,
+   "name": "new zealand",
+   "norm": 17107,
+   "code": "NZL"
+ },
+ {
+   "Year": 2012,
+   "name": "nicaragua",
+   "norm": 13142,
+   "code": "NIC"
+ },
+ {
+   "Year": 2012,
+   "name": "north macedonia",
+   "norm": 29616,
+   "code": "MKD"
+ },
+ {
+   "Year": 2012,
+   "name": "norway",
+   "norm": 15520,
+   "code": "NOR"
+ },
+ {
+   "Year": 2012,
+   "name": "occupied palestinian territory",
+   "norm": 21721,
+   "code": "PSE"
+ },
+ {
+   "Year": 2012,
+   "name": "panama",
+   "norm": 13449,
+   "code": "PAN"
+ },
+ {
+   "Year": 2012,
+   "name": "paraguay",
+   "norm": 13600,
+   "code": "PRY"
+ },
+ {
+   "Year": 2012,
+   "name": "peru",
+   "norm": 8861,
+   "code": "PER"
+ },
+ {
+   "Year": 2012,
+   "name": "poland",
+   "norm": 23074,
+   "code": "POL"
+ },
+ {
+   "Year": 2012,
+   "name": "portugal",
+   "norm": 15216,
+   "code": "PRT"
+ },
+ {
+   "Year": 2012,
+   "name": "puerto rico",
+   "norm": 12100,
+   "code": "PRI"
+ },
+ {
+   "Year": 2012,
+   "name": "qatar",
+   "norm": 6105,
+   "code": "QAT"
+ },
+ {
+   "Year": 2012,
+   "name": "republic of korea",
+   "norm": 11032,
+   "code": "PRK"
+ },
+ {
+   "Year": 2012,
+   "name": "republic of moldova",
+   "norm": 28863,
+   "code": "MDA"
+ },
+ {
+   "Year": 2012,
+   "name": "reunion",
+   "norm": 12906,
+   "code": "REU"
+ },
+ {
+   "Year": 2012,
+   "name": "rodrigues",
+   "norm": 16458,
+   "code": "MU-RO"
+ },
+ {
+   "Year": 2012,
+   "name": "romania",
+   "norm": 30009,
+   "code": "ROU"
+ },
+ {
+   "Year": 2012,
+   "name": "saint kitts and nevis",
+   "norm": 16715,
+   "code": "KNA"
+ },
+ {
+   "Year": 2012,
+   "name": "saint lucia",
+   "norm": 15812,
+   "code": "LCA"
+ },
+ {
+   "Year": 2012,
+   "name": "saint vincent and grenadines",
+   "norm": 17520,
+   "code": "VCT"
+ },
+ {
+   "Year": 2012,
+   "name": "saudi arabia",
+   "norm": 9001,
+   "code": "SAU"
+ },
+ {
+   "Year": 2012,
+   "name": "serbia",
+   "norm": 26841,
+   "code": "SRB"
+ },
+ {
+   "Year": 2012,
+   "name": "singapore",
+   "norm": 15495,
+   "code": "SGP"
+ },
+ {
+   "Year": 2012,
+   "name": "slovakia",
+   "norm": 22497,
+   "code": "SVK"
+ },
+ {
+   "Year": 2012,
+   "name": "slovenia",
+   "norm": 19403,
+   "code": "SVL"
+ },
+ {
+   "Year": 2012,
+   "name": "south africa",
+   "norm": 8227,
+   "code": "ZAF"
+ },
+ {
+   "Year": 2012,
+   "name": "spain",
+   "norm": 15150,
+   "code": "ESP"
+ },
+ {
+   "Year": 2012,
+   "name": "sri lanka",
+   "norm": 12447,
+   "code": "LKA"
+ },
+ {
+   "Year": 2012,
+   "name": "suriname",
+   "norm": 14316,
+   "code": "SUR"
+ },
+ {
+   "Year": 2012,
+   "name": "sweden",
+   "norm": 18996,
+   "code": "SWE"
+ },
+ {
+   "Year": 2012,
+   "name": "switzerland",
+   "norm": 16887,
+   "code": "CHE"
+ },
+ {
+   "Year": 2012,
+   "name": "thailand",
+   "norm": 5582,
+   "code": "THA"
+ },
+ {
+   "Year": 2012,
+   "name": "trinidad and tobago",
+   "norm": 16966,
+   "code": "TTO"
+ },
+ {
+   "Year": 2012,
+   "name": "turkey",
+   "norm": 18965,
+   "code": "TUR"
+ },
+ {
+   "Year": 2012,
+   "name": "turks and caicos islands",
+   "norm": 26595,
+   "code": "TCA"
+ },
+ {
+   "Year": 2012,
+   "name": "united kingdom",
+   "norm": 14170,
+   "code": "GBR"
+ },
+ {
+   "Year": 2012,
+   "name": "united kingdom, england and wales",
+   "norm": 14156,
+   "code": "GBR"
+ },
+ {
+   "Year": 2012,
+   "name": "united kingdom, northern ireland",
+   "norm": 13557,
+   "code": "GBR"
+ },
+ {
+   "Year": 2012,
+   "name": "united kingdom, scotland",
+   "norm": 14461,
+   "code": "GBR"
+ },
+ {
+   "Year": 2012,
+   "name": "united states of america",
+   "norm": 15480,
+   "code": "USA"
+ },
+ {
+   "Year": 2012,
+   "name": "uruguay",
+   "norm": 14053,
+   "code": "URY"
+ },
+ {
+   "Year": 2012,
+   "name": "uzbekistan",
+   "norm": 30820,
+   "code": "UZB"
+ },
+ {
+   "Year": 2012,
+   "name": "venezuela",
+   "norm": 15137,
+   "code": "VEN"
+ },
+ {
+   "Year": 2012,
+   "name": "virgin islands (usa)",
+   "norm": 14453,
+   "code": "VIR"
+ },
+ {
+   "Year": 2013,
+   "name": "anguilla",
+   "norm": 17948,
+   "code": "AIA"
+ },
+ {
+   "Year": 2013,
+   "name": "antigua and barbuda",
+   "norm": 17834,
+   "code": "ATG"
+ },
+ {
+   "Year": 2013,
+   "name": "argentina",
+   "norm": 14431,
+   "code": "ARG"
+ },
+ {
+   "Year": 2013,
+   "name": "armenia",
+   "norm": 23827,
+   "code": "ARM"
+ },
+ {
+   "Year": 2013,
+   "name": "aruba",
+   "norm": 15706,
+   "code": "ABW"
+ },
+ {
+   "Year": 2013,
+   "name": "australia",
+   "norm": 14766,
+   "code": "AUS"
+ },
+ {
+   "Year": 2013,
+   "name": "austria",
+   "norm": 21440,
+   "code": "AUT"
+ },
+ {
+   "Year": 2013,
+   "name": "bahamas",
+   "norm": 15060,
+   "code": "BHS"
+ },
+ {
+   "Year": 2013,
+   "name": "bahrain",
+   "norm": 16329,
+   "code": "BHR"
+ },
+ {
+   "Year": 2013,
+   "name": "barbados",
+   "norm": 14965,
+   "code": "BRB"
+ },
+ {
+   "Year": 2013,
+   "name": "belgium",
+   "norm": 14320,
+   "code": "BEL"
+ },
+ {
+   "Year": 2013,
+   "name": "belize",
+   "norm": 10397,
+   "code": "BLZ"
+ },
+ {
+   "Year": 2013,
+   "name": "bermuda",
+   "norm": 17124,
+   "code": "BMU"
+ },
+ {
+   "Year": 2013,
+   "name": "brazil",
+   "norm": 14029,
+   "code": "BRA"
+ },
+ {
+   "Year": 2013,
+   "name": "brunei darussalam",
+   "norm": 12535,
+   "code": "BRN"
+ },
+ {
+   "Year": 2013,
+   "name": "bulgaria",
+   "norm": 32541,
+   "code": "BGR"
+ },
+ {
+   "Year": 2013,
+   "name": "canada",
+   "norm": 13559,
+   "code": "CAN"
+ },
+ {
+   "Year": 2013,
+   "name": "cayman islands",
+   "norm": 15000,
+   "code": "CYM"
+ },
+ {
+   "Year": 2013,
+   "name": "chile",
+   "norm": 13861,
+   "code": "CHL"
+ },
+ {
+   "Year": 2013,
+   "name": "colombia",
+   "norm": 15394,
+   "code": "COL"
+ },
+ {
+   "Year": 2013,
+   "name": "costa rica",
+   "norm": 14337,
+   "code": "CRI"
+ },
+ {
+   "Year": 2013,
+   "name": "croatia",
+   "norm": 24046,
+   "code": "HRV"
+ },
+ {
+   "Year": 2013,
+   "name": "cuba",
+   "norm": 18895,
+   "code": "CUB"
+ },
+ {
+   "Year": 2013,
+   "name": "cyprus",
+   "norm": 17289,
+   "code": "CYP"
+ },
+ {
+   "Year": 2013,
+   "name": "czech republic",
+   "norm": 23695,
+   "code": "CZE"
+ },
+ {
+   "Year": 2013,
+   "name": "denmark",
+   "norm": 12125,
+   "code": "DNK"
+ },
+ {
+   "Year": 2013,
+   "name": "dominica",
+   "norm": 18093,
+   "code": "DMA"
+ },
+ {
+   "Year": 2013,
+   "name": "dominican republic",
+   "norm": 15828,
+   "code": "DOM"
+ },
+ {
+   "Year": 2013,
+   "name": "ecuador",
+   "norm": 11465,
+   "code": "ECU"
+ },
+ {
+   "Year": 2013,
+   "name": "egypt",
+   "norm": 21371,
+   "code": "EGY"
+ },
+ {
+   "Year": 2013,
+   "name": "el salvador",
+   "norm": 8156,
+   "code": "SLV"
+ },
+ {
+   "Year": 2013,
+   "name": "estonia",
+   "norm": 26970,
+   "code": "EST"
+ },
+ {
+   "Year": 2013,
+   "name": "finland",
+   "norm": 19089,
+   "code": "FIN"
+ },
+ {
+   "Year": 2013,
+   "name": "france",
+   "norm": 12489,
+   "code": "FRA"
+ },
+ {
+   "Year": 2013,
+   "name": "french guiana",
+   "norm": 8727,
+   "code": "GUF"
+ },
+ {
+   "Year": 2013,
+   "name": "georgia",
+   "norm": 19250,
+   "code": "GEO"
+ },
+ {
+   "Year": 2013,
+   "name": "germany",
+   "norm": 19830,
+   "code": "DEU"
+ },
+ {
+   "Year": 2013,
+   "name": "grenada",
+   "norm": 17439,
+   "code": "GRD"
+ },
+ {
+   "Year": 2013,
+   "name": "guadeloupe",
+   "norm": 12066,
+   "code": "GLP"
+ },
+ {
+   "Year": 2013,
+   "name": "guatemala",
+   "norm": 7967,
+   "code": "GTM"
+ },
+ {
+   "Year": 2013,
+   "name": "guyana",
+   "norm": 17711,
+   "code": "GUY"
+ },
+ {
+   "Year": 2013,
+   "name": "honduras",
+   "norm": 8823,
+   "code": "HND"
+ },
+ {
+   "Year": 2013,
+   "name": "hong kong sar",
+   "norm": 11269,
+   "code": "HKG"
+ },
+ {
+   "Year": 2013,
+   "name": "hungary",
+   "norm": 24838,
+   "code": "HUN"
+ },
+ {
+   "Year": 2013,
+   "name": "iceland",
+   "norm": 16427,
+   "code": "ISL"
+ },
+ {
+   "Year": 2013,
+   "name": "iran (islamic republic of)",
+   "norm": 21923,
+   "code": "IRN"
+ },
+ {
+   "Year": 2013,
+   "name": "ireland",
+   "norm": 16053,
+   "code": "IRL"
+ },
+ {
+   "Year": 2013,
+   "name": "israel",
+   "norm": 12097,
+   "code": "ISR"
+ },
+ {
+   "Year": 2013,
+   "name": "italy",
+   "norm": 18535,
+   "code": "ITA"
+ },
+ {
+   "Year": 2013,
+   "name": "jamaica",
+   "norm": 17361,
+   "code": "JAM"
+ },
+ {
+   "Year": 2013,
+   "name": "japan",
+   "norm": 13625,
+   "code": "JPN"
+ },
+ {
+   "Year": 2013,
+   "name": "kazakhstan",
+   "norm": 15296,
+   "code": "KAZ"
+ },
+ {
+   "Year": 2013,
+   "name": "kuwait",
+   "norm": 21078,
+   "code": "KWT"
+ },
+ {
+   "Year": 2013,
+   "name": "kyrgyzstan",
+   "norm": 25270,
+   "code": "KGZ"
+ },
+ {
+   "Year": 2013,
+   "name": "latvia",
+   "norm": 28511,
+   "code": "LVA"
+ },
+ {
+   "Year": 2013,
+   "name": "lithuania",
+   "norm": 28138,
+   "code": "LTU"
+ },
+ {
+   "Year": 2013,
+   "name": "luxembourg",
+   "norm": 15976,
+   "code": "LUX"
+ },
+ {
+   "Year": 2013,
+   "name": "malaysia",
+   "norm": 13508,
+   "code": "MYS"
+ },
+ {
+   "Year": 2013,
+   "name": "maldives",
+   "norm": 19368,
+   "code": "MDV"
+ },
+ {
+   "Year": 2013,
+   "name": "malta",
+   "norm": 20055,
+   "code": "MLT"
+ },
+ {
+   "Year": 2013,
+   "name": "martinique",
+   "norm": 12068,
+   "code": "MTQ"
+ },
+ {
+   "Year": 2013,
+   "name": "mauritius",
+   "norm": 15480,
+   "code": "MUS"
+ },
+ {
+   "Year": 2013,
+   "name": "mayotte",
+   "norm": 10386,
+   "code": "MYT"
+ },
+ {
+   "Year": 2013,
+   "name": "mexico",
+   "norm": 12166,
+   "code": "MEX"
+ },
+ {
+   "Year": 2013,
+   "name": "montserrat",
+   "norm": 20000,
+   "code": "MSR"
+ },
+ {
+   "Year": 2013,
+   "name": "morocco",
+   "norm": 8879,
+   "code": "MAR"
+ },
+ {
+   "Year": 2013,
+   "name": "netherlands",
+   "norm": 13615,
+   "code": "NLD"
+ },
+ {
+   "Year": 2013,
+   "name": "new zealand",
+   "norm": 16476,
+   "code": "NZL"
+ },
+ {
+   "Year": 2013,
+   "name": "nicaragua",
+   "norm": 13432,
+   "code": "NIC"
+ },
+ {
+   "Year": 2013,
+   "name": "north macedonia",
+   "norm": 28896,
+   "code": "MKD"
+ },
+ {
+   "Year": 2013,
+   "name": "norway",
+   "norm": 14674,
+   "code": "NOR"
+ },
+ {
+   "Year": 2013,
+   "name": "occupied palestinian territory",
+   "norm": 22190,
+   "code": "PSE"
+ },
+ {
+   "Year": 2013,
+   "name": "panama",
+   "norm": 14076,
+   "code": "PAN"
+ },
+ {
+   "Year": 2013,
+   "name": "paraguay",
+   "norm": 13272,
+   "code": "PRY"
+ },
+ {
+   "Year": 2013,
+   "name": "peru",
+   "norm": 9008,
+   "code": "PER"
+ },
+ {
+   "Year": 2013,
+   "name": "poland",
+   "norm": 22905,
+   "code": "POL"
+ },
+ {
+   "Year": 2013,
+   "name": "portugal",
+   "norm": 14749,
+   "code": "PRT"
+ },
+ {
+   "Year": 2013,
+   "name": "puerto rico",
+   "norm": 12359,
+   "code": "PRI"
+ },
+ {
+   "Year": 2013,
+   "name": "qatar",
+   "norm": 6422,
+   "code": "QAT"
+ },
+ {
+   "Year": 2013,
+   "name": "republic of korea",
+   "norm": 10737,
+   "code": "PRK"
+ },
+ {
+   "Year": 2013,
+   "name": "republic of moldova",
+   "norm": 29072,
+   "code": "MDA"
+ },
+ {
+   "Year": 2013,
+   "name": "reunion",
+   "norm": 12344,
+   "code": "REU"
+ },
+ {
+   "Year": 2013,
+   "name": "rodrigues",
+   "norm": 20095,
+   "code": "MU-RO"
+ },
+ {
+   "Year": 2013,
+   "name": "romania",
+   "norm": 29759,
+   "code": "ROU"
+ },
+ {
+   "Year": 2013,
+   "name": "saint kitts and nevis",
+   "norm": 16288,
+   "code": "KNA"
+ },
+ {
+   "Year": 2013,
+   "name": "saint lucia",
+   "norm": 18115,
+   "code": "LCA"
+ },
+ {
+   "Year": 2013,
+   "name": "saint vincent and grenadines",
+   "norm": 17508,
+   "code": "VCT"
+ },
+ {
+   "Year": 2013,
+   "name": "serbia",
+   "norm": 26603,
+   "code": "SRB"
+ },
+ {
+   "Year": 2013,
+   "name": "singapore",
+   "norm": 15137,
+   "code": "SGP"
+ },
+ {
+   "Year": 2013,
+   "name": "slovakia",
+   "norm": 23162,
+   "code": "SVK"
+ },
+ {
+   "Year": 2013,
+   "name": "slovenia",
+   "norm": 19338,
+   "code": "SVL"
+ },
+ {
+   "Year": 2013,
+   "name": "south africa",
+   "norm": 8331,
+   "code": "ZAF"
+ },
+ {
+   "Year": 2013,
+   "name": "spain",
+   "norm": 15045,
+   "code": "ESP"
+ },
+ {
+   "Year": 2013,
+   "name": "sri lanka",
+   "norm": 12499,
+   "code": "LKA"
+ },
+ {
+   "Year": 2013,
+   "name": "suriname",
+   "norm": 13790,
+   "code": "SUR"
+ },
+ {
+   "Year": 2013,
+   "name": "sweden",
+   "norm": 18545,
+   "code": "SWE"
+ },
+ {
+   "Year": 2013,
+   "name": "switzerland",
+   "norm": 16557,
+   "code": "CHE"
+ },
+ {
+   "Year": 2013,
+   "name": "thailand",
+   "norm": 6380,
+   "code": "THA"
+ },
+ {
+   "Year": 2013,
+   "name": "tunisia",
+   "norm": 13061,
+   "code": "TUN"
+ },
+ {
+   "Year": 2013,
+   "name": "turkey",
+   "norm": 19888,
+   "code": "TUR"
+ },
+ {
+   "Year": 2013,
+   "name": "turks and caicos islands",
+   "norm": 16161,
+   "code": "TCA"
+ },
+ {
+   "Year": 2013,
+   "name": "united kingdom",
+   "norm": 13860,
+   "code": "GBR"
+ },
+ {
+   "Year": 2013,
+   "name": "united kingdom, england and wales",
+   "norm": 13843,
+   "code": "GBR"
+ },
+ {
+   "Year": 2013,
+   "name": "united kingdom, northern ireland",
+   "norm": 13084,
+   "code": "GBR"
+ },
+ {
+   "Year": 2013,
+   "name": "united kingdom, scotland",
+   "norm": 14229,
+   "code": "GBR"
+ },
+ {
+   "Year": 2013,
+   "name": "united states of america",
+   "norm": 15420,
+   "code": "USA"
+ },
+ {
+   "Year": 2013,
+   "name": "uruguay",
+   "norm": 13710,
+   "code": "URY"
+ },
+ {
+   "Year": 2013,
+   "name": "uzbekistan",
+   "norm": 30472,
+   "code": "UZB"
+ },
+ {
+   "Year": 2013,
+   "name": "venezuela",
+   "norm": 15080,
+   "code": "VEN"
+ },
+ {
+   "Year": 2014,
+   "name": "anguilla",
+   "norm": 16949,
+   "code": "AIA"
+ },
+ {
+   "Year": 2014,
+   "name": "antigua and barbuda",
+   "norm": 18189,
+   "code": "ATG"
+ },
+ {
+   "Year": 2014,
+   "name": "argentina",
+   "norm": 14159,
+   "code": "ARG"
+ },
+ {
+   "Year": 2014,
+   "name": "armenia",
+   "norm": 23935,
+   "code": "ARM"
+ },
+ {
+   "Year": 2014,
+   "name": "aruba",
+   "norm": 15887,
+   "code": "ABW"
+ },
+ {
+   "Year": 2014,
+   "name": "australia",
+   "norm": 14672,
+   "code": "AUS"
+ },
+ {
+   "Year": 2014,
+   "name": "austria",
+   "norm": 21172,
+   "code": "AUT"
+ },
+ {
+   "Year": 2014,
+   "name": "bahamas",
+   "norm": 15886,
+   "code": "BHS"
+ },
+ {
+   "Year": 2014,
+   "name": "bahrain",
+   "norm": 16048,
+   "code": "BHR"
+ },
+ {
+   "Year": 2014,
+   "name": "belgium",
+   "norm": 14301,
+   "code": "BEL"
+ },
+ {
+   "Year": 2014,
+   "name": "belize",
+   "norm": 11594,
+   "code": "BLZ"
+ },
+ {
+   "Year": 2014,
+   "name": "bermuda",
+   "norm": 19214,
+   "code": "BMU"
+ },
+ {
+   "Year": 2014,
+   "name": "bosnia and herzegovina",
+   "norm": 24883,
+   "code": "BIH"
+ },
+ {
+   "Year": 2014,
+   "name": "brazil",
+   "norm": 13869,
+   "code": "BRA"
+ },
+ {
+   "Year": 2014,
+   "name": "brunei darussalam",
+   "norm": 13877,
+   "code": "BRN"
+ },
+ {
+   "Year": 2014,
+   "name": "bulgaria",
+   "norm": 32931,
+   "code": "BGR"
+ },
+ {
+   "Year": 2014,
+   "name": "canada",
+   "norm": 13442,
+   "code": "CAN"
+ },
+ {
+   "Year": 2014,
+   "name": "chile",
+   "norm": 13762,
+   "code": "CHL"
+ },
+ {
+   "Year": 2014,
+   "name": "colombia",
+   "norm": 15734,
+   "code": "COL"
+ },
+ {
+   "Year": 2014,
+   "name": "costa rica",
+   "norm": 14706,
+   "code": "CRI"
+ },
+ {
+   "Year": 2014,
+   "name": "croatia",
+   "norm": 23714,
+   "code": "HRV"
+ },
+ {
+   "Year": 2014,
+   "name": "cuba",
+   "norm": 18907,
+   "code": "CUB"
+ },
+ {
+   "Year": 2014,
+   "name": "cyprus",
+   "norm": 17467,
+   "code": "CYP"
+ },
+ {
+   "Year": 2014,
+   "name": "czech republic",
+   "norm": 23009,
+   "code": "CZE"
+ },
+ {
+   "Year": 2014,
+   "name": "denmark",
+   "norm": 11873,
+   "code": "DNK"
+ },
+ {
+   "Year": 2014,
+   "name": "dominica",
+   "norm": 21579,
+   "code": "DMA"
+ },
+ {
+   "Year": 2014,
+   "name": "ecuador",
+   "norm": 11539,
+   "code": "ECU"
+ },
+ {
+   "Year": 2014,
+   "name": "egypt",
+   "norm": 23879,
+   "code": "EGY"
+ },
+ {
+   "Year": 2014,
+   "name": "el salvador",
+   "norm": 7750,
+   "code": "SLV"
+ },
+ {
+   "Year": 2014,
+   "name": "estonia",
+   "norm": 26664,
+   "code": "EST"
+ },
+ {
+   "Year": 2014,
+   "name": "finland",
+   "norm": 18740,
+   "code": "FIN"
+ },
+ {
+   "Year": 2014,
+   "name": "france",
+   "norm": 12503,
+   "code": "FRA"
+ },
+ {
+   "Year": 2014,
+   "name": "french guiana",
+   "norm": 9230,
+   "code": "GUF"
+ },
+ {
+   "Year": 2014,
+   "name": "georgia",
+   "norm": 21002,
+   "code": "GEO"
+ },
+ {
+   "Year": 2014,
+   "name": "germany",
+   "norm": 19465,
+   "code": "DEU"
+ },
+ {
+   "Year": 2014,
+   "name": "greece",
+   "norm": 19846,
+   "code": "GRC"
+ },
+ {
+   "Year": 2014,
+   "name": "grenada",
+   "norm": 18360,
+   "code": "GRD"
+ },
+ {
+   "Year": 2014,
+   "name": "guadeloupe",
+   "norm": 11878,
+   "code": "GLP"
+ },
+ {
+   "Year": 2014,
+   "name": "guatemala",
+   "norm": 8266,
+   "code": "GTM"
+ },
+ {
+   "Year": 2014,
+   "name": "guyana",
+   "norm": 17928,
+   "code": "GUY"
+ },
+ {
+   "Year": 2014,
+   "name": "hong kong sar",
+   "norm": 11427,
+   "code": "HKG"
+ },
+ {
+   "Year": 2014,
+   "name": "hungary",
+   "norm": 24854,
+   "code": "HUN"
+ },
+ {
+   "Year": 2014,
+   "name": "iceland",
+   "norm": 16455,
+   "code": "ISL"
+ },
+ {
+   "Year": 2014,
+   "name": "iran (islamic republic of)",
+   "norm": 21130,
+   "code": "IRN"
+ },
+ {
+   "Year": 2014,
+   "name": "ireland",
+   "norm": 15130,
+   "code": "IRL"
+ },
+ {
+   "Year": 2014,
+   "name": "israel",
+   "norm": 11961,
+   "code": "ISR"
+ },
+ {
+   "Year": 2014,
+   "name": "italy",
+   "norm": 18390,
+   "code": "ITA"
+ },
+ {
+   "Year": 2014,
+   "name": "jamaica",
+   "norm": 17751,
+   "code": "JAM"
+ },
+ {
+   "Year": 2014,
+   "name": "japan",
+   "norm": 13423,
+   "code": "JPN"
+ },
+ {
+   "Year": 2014,
+   "name": "kazakhstan",
+   "norm": 13587,
+   "code": "KAZ"
+ },
+ {
+   "Year": 2014,
+   "name": "kuwait",
+   "norm": 18844,
+   "code": "KWT"
+ },
+ {
+   "Year": 2014,
+   "name": "kyrgyzstan",
+   "norm": 25187,
+   "code": "KGZ"
+ },
+ {
+   "Year": 2014,
+   "name": "latvia",
+   "norm": 28493,
+   "code": "LVA"
+ },
+ {
+   "Year": 2014,
+   "name": "lithuania",
+   "norm": 27977,
+   "code": "LTU"
+ },
+ {
+   "Year": 2014,
+   "name": "luxembourg",
+   "norm": 15695,
+   "code": "LUX"
+ },
+ {
+   "Year": 2014,
+   "name": "malaysia",
+   "norm": 13564,
+   "code": "MYS"
+ },
+ {
+   "Year": 2014,
+   "name": "maldives",
+   "norm": 21089,
+   "code": "MDV"
+ },
+ {
+   "Year": 2014,
+   "name": "malta",
+   "norm": 18822,
+   "code": "MLT"
+ },
+ {
+   "Year": 2014,
+   "name": "martinique",
+   "norm": 12341,
+   "code": "MTQ"
+ },
+ {
+   "Year": 2014,
+   "name": "mauritius",
+   "norm": 15877,
+   "code": "MUS"
+ },
+ {
+   "Year": 2014,
+   "name": "mayotte",
+   "norm": 11139,
+   "code": "MYT"
+ },
+ {
+   "Year": 2014,
+   "name": "mexico",
+   "norm": 12503,
+   "code": "MEX"
+ },
+ {
+   "Year": 2014,
+   "name": "montserrat",
+   "norm": 17187,
+   "code": "MSR"
+ },
+ {
+   "Year": 2014,
+   "name": "morocco",
+   "norm": 11023,
+   "code": "MAR"
+ },
+ {
+   "Year": 2014,
+   "name": "netherlands",
+   "norm": 13597,
+   "code": "NLD"
+ },
+ {
+   "Year": 2014,
+   "name": "new zealand",
+   "norm": 16623,
+   "code": "NZL"
+ },
+ {
+   "Year": 2014,
+   "name": "nicaragua",
+   "norm": 14176,
+   "code": "NIC"
+ },
+ {
+   "Year": 2014,
+   "name": "norway",
+   "norm": 14520,
+   "code": "NOR"
+ },
+ {
+   "Year": 2014,
+   "name": "occupied palestinian territory",
+   "norm": 20430,
+   "code": "PSE"
+ },
+ {
+   "Year": 2014,
+   "name": "oman",
+   "norm": 11676,
+   "code": "OMN"
+ },
+ {
+   "Year": 2014,
+   "name": "panama",
+   "norm": 13950,
+   "code": "PAN"
+ },
+ {
+   "Year": 2014,
+   "name": "paraguay",
+   "norm": 12565,
+   "code": "PRY"
+ },
+ {
+   "Year": 2014,
+   "name": "peru",
+   "norm": 9299,
+   "code": "PER"
+ },
+ {
+   "Year": 2014,
+   "name": "philippines",
+   "norm": 17481,
+   "code": "PHL"
+ },
+ {
+   "Year": 2014,
+   "name": "poland",
+   "norm": 22543,
+   "code": "POL"
+ },
+ {
+   "Year": 2014,
+   "name": "portugal",
+   "norm": 15342,
+   "code": "PRT"
+ },
+ {
+   "Year": 2014,
+   "name": "puerto rico",
+   "norm": 12168,
+   "code": "PRI"
+ },
+ {
+   "Year": 2014,
+   "name": "qatar",
+   "norm": 7861,
+   "code": "QAT"
+ },
+ {
+   "Year": 2014,
+   "name": "republic of korea",
+   "norm": 10798,
+   "code": "PRK"
+ },
+ {
+   "Year": 2014,
+   "name": "republic of moldova",
+   "norm": 28928,
+   "code": "MDA"
+ },
+ {
+   "Year": 2014,
+   "name": "reunion",
+   "norm": 11703,
+   "code": "REU"
+ },
+ {
+   "Year": 2014,
+   "name": "rodrigues",
+   "norm": 18442,
+   "code": "MU-RO"
+ },
+ {
+   "Year": 2014,
+   "name": "romania",
+   "norm": 29246,
+   "code": "ROU"
+ },
+ {
+   "Year": 2014,
+   "name": "saint kitts and nevis",
+   "norm": 16504,
+   "code": "KNA"
+ },
+ {
+   "Year": 2014,
+   "name": "saint lucia",
+   "norm": 15821,
+   "code": "LCA"
+ },
+ {
+   "Year": 2014,
+   "name": "saint vincent and grenadines",
+   "norm": 19447,
+   "code": "VCT"
+ },
+ {
+   "Year": 2014,
+   "name": "serbia",
+   "norm": 26663,
+   "code": "SRB"
+ },
+ {
+   "Year": 2014,
+   "name": "singapore",
+   "norm": 15364,
+   "code": "SGP"
+ },
+ {
+   "Year": 2014,
+   "name": "slovakia",
+   "norm": 22289,
+   "code": "SVK"
+ },
+ {
+   "Year": 2014,
+   "name": "slovenia",
+   "norm": 20528,
+   "code": "SVL"
+ },
+ {
+   "Year": 2014,
+   "name": "south africa",
+   "norm": 8630,
+   "code": "ZAF"
+ },
+ {
+   "Year": 2014,
+   "name": "spain",
+   "norm": 14828,
+   "code": "ESP"
+ },
+ {
+   "Year": 2014,
+   "name": "sri lanka",
+   "norm": 12774,
+   "code": "LKA"
+ },
+ {
+   "Year": 2014,
+   "name": "suriname",
+   "norm": 14698,
+   "code": "SUR"
+ },
+ {
+   "Year": 2014,
+   "name": "sweden",
+   "norm": 18272,
+   "code": "SWE"
+ },
+ {
+   "Year": 2014,
+   "name": "switzerland",
+   "norm": 16418,
+   "code": "CHE"
+ },
+ {
+   "Year": 2014,
+   "name": "thailand",
+   "norm": 6734,
+   "code": "THA"
+ },
+ {
+   "Year": 2014,
+   "name": "turkey",
+   "norm": 20025,
+   "code": "TUR"
+ },
+ {
+   "Year": 2014,
+   "name": "turks and caicos islands",
+   "norm": 18831,
+   "code": "TCA"
+ },
+ {
+   "Year": 2014,
+   "name": "united kingdom",
+   "norm": 13557,
+   "code": "GBR"
+ },
+ {
+   "Year": 2014,
+   "name": "united kingdom, england and wales",
+   "norm": 13552,
+   "code": "GBR"
+ },
+ {
+   "Year": 2014,
+   "name": "united kingdom, northern ireland",
+   "norm": 12668,
+   "code": "GBR"
+ },
+ {
+   "Year": 2014,
+   "name": "united kingdom, scotland",
+   "norm": 13842,
+   "code": "GBR"
+ },
+ {
+   "Year": 2014,
+   "name": "united states of america",
+   "norm": 15377,
+   "code": "USA"
+ },
+ {
+   "Year": 2014,
+   "name": "uruguay",
+   "norm": 13481,
+   "code": "URY"
+ },
+ {
+   "Year": 2014,
+   "name": "uzbekistan",
+   "norm": 30333,
+   "code": "UZB"
+ },
+ {
+   "Year": 2014,
+   "name": "venezuela",
+   "norm": 15580,
+   "code": "VEN"
+ },
+ {
+   "Year": 2015,
+   "name": "anguilla",
+   "norm": 19230,
+   "code": "AIA"
+ },
+ {
+   "Year": 2015,
+   "name": "antigua and barbuda",
+   "norm": 17045,
+   "code": "ATG"
+ },
+ {
+   "Year": 2015,
+   "name": "argentina",
+   "norm": 14434,
+   "code": "ARG"
+ },
+ {
+   "Year": 2015,
+   "name": "armenia",
+   "norm": 22987,
+   "code": "ARM"
+ },
+ {
+   "Year": 2015,
+   "name": "aruba",
+   "norm": 16233,
+   "code": "ABW"
+ },
+ {
+   "Year": 2015,
+   "name": "australia",
+   "norm": 14348,
+   "code": "AUS"
+ },
+ {
+   "Year": 2015,
+   "name": "austria",
+   "norm": 21389,
+   "code": "AUT"
+ },
+ {
+   "Year": 2015,
+   "name": "belgium",
+   "norm": 14176,
+   "code": "BEL"
+ },
+ {
+   "Year": 2015,
+   "name": "belize",
+   "norm": 11202,
+   "code": "BLZ"
+ },
+ {
+   "Year": 2015,
+   "name": "bermuda",
+   "norm": 18240,
+   "code": "BMU"
+ },
+ {
+   "Year": 2015,
+   "name": "brazil",
+   "norm": 13827,
+   "code": "BRA"
+ },
+ {
+   "Year": 2015,
+   "name": "brunei darussalam",
+   "norm": 11764,
+   "code": "BRN"
+ },
+ {
+   "Year": 2015,
+   "name": "bulgaria",
+   "norm": 32704,
+   "code": "BGR"
+ },
+ {
+   "Year": 2015,
+   "name": "canada",
+   "norm": 13310,
+   "code": "CAN"
+ },
+ {
+   "Year": 2015,
+   "name": "chile",
+   "norm": 13704,
+   "code": "CHL"
+ },
+ {
+   "Year": 2015,
+   "name": "colombia",
+   "norm": 15915,
+   "code": "COL"
+ },
+ {
+   "Year": 2015,
+   "name": "costa rica",
+   "norm": 13745,
+   "code": "CRI"
+ },
+ {
+   "Year": 2015,
+   "name": "croatia",
+   "norm": 23700,
+   "code": "HRV"
+ },
+ {
+   "Year": 2015,
+   "name": "cuba",
+   "norm": 18633,
+   "code": "CUB"
+ },
+ {
+   "Year": 2015,
+   "name": "cyprus",
+   "norm": 17393,
+   "code": "CYP"
+ },
+ {
+   "Year": 2015,
+   "name": "czech republic",
+   "norm": 22923,
+   "code": "CZE"
+ },
+ {
+   "Year": 2015,
+   "name": "denmark",
+   "norm": 11971,
+   "code": "DNK"
+ },
+ {
+   "Year": 2015,
+   "name": "dominica",
+   "norm": 16641,
+   "code": "DMA"
+ },
+ {
+   "Year": 2015,
+   "name": "ecuador",
+   "norm": 11673,
+   "code": "ECU"
+ },
+ {
+   "Year": 2015,
+   "name": "egypt",
+   "norm": 23483,
+   "code": "EGY"
+ },
+ {
+   "Year": 2015,
+   "name": "el salvador",
+   "norm": 10783,
+   "code": "SLV"
+ },
+ {
+   "Year": 2015,
+   "name": "estonia",
+   "norm": 26126,
+   "code": "EST"
+ },
+ {
+   "Year": 2015,
+   "name": "finland",
+   "norm": 18579,
+   "code": "FIN"
+ },
+ {
+   "Year": 2015,
+   "name": "france",
+   "norm": 12244,
+   "code": "FRA"
+ },
+ {
+   "Year": 2015,
+   "name": "french guiana",
+   "norm": 10396,
+   "code": "GUF"
+ },
+ {
+   "Year": 2015,
+   "name": "georgia",
+   "norm": 21304,
+   "code": "GEO"
+ },
+ {
+   "Year": 2015,
+   "name": "germany",
+   "norm": 19272,
+   "code": "DEU"
+ },
+ {
+   "Year": 2015,
+   "name": "greece",
+   "norm": 19101,
+   "code": "GRC"
+ },
+ {
+   "Year": 2015,
+   "name": "grenada",
+   "norm": 15592,
+   "code": "GRD"
+ },
+ {
+   "Year": 2015,
+   "name": "guadeloupe",
+   "norm": 10942,
+   "code": "GLP"
+ },
+ {
+   "Year": 2015,
+   "name": "guatemala",
+   "norm": 7958,
+   "code": "GTM"
+ },
+ {
+   "Year": 2015,
+   "name": "hong kong sar",
+   "norm": 10805,
+   "code": "HKG"
+ },
+ {
+   "Year": 2015,
+   "name": "hungary",
+   "norm": 24865,
+   "code": "HUN"
+ },
+ {
+   "Year": 2015,
+   "name": "iceland",
+   "norm": 17071,
+   "code": "ISL"
+ },
+ {
+   "Year": 2015,
+   "name": "iran (islamic republic of)",
+   "norm": 20735,
+   "code": "IRN"
+ },
+ {
+   "Year": 2015,
+   "name": "iraq",
+   "norm": 19028,
+   "code": "IRQ"
+ },
+ {
+   "Year": 2015,
+   "name": "ireland",
+   "norm": 15552,
+   "code": "IRL"
+ },
+ {
+   "Year": 2015,
+   "name": "israel",
+   "norm": 11747,
+   "code": "ISR"
+ },
+ {
+   "Year": 2015,
+   "name": "italy",
+   "norm": 18536,
+   "code": "ITA"
+ },
+ {
+   "Year": 2015,
+   "name": "japan",
+   "norm": 13138,
+   "code": "JPN"
+ },
+ {
+   "Year": 2015,
+   "name": "jordan",
+   "norm": 19598,
+   "code": "JOR"
+ },
+ {
+   "Year": 2015,
+   "name": "kazakhstan",
+   "norm": 12970,
+   "code": "KAZ"
+ },
+ {
+   "Year": 2015,
+   "name": "kuwait",
+   "norm": 18916,
+   "code": "KWT"
+ },
+ {
+   "Year": 2015,
+   "name": "kyrgyzstan",
+   "norm": 25418,
+   "code": "KGZ"
+ },
+ {
+   "Year": 2015,
+   "name": "latvia",
+   "norm": 28623,
+   "code": "LVA"
+ },
+ {
+   "Year": 2015,
+   "name": "lithuania",
+   "norm": 28232,
+   "code": "LTU"
+ },
+ {
+   "Year": 2015,
+   "name": "luxembourg",
+   "norm": 15134,
+   "code": "LUX"
+ },
+ {
+   "Year": 2015,
+   "name": "maldives",
+   "norm": 20042,
+   "code": "MDV"
+ },
+ {
+   "Year": 2015,
+   "name": "malta",
+   "norm": 19372,
+   "code": "MLT"
+ },
+ {
+   "Year": 2015,
+   "name": "martinique",
+   "norm": 12258,
+   "code": "MTQ"
+ },
+ {
+   "Year": 2015,
+   "name": "mauritius",
+   "norm": 16764,
+   "code": "MUS"
+ },
+ {
+   "Year": 2015,
+   "name": "mayotte",
+   "norm": 12598,
+   "code": "MYT"
+ },
+ {
+   "Year": 2015,
+   "name": "mexico",
+   "norm": 12719,
+   "code": "MEX"
+ },
+ {
+   "Year": 2015,
+   "name": "montserrat",
+   "norm": 18367,
+   "code": "MSR"
+ },
+ {
+   "Year": 2015,
+   "name": "morocco",
+   "norm": 10760,
+   "code": "MAR"
+ },
+ {
+   "Year": 2015,
+   "name": "netherlands",
+   "norm": 13355,
+   "code": "NLD"
+ },
+ {
+   "Year": 2015,
+   "name": "new zealand",
+   "norm": 16129,
+   "code": "NZL"
+ },
+ {
+   "Year": 2015,
+   "name": "nicaragua",
+   "norm": 13967,
+   "code": "NIC"
+ },
+ {
+   "Year": 2015,
+   "name": "norway",
+   "norm": 14271,
+   "code": "NOR"
+ },
+ {
+   "Year": 2015,
+   "name": "occupied palestinian territory",
+   "norm": 20287,
+   "code": "PSE"
+ },
+ {
+   "Year": 2015,
+   "name": "panama",
+   "norm": 14231,
+   "code": "PAN"
+ },
+ {
+   "Year": 2015,
+   "name": "paraguay",
+   "norm": 12567,
+   "code": "PRY"
+ },
+ {
+   "Year": 2015,
+   "name": "peru",
+   "norm": 9022,
+   "code": "PER"
+ },
+ {
+   "Year": 2015,
+   "name": "poland",
+   "norm": 22832,
+   "code": "POL"
+ },
+ {
+   "Year": 2015,
+   "name": "portugal",
+   "norm": 14892,
+   "code": "PRT"
+ },
+ {
+   "Year": 2015,
+   "name": "puerto rico",
+   "norm": 12357,
+   "code": "PRI"
+ },
+ {
+   "Year": 2015,
+   "name": "qatar",
+   "norm": 8169,
+   "code": "QAT"
+ },
+ {
+   "Year": 2015,
+   "name": "republic of korea",
+   "norm": 10790,
+   "code": "PRK"
+ },
+ {
+   "Year": 2015,
+   "name": "republic of moldova",
+   "norm": 28864,
+   "code": "MDA"
+ },
+ {
+   "Year": 2015,
+   "name": "reunion",
+   "norm": 11895,
+   "code": "REU"
+ },
+ {
+   "Year": 2015,
+   "name": "rodrigues",
+   "norm": 17729,
+   "code": "MU-RO"
+ },
+ {
+   "Year": 2015,
+   "name": "romania",
+   "norm": 29451,
+   "code": "ROU"
+ },
+ {
+   "Year": 2015,
+   "name": "saint kitts and nevis",
+   "norm": 18059,
+   "code": "KNA"
+ },
+ {
+   "Year": 2015,
+   "name": "saint lucia",
+   "norm": 15820,
+   "code": "LCA"
+ },
+ {
+   "Year": 2015,
+   "name": "saint vincent and grenadines",
+   "norm": 16097,
+   "code": "VCT"
+ },
+ {
+   "Year": 2015,
+   "name": "serbia",
+   "norm": 26223,
+   "code": "SRB"
+ },
+ {
+   "Year": 2015,
+   "name": "singapore",
+   "norm": 15214,
+   "code": "SGP"
+ },
+ {
+   "Year": 2015,
+   "name": "slovenia",
+   "norm": 20122,
+   "code": "SVL"
+ },
+ {
+   "Year": 2015,
+   "name": "south africa",
+   "norm": 8884,
+   "code": "ZAF"
+ },
+ {
+   "Year": 2015,
+   "name": "spain",
+   "norm": 14695,
+   "code": "ESP"
+ },
+ {
+   "Year": 2015,
+   "name": "sweden",
+   "norm": 17581,
+   "code": "SWE"
+ },
+ {
+   "Year": 2015,
+   "name": "switzerland",
+   "norm": 15969,
+   "code": "CHE"
+ },
+ {
+   "Year": 2015,
+   "name": "thailand",
+   "norm": 6936,
+   "code": "THA"
+ },
+ {
+   "Year": 2015,
+   "name": "turkey",
+   "norm": 20049,
+   "code": "TUR"
+ },
+ {
+   "Year": 2015,
+   "name": "turks and caicos islands",
+   "norm": 20526,
+   "code": "TCA"
+ },
+ {
+   "Year": 2015,
+   "name": "united kingdom",
+   "norm": 13119,
+   "code": "GBR"
+ },
+ {
+   "Year": 2015,
+   "name": "united kingdom, england and wales",
+   "norm": 13086,
+   "code": "GBR"
+ },
+ {
+   "Year": 2015,
+   "name": "united kingdom, northern ireland",
+   "norm": 12133,
+   "code": "GBR"
+ },
+ {
+   "Year": 2015,
+   "name": "united kingdom, scotland",
+   "norm": 13690,
+   "code": "GBR"
+ },
+ {
+   "Year": 2015,
+   "name": "united states of america",
+   "norm": 15419,
+   "code": "USA"
+ },
+ {
+   "Year": 2015,
+   "name": "uruguay",
+   "norm": 14065,
+   "code": "URY"
+ },
+ {
+   "Year": 2015,
+   "name": "uzbekistan",
+   "norm": 29581,
+   "code": "UZB"
+ },
+ {
+   "Year": 2015,
+   "name": "virgin islands (usa)",
+   "norm": 16412,
+   "code": "VIR"
+ },
+ {
+   "Year": 2016,
+   "name": "anguilla",
+   "norm": 16483,
+   "code": "AIA"
+ },
+ {
+   "Year": 2016,
+   "name": "antigua and barbuda",
+   "norm": 16789,
+   "code": "ATG"
+ },
+ {
+   "Year": 2016,
+   "name": "argentina",
+   "norm": 14444,
+   "code": "ARG"
+ },
+ {
+   "Year": 2016,
+   "name": "armenia",
+   "norm": 24038,
+   "code": "ARM"
+ },
+ {
+   "Year": 2016,
+   "name": "aruba",
+   "norm": 14005,
+   "code": "ABW"
+ },
+ {
+   "Year": 2016,
+   "name": "australia",
+   "norm": 13938,
+   "code": "AUS"
+ },
+ {
+   "Year": 2016,
+   "name": "austria",
+   "norm": 20607,
+   "code": "AUT"
+ },
+ {
+   "Year": 2016,
+   "name": "belgium",
+   "norm": 13848,
+   "code": "BEL"
+ },
+ {
+   "Year": 2016,
+   "name": "belize",
+   "norm": 11126,
+   "code": "BLZ"
+ },
+ {
+   "Year": 2016,
+   "name": "bermuda",
+   "norm": 16700,
+   "code": "BMU"
+ },
+ {
+   "Year": 2016,
+   "name": "bosnia and herzegovina",
+   "norm": 25877,
+   "code": "BIH"
+ },
+ {
+   "Year": 2016,
+   "name": "brazil",
+   "norm": 13821,
+   "code": "BRA"
+ },
+ {
+   "Year": 2016,
+   "name": "brunei darussalam",
+   "norm": 12898,
+   "code": "BRN"
+ },
+ {
+   "Year": 2016,
+   "name": "bulgaria",
+   "norm": 32747,
+   "code": "BGR"
+ },
+ {
+   "Year": 2016,
+   "name": "canada",
+   "norm": 13087,
+   "code": "CAN"
+ },
+ {
+   "Year": 2016,
+   "name": "chile",
+   "norm": 13529,
+   "code": "CHL"
+ },
+ {
+   "Year": 2016,
+   "name": "colombia",
+   "norm": 15828,
+   "code": "COL"
+ },
+ {
+   "Year": 2016,
+   "name": "costa rica",
+   "norm": 13007,
+   "code": "CRI"
+ },
+ {
+   "Year": 2016,
+   "name": "croatia",
+   "norm": 22496,
+   "code": "HRV"
+ },
+ {
+   "Year": 2016,
+   "name": "cuba",
+   "norm": 18579,
+   "code": "CUB"
+ },
+ {
+   "Year": 2016,
+   "name": "cyprus",
+   "norm": 16574,
+   "code": "CYP"
+ },
+ {
+   "Year": 2016,
+   "name": "czech republic",
+   "norm": 22093,
+   "code": "CZE"
+ },
+ {
+   "Year": 2016,
+   "name": "denmark",
+   "norm": 12088,
+   "code": "DNK"
+ },
+ {
+   "Year": 2016,
+   "name": "ecuador",
+   "norm": 12312,
+   "code": "ECU"
+ },
+ {
+   "Year": 2016,
+   "name": "egypt",
+   "norm": 23318,
+   "code": "EGY"
+ },
+ {
+   "Year": 2016,
+   "name": "estonia",
+   "norm": 25914,
+   "code": "EST"
+ },
+ {
+   "Year": 2016,
+   "name": "finland",
+   "norm": 18277,
+   "code": "FIN"
+ },
+ {
+   "Year": 2016,
+   "name": "france",
+   "norm": 12121,
+   "code": "FRA"
+ },
+ {
+   "Year": 2016,
+   "name": "french guiana",
+   "norm": 10765,
+   "code": "GUF"
+ },
+ {
+   "Year": 2016,
+   "name": "georgia",
+   "norm": 17713,
+   "code": "GEO"
+ },
+ {
+   "Year": 2016,
+   "name": "germany",
+   "norm": 18590,
+   "code": "DEU"
+ },
+ {
+   "Year": 2016,
+   "name": "greece",
+   "norm": 18565,
+   "code": "GRC"
+ },
+ {
+   "Year": 2016,
+   "name": "grenada",
+   "norm": 17463,
+   "code": "GRD"
+ },
+ {
+   "Year": 2016,
+   "name": "guadeloupe",
+   "norm": 11791,
+   "code": "GLP"
+ },
+ {
+   "Year": 2016,
+   "name": "guatemala",
+   "norm": 7853,
+   "code": "GTM"
+ },
+ {
+   "Year": 2016,
+   "name": "hong kong sar",
+   "norm": 10770,
+   "code": "HKG"
+ },
+ {
+   "Year": 2016,
+   "name": "hungary",
+   "norm": 24732,
+   "code": "HUN"
+ },
+ {
+   "Year": 2016,
+   "name": "iceland",
+   "norm": 15974,
+   "code": "ISL"
+ },
+ {
+   "Year": 2016,
+   "name": "iran (islamic republic of)",
+   "norm": 20841,
+   "code": "IRN"
+ },
+ {
+   "Year": 2016,
+   "name": "iraq",
+   "norm": 19587,
+   "code": "IRQ"
+ },
+ {
+   "Year": 2016,
+   "name": "israel",
+   "norm": 11724,
+   "code": "ISR"
+ },
+ {
+   "Year": 2016,
+   "name": "italy",
+   "norm": 17951,
+   "code": "ITA"
+ },
+ {
+   "Year": 2016,
+   "name": "japan",
+   "norm": 12992,
+   "code": "JPN"
+ },
+ {
+   "Year": 2016,
+   "name": "kuwait",
+   "norm": 20692,
+   "code": "KWT"
+ },
+ {
+   "Year": 2016,
+   "name": "kyrgyzstan",
+   "norm": 25401,
+   "code": "KGZ"
+ },
+ {
+   "Year": 2016,
+   "name": "latvia",
+   "norm": 28089,
+   "code": "LVA"
+ },
+ {
+   "Year": 2016,
+   "name": "libyan arab jamahiriya",
+   "norm": 11186,
+   "code": "LBY"
+ },
+ {
+   "Year": 2016,
+   "name": "lithuania",
+   "norm": 28101,
+   "code": "LTU"
+ },
+ {
+   "Year": 2016,
+   "name": "luxembourg",
+   "norm": 15940,
+   "code": "LUX"
+ },
+ {
+   "Year": 2016,
+   "name": "maldives",
+   "norm": 18690,
+   "code": "MDV"
+ },
+ {
+   "Year": 2016,
+   "name": "malta",
+   "norm": 18037,
+   "code": "MLT"
+ },
+ {
+   "Year": 2016,
+   "name": "martinique",
+   "norm": 12435,
+   "code": "MTQ"
+ },
+ {
+   "Year": 2016,
+   "name": "mauritius",
+   "norm": 17590,
+   "code": "MUS"
+ },
+ {
+   "Year": 2016,
+   "name": "mayotte",
+   "norm": 11157,
+   "code": "MYT"
+ },
+ {
+   "Year": 2016,
+   "name": "mexico",
+   "norm": 12745,
+   "code": "MEX"
+ },
+ {
+   "Year": 2016,
+   "name": "mongolia",
+   "norm": 16666,
+   "code": "MNG"
+ },
+ {
+   "Year": 2016,
+   "name": "montserrat",
+   "norm": 24418,
+   "code": "MSR"
+ },
+ {
+   "Year": 2016,
+   "name": "morocco",
+   "norm": 10415,
+   "code": "MAR"
+ },
+ {
+   "Year": 2016,
+   "name": "netherlands",
+   "norm": 12969,
+   "code": "NLD"
+ },
+ {
+   "Year": 2016,
+   "name": "new zealand",
+   "norm": 15617,
+   "code": "NZL"
+ },
+ {
+   "Year": 2016,
+   "name": "nicaragua",
+   "norm": 14044,
+   "code": "NIC"
+ },
+ {
+   "Year": 2016,
+   "name": "norway",
+   "norm": 13464,
+   "code": "NOR"
+ },
+ {
+   "Year": 2016,
+   "name": "occupied palestinian territory",
+   "norm": 21673,
+   "code": "PSE"
+ },
+ {
+   "Year": 2016,
+   "name": "oman",
+   "norm": 13555,
+   "code": "OMN"
+ },
+ {
+   "Year": 2016,
+   "name": "panama",
+   "norm": 14585,
+   "code": "PAN"
+ },
+ {
+   "Year": 2016,
+   "name": "paraguay",
+   "norm": 13131,
+   "code": "PRY"
+ },
+ {
+   "Year": 2016,
+   "name": "peru",
+   "norm": 8333,
+   "code": "PER"
+ },
+ {
+   "Year": 2016,
+   "name": "poland",
+   "norm": 21645,
+   "code": "POL"
+ },
+ {
+   "Year": 2016,
+   "name": "portugal",
+   "norm": 14781,
+   "code": "PRT"
+ },
+ {
+   "Year": 2016,
+   "name": "puerto rico",
+   "norm": 12308,
+   "code": "PRI"
+ },
+ {
+   "Year": 2016,
+   "name": "qatar",
+   "norm": 16357,
+   "code": "QAT"
+ },
+ {
+   "Year": 2016,
+   "name": "republic of korea",
+   "norm": 10751,
+   "code": "PRK"
+ },
+ {
+   "Year": 2016,
+   "name": "republic of moldova",
+   "norm": 28484,
+   "code": "MDA"
+ },
+ {
+   "Year": 2016,
+   "name": "reunion",
+   "norm": 12452,
+   "code": "REU"
+ },
+ {
+   "Year": 2016,
+   "name": "rodrigues",
+   "norm": 22834,
+   "code": "MU-RO"
+ },
+ {
+   "Year": 2016,
+   "name": "romania",
+   "norm": 28779,
+   "code": "ROU"
+ },
+ {
+   "Year": 2016,
+   "name": "saint kitts and nevis",
+   "norm": 16583,
+   "code": "KNA"
+ },
+ {
+   "Year": 2016,
+   "name": "saint vincent and grenadines",
+   "norm": 17334,
+   "code": "VCT"
+ },
+ {
+   "Year": 2016,
+   "name": "serbia",
+   "norm": 25835,
+   "code": "SRB"
+ },
+ {
+   "Year": 2016,
+   "name": "singapore",
+   "norm": 15196,
+   "code": "SGP"
+ },
+ {
+   "Year": 2016,
+   "name": "slovenia",
+   "norm": 19833,
+   "code": "SVL"
+ },
+ {
+   "Year": 2016,
+   "name": "spain",
+   "norm": 14585,
+   "code": "ESP"
+ },
+ {
+   "Year": 2016,
+   "name": "sweden",
+   "norm": 17357,
+   "code": "SWE"
+ },
+ {
+   "Year": 2016,
+   "name": "switzerland",
+   "norm": 15941,
+   "code": "CHE"
+ },
+ {
+   "Year": 2016,
+   "name": "tajikistan",
+   "norm": 23654,
+   "code": "TJK"
+ },
+ {
+   "Year": 2016,
+   "name": "thailand",
+   "norm": 7429,
+   "code": "THA"
+ },
+ {
+   "Year": 2016,
+   "name": "turkey",
+   "norm": 19762,
+   "code": "TUR"
+ },
+ {
+   "Year": 2016,
+   "name": "united kingdom",
+   "norm": 12766,
+   "code": "GBR"
+ },
+ {
+   "Year": 2016,
+   "name": "united kingdom, england and wales",
+   "norm": 12734,
+   "code": "GBR"
+ },
+ {
+   "Year": 2016,
+   "name": "united kingdom, northern ireland",
+   "norm": 11759,
+   "code": "GBR"
+ },
+ {
+   "Year": 2016,
+   "name": "united kingdom, scotland",
+   "norm": 13336,
+   "code": "GBR"
+ },
+ {
+   "Year": 2016,
+   "name": "united states of america",
+   "norm": 15316,
+   "code": "USA"
+ },
+ {
+   "Year": 2016,
+   "name": "uruguay",
+   "norm": 13669,
+   "code": "URY"
+ },
+ {
+   "Year": 2016,
+   "name": "uzbekistan",
+   "norm": 29950,
+   "code": "UZB"
+ },
+ {
+   "Year": 2016,
+   "name": "virgin islands (usa)",
+   "norm": 15664,
+   "code": "VIR"
+ },
+ {
+   "Year": 2017,
+   "name": "anguilla",
+   "norm": 14534,
+   "code": "AIA"
+ },
+ {
+   "Year": 2017,
+   "name": "antigua and barbuda",
+   "norm": 17850,
+   "code": "ATG"
+ },
+ {
+   "Year": 2017,
+   "name": "argentina",
+   "norm": 14226,
+   "code": "ARG"
+ },
+ {
+   "Year": 2017,
+   "name": "armenia",
+   "norm": 27843,
+   "code": "ARM"
+ },
+ {
+   "Year": 2017,
+   "name": "australia",
+   "norm": 13583,
+   "code": "AUS"
+ },
+ {
+   "Year": 2017,
+   "name": "austria",
+   "norm": 19890,
+   "code": "AUT"
+ },
+ {
+   "Year": 2017,
+   "name": "bermuda",
+   "norm": 16056,
+   "code": "BMU"
+ },
+ {
+   "Year": 2017,
+   "name": "brazil",
+   "norm": 13668,
+   "code": "BRA"
+ },
+ {
+   "Year": 2017,
+   "name": "brunei darussalam",
+   "norm": 14475,
+   "code": "BRN"
+ },
+ {
+   "Year": 2017,
+   "name": "bulgaria",
+   "norm": 32787,
+   "code": "BGR"
+ },
+ {
+   "Year": 2017,
+   "name": "canada",
+   "norm": 13010,
+   "code": "CAN"
+ },
+ {
+   "Year": 2017,
+   "name": "chile",
+   "norm": 13436,
+   "code": "CHL"
+ },
+ {
+   "Year": 2017,
+   "name": "colombia",
+   "norm": 15919,
+   "code": "COL"
+ },
+ {
+   "Year": 2017,
+   "name": "costa rica",
+   "norm": 12927,
+   "code": "CRI"
+ },
+ {
+   "Year": 2017,
+   "name": "croatia",
+   "norm": 21975,
+   "code": "HRV"
+ },
+ {
+   "Year": 2017,
+   "name": "cuba",
+   "norm": 18963,
+   "code": "CUB"
+ },
+ {
+   "Year": 2017,
+   "name": "cyprus",
+   "norm": 16168,
+   "code": "CYP"
+ },
+ {
+   "Year": 2017,
+   "name": "czech republic",
+   "norm": 22139,
+   "code": "CZE"
+ },
+ {
+   "Year": 2017,
+   "name": "denmark",
+   "norm": 11673,
+   "code": "DNK"
+ },
+ {
+   "Year": 2017,
+   "name": "ecuador",
+   "norm": 12754,
+   "code": "ECU"
+ },
+ {
+   "Year": 2017,
+   "name": "egypt",
+   "norm": 24417,
+   "code": "EGY"
+ },
+ {
+   "Year": 2017,
+   "name": "estonia",
+   "norm": 25913,
+   "code": "EST"
+ },
+ {
+   "Year": 2017,
+   "name": "finland",
+   "norm": 17830,
+   "code": "FIN"
+ },
+ {
+   "Year": 2017,
+   "name": "georgia",
+   "norm": 20761,
+   "code": "GEO"
+ },
+ {
+   "Year": 2017,
+   "name": "germany",
+   "norm": 18477,
+   "code": "DEU"
+ },
+ {
+   "Year": 2017,
+   "name": "greece",
+   "norm": 18848,
+   "code": "GRC"
+ },
+ {
+   "Year": 2017,
+   "name": "grenada",
+   "norm": 16306,
+   "code": "GRD"
+ },
+ {
+   "Year": 2017,
+   "name": "guatemala",
+   "norm": 8011,
+   "code": "GTM"
+ },
+ {
+   "Year": 2017,
+   "name": "hong kong sar",
+   "norm": 10715,
+   "code": "HKG"
+ },
+ {
+   "Year": 2017,
+   "name": "hungary",
+   "norm": 24909,
+   "code": "HUN"
+ },
+ {
+   "Year": 2017,
+   "name": "iceland",
+   "norm": 15474,
+   "code": "ISL"
+ },
+ {
+   "Year": 2017,
+   "name": "israel",
+   "norm": 11421,
+   "code": "ISR"
+ },
+ {
+   "Year": 2017,
+   "name": "italy",
+   "norm": 17905,
+   "code": "ITA"
+ },
+ {
+   "Year": 2017,
+   "name": "japan",
+   "norm": 13091,
+   "code": "JPN"
+ },
+ {
+   "Year": 2017,
+   "name": "kazakhstan",
+   "norm": 12222,
+   "code": "KAZ"
+ },
+ {
+   "Year": 2017,
+   "name": "kuwait",
+   "norm": 20669,
+   "code": "KWT"
+ },
+ {
+   "Year": 2017,
+   "name": "latvia",
+   "norm": 27813,
+   "code": "LVA"
+ },
+ {
+   "Year": 2017,
+   "name": "lebanon",
+   "norm": 16944,
+   "code": "LBN"
+ },
+ {
+   "Year": 2017,
+   "name": "libyan arab jamahiriya",
+   "norm": 14471,
+   "code": "LBY"
+ },
+ {
+   "Year": 2017,
+   "name": "lithuania",
+   "norm": 28039,
+   "code": "LTU"
+ },
+ {
+   "Year": 2017,
+   "name": "luxembourg",
+   "norm": 15441,
+   "code": "LUX"
+ },
+ {
+   "Year": 2017,
+   "name": "maldives",
+   "norm": 19661,
+   "code": "MDV"
+ },
+ {
+   "Year": 2017,
+   "name": "malta",
+   "norm": 17474,
+   "code": "MLT"
+ },
+ {
+   "Year": 2017,
+   "name": "mauritius",
+   "norm": 16169,
+   "code": "MUS"
+ },
+ {
+   "Year": 2017,
+   "name": "mexico",
+   "norm": 12819,
+   "code": "MEX"
+ },
+ {
+   "Year": 2017,
+   "name": "montserrat",
+   "norm": 23076,
+   "code": "MSR"
+ },
+ {
+   "Year": 2017,
+   "name": "netherlands",
+   "norm": 12699,
+   "code": "NLD"
+ },
+ {
+   "Year": 2017,
+   "name": "nicaragua",
+   "norm": 13437,
+   "code": "NIC"
+ },
+ {
+   "Year": 2017,
+   "name": "oman",
+   "norm": 12112,
+   "code": "OMN"
+ },
+ {
+   "Year": 2017,
+   "name": "panama",
+   "norm": 14474,
+   "code": "PAN"
+ },
+ {
+   "Year": 2017,
+   "name": "paraguay",
+   "norm": 13562,
+   "code": "PRY"
+ },
+ {
+   "Year": 2017,
+   "name": "peru",
+   "norm": 8336,
+   "code": "PER"
+ },
+ {
+   "Year": 2017,
+   "name": "poland",
+   "norm": 20736,
+   "code": "POL"
+ },
+ {
+   "Year": 2017,
+   "name": "portugal",
+   "norm": 14686,
+   "code": "PRT"
+ },
+ {
+   "Year": 2017,
+   "name": "puerto rico",
+   "norm": 12288,
+   "code": "PRI"
+ },
+ {
+   "Year": 2017,
+   "name": "qatar",
+   "norm": 16292,
+   "code": "QAT"
+ },
+ {
+   "Year": 2017,
+   "name": "republic of korea",
+   "norm": 10728,
+   "code": "PRK"
+ },
+ {
+   "Year": 2017,
+   "name": "republic of moldova",
+   "norm": 29217,
+   "code": "MDA"
+ },
+ {
+   "Year": 2017,
+   "name": "rodrigues",
+   "norm": 15265,
+   "code": "MU-RO"
+ },
+ {
+   "Year": 2017,
+   "name": "romania",
+   "norm": 28680,
+   "code": "ROU"
+ },
+ {
+   "Year": 2017,
+   "name": "saint vincent and grenadines",
+   "norm": 17945,
+   "code": "VCT"
+ },
+ {
+   "Year": 2017,
+   "name": "serbia",
+   "norm": 25871,
+   "code": "SRB"
+ },
+ {
+   "Year": 2017,
+   "name": "singapore",
+   "norm": 15496,
+   "code": "SGP"
+ },
+ {
+   "Year": 2017,
+   "name": "slovenia",
+   "norm": 19513,
+   "code": "SVL"
+ },
+ {
+   "Year": 2017,
+   "name": "solomon islands",
+   "norm": 11961,
+   "code": "SLB"
+ },
+ {
+   "Year": 2017,
+   "name": "spain",
+   "norm": 14423,
+   "code": "ESP"
+ },
+ {
+   "Year": 2017,
+   "name": "sweden",
+   "norm": 16848,
+   "code": "SWE"
+ },
+ {
+   "Year": 2017,
+   "name": "switzerland",
+   "norm": 15709,
+   "code": "CHE"
+ },
+ {
+   "Year": 2017,
+   "name": "thailand",
+   "norm": 7377,
+   "code": "THA"
+ },
+ {
+   "Year": 2017,
+   "name": "united kingdom, scotland",
+   "norm": 13055,
+   "code": "GBR"
+ },
+ {
+   "Year": 2017,
+   "name": "united states of america",
+   "norm": 15267,
+   "code": "USA"
+ },
+ {
+   "Year": 2017,
+   "name": "uruguay",
+   "norm": 13138,
+   "code": "URY"
+ },
+ {
+   "Year": 2017,
+   "name": "virgin islands (usa)",
+   "norm": 16265,
+   "code": "VIR"
+ },
+ {
+   "Year": 2018,
+   "name": "anguilla",
+   "norm": 14000,
+   "code": "AIA"
+ },
+ {
+   "Year": 2018,
+   "name": "argentina",
+   "norm": 14224,
+   "code": "ARG"
+ },
+ {
+   "Year": 2018,
+   "name": "armenia",
+   "norm": 27587,
+   "code": "ARM"
+ },
+ {
+   "Year": 2018,
+   "name": "australia",
+   "norm": 13202,
+   "code": "AUS"
+ },
+ {
+   "Year": 2018,
+   "name": "austria",
+   "norm": 19460,
+   "code": "AUT"
+ },
+ {
+   "Year": 2018,
+   "name": "belarus",
+   "norm": 28360,
+   "code": "BLR"
+ },
+ {
+   "Year": 2018,
+   "name": "brazil",
+   "norm": 13584,
+   "code": "BRA"
+ },
+ {
+   "Year": 2018,
+   "name": "brunei darussalam",
+   "norm": 14330,
+   "code": "BRN"
+ },
+ {
+   "Year": 2018,
+   "name": "bulgaria",
+   "norm": 32501,
+   "code": "BGR"
+ },
+ {
+   "Year": 2018,
+   "name": "chile",
+   "norm": 13202,
+   "code": "CHL"
+ },
+ {
+   "Year": 2018,
+   "name": "cyprus",
+   "norm": 14958,
+   "code": "CYP"
+ },
+ {
+   "Year": 2018,
+   "name": "czech republic",
+   "norm": 21604,
+   "code": "CZE"
+ },
+ {
+   "Year": 2018,
+   "name": "denmark",
+   "norm": 10990,
+   "code": "DNK"
+ },
+ {
+   "Year": 2018,
+   "name": "egypt",
+   "norm": 25876,
+   "code": "EGY"
+ },
+ {
+   "Year": 2018,
+   "name": "estonia",
+   "norm": 25480,
+   "code": "EST"
+ },
+ {
+   "Year": 2018,
+   "name": "finland",
+   "norm": 17355,
+   "code": "FIN"
+ },
+ {
+   "Year": 2018,
+   "name": "georgia",
+   "norm": 23157,
+   "code": "GEO"
+ },
+ {
+   "Year": 2018,
+   "name": "germany",
+   "norm": 18079,
+   "code": "DEU"
+ },
+ {
+   "Year": 2018,
+   "name": "grenada",
+   "norm": 16510,
+   "code": "GRD"
+ },
+ {
+   "Year": 2018,
+   "name": "hungary",
+   "norm": 24684,
+   "code": "HUN"
+ },
+ {
+   "Year": 2018,
+   "name": "iceland",
+   "norm": 14545,
+   "code": "ISL"
+ },
+ {
+   "Year": 2018,
+   "name": "israel",
+   "norm": 10977,
+   "code": "ISR"
+ },
+ {
+   "Year": 2018,
+   "name": "japan",
+   "norm": 12936,
+   "code": "JPN"
+ },
+ {
+   "Year": 2018,
+   "name": "latvia",
+   "norm": 27616,
+   "code": "LVA"
+ },
+ {
+   "Year": 2018,
+   "name": "lebanon",
+   "norm": 16599,
+   "code": "LBN"
+ },
+ {
+   "Year": 2018,
+   "name": "lithuania",
+   "norm": 27697,
+   "code": "LTU"
+ },
+ {
+   "Year": 2018,
+   "name": "mauritius",
+   "norm": 17627,
+   "code": "MUS"
+ },
+ {
+   "Year": 2018,
+   "name": "montserrat",
+   "norm": 35135,
+   "code": "MSR"
+ },
+ {
+   "Year": 2018,
+   "name": "netherlands",
+   "norm": 12322,
+   "code": "NLD"
+ },
+ {
+   "Year": 2018,
+   "name": "nicaragua",
+   "norm": 13815,
+   "code": "NIC"
+ },
+ {
+   "Year": 2018,
+   "name": "poland",
+   "norm": 20272,
+   "code": "POL"
+ },
+ {
+   "Year": 2018,
+   "name": "portugal",
+   "norm": 14495,
+   "code": "PRT"
+ },
+ {
+   "Year": 2018,
+   "name": "republic of korea",
+   "norm": 10532,
+   "code": "PRK"
+ },
+ {
+   "Year": 2018,
+   "name": "republic of moldova",
+   "norm": 29036,
+   "code": "MDA"
+ },
+ {
+   "Year": 2018,
+   "name": "romania",
+   "norm": 28310,
+   "code": "ROU"
+ },
+ {
+   "Year": 2018,
+   "name": "slovenia",
+   "norm": 19187,
+   "code": "SVL"
+ },
+ {
+   "Year": 2018,
+   "name": "solomon islands",
+   "norm": 11696,
+   "code": "SLB"
+ },
+ {
+   "Year": 2018,
+   "name": "sweden",
+   "norm": 16418,
+   "code": "SWE"
+ },
+ {
+   "Year": 2018,
+   "name": "thailand",
+   "norm": 7290,
+   "code": "THA"
+ },
+ {
+   "Year": 2018,
+   "name": "united kingdom, scotland",
+   "norm": 12668,
+   "code": "GBR"
+ },
+ {
+   "Year": 2019,
+   "name": "austria",
+   "norm": 19276,
+   "code": "AUT"
+ },
+ {
+   "Year": 2019,
+   "name": "brunei darussalam",
+   "norm": 14968,
+   "code": "BRN"
+ },
+ {
+   "Year": 2019,
+   "name": "costa rica",
+   "norm": 12833,
+   "code": "CRI"
+ },
+ {
+   "Year": 2019,
+   "name": "czech republic",
+   "norm": 21089,
+   "code": "CZE"
+ },
+ {
+   "Year": 2019,
+   "name": "egypt",
+   "norm": 26846,
+   "code": "EGY"
+ },
+ {
+   "Year": 2019,
+   "name": "estonia",
+   "norm": 25260,
+   "code": "EST"
+ },
+ {
+   "Year": 2019,
+   "name": "georgia",
+   "norm": 22983,
+   "code": "GEO"
+ },
+ {
+   "Year": 2019,
+   "name": "hungary",
+   "norm": 24539,
+   "code": "HUN"
+ },
+ {
+   "Year": 2019,
+   "name": "iceland",
+   "norm": 15425,
+   "code": "ISL"
+ },
+ {
+   "Year": 2019,
+   "name": "lebanon",
+   "norm": 15360,
+   "code": "LBN"
+ },
+ {
+   "Year": 2019,
+   "name": "lithuania",
+   "norm": 27299,
+   "code": "LTU"
+ },
+ {
+   "Year": 2019,
+   "name": "mauritius",
+   "norm": 15809,
+   "code": "MUS"
+ },
+ {
+   "Year": 2019,
+   "name": "republic of korea",
+   "norm": 10208,
+   "code": "PRK"
+ },
+ {
+   "Year": 2019,
+   "name": "singapore",
+   "norm": 15284,
+   "code": "SGP"
+ },
+ {
+   "Year": 2019,
+   "name": "slovenia",
+   "norm": 19154,
+   "code": "SVL"
+ },
+ {
+   "Year": 2019,
+   "name": "thailand",
+   "norm": 7529,
+   "code": "THA"
+ },
+ {
+   "Year": 2019,
+   "name": "turkey",
+   "norm": 18381,
+   "code": "TUR"
+ },
+ {
+   "Year": 2019,
+   "name": "united arab emirates",
+   "norm": 17546,
+   "code": "ARE"
+ },
+ {
+   "Year": 2019,
+   "name": "united kingdom, scotland",
+   "norm": 12635,
+   "code": "GBR"
+ }
+]
