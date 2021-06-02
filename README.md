@@ -2,9 +2,9 @@
 
 | Student's name | SCIPER |
 | -------------- | ------ |
-|Pauline |Conti |
-|Clemence |Barsi |
-|Juliette |Challot |
+|Pauline Conti |Conti |
+|Clemence Barsi |271508 |
+|Juliette Challot|Challot |
 
 [Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
 
