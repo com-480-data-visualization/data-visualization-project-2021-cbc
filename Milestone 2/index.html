@@ -19,9 +19,18 @@
 	<script src="https://cdn.amcharts.com/lib/4/charts.js"></script>
 	<script src="https://cdn.amcharts.com/lib/4/themes/spiritedaway.js"></script>
 	<script src="https://cdn.amcharts.com/lib/4/themes/animated.js"></script>
+	<script src="https://d3js.org/d3.v4.js"></script>
+  <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+  <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+  <script src="https://unpkg.com/d3-simple-slider"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.24.0/d3-legend.js"></script>
 
 
+	<link href="https://fonts.googleapis.com/css?family=Jost|Roboto|Oswald" rel="stylesheet">
+  <link rel="stylesheet" href="myviz.css">
 	<link rel="stylesheet" href="style.css">
+
 	<!-- Easy scroll dots -->
 	<link href="dist/easyScrollDots.css" rel="stylesheet">
 	<!--Easy Scroll Dots style-->
@@ -71,7 +80,12 @@
 	</p>
 	<h4>How to use</h4>
 	<p>
-	Explain how to use our visualization
+		For this first visualization, you can hover over a link to make it light up along with all it's resulting link up to the CVD column.
+		By clinking on a link, the total number of records that corresponds to it appear, along with the percentage it represents with respect
+		with the total number ofr record in the dataset. As people can cumulate multiple factors on the left of the graph, the percentages don't sum up to 100%
+		across factors. Instead, the number on one link represents the total number and proportion of subjects that had the exact combinations of factor-age-CVD.
+		You can easily disable a node by clicking on it, making all the links connected to it dissapear. Finally, you can also rearrange the nodes
+		on their y-axis by drag-and-dropping them where you want on their column.
 	</p>
 	<figure class="viz-row1">
 
@@ -98,10 +112,18 @@
 	<p>
 	Explain how to use our visualization
 	</p>
-	<figure class="viz-row">
-		<svg viewBox="-10 -10 220 50" width="220" height="100" class="width-limited">
-		</svg>
-	</figure>
+	<div id="my_dataviz_legend_timeline" class="fixed_legend"></div>
+  <div id="my_dataviz_timeline" class="fixed"></div>
+  <div id="my_dataviz_timeline_seasons" class="fixed_seasons"></div>
+
+  <h2 class="title">Deaths from Cardio Vascular diseases worldwide from 1988 to 2019 </h2>
+  <div class="row align-items-center">
+      <div id="my_dataviz_2"></div>
+  </div>
+  <div class="slidecontainer">
+    <input type="range" min="1988" max="2019" value="2014" class="slider" id="myRange">
+    <strong>Year: </strong><span id="demo"></span>
+  </div>
 </div>
 
 
@@ -138,7 +160,7 @@
 	</select>
 	<button onclick="deaths(false)">Total number of cardio deaths</button>
 	<button onclick="deaths(true)">Number of cardio deaths for 1000 deaths</button>
-	<div id="my_dataviz" width="500" height="500" viewBox='0 0 500 350'>
+	<div id="my_dataviz_3" width="500" height="500" viewBox='0 0 500 350'>
 	<svg id="vis-3"></svg>
 	  <script type="text/javascript" src='help.js'></script>
 	</div>
