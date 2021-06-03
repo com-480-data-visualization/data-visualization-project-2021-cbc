@@ -16,7 +16,7 @@ function maybeDisposeChart(chartdiv) {
   }
 }
 
-function plot_viz(input_data) {
+function plot_viz1(input_data) {
 //*am4core.ready(function() {*/
 
 // Themes begin
@@ -1950,4 +1950,4 @@ input_data = [
     "prop": "0.07%"
     }
 ];
-plot_viz(input_data)
+plot_viz1(input_data)
