@@ -1,32 +1,26 @@
-var width = 960,
-  height = 600,
+var width = 1400,
+  height = 500,
   centered,
   startYear = 1988,
   endYear = 2019,
-  chosenYear = 2014;
+  chosenYear = 2000;
 var country_code = d3.map()
 
 // The svg
 var svg = d3.select("body").append("svg")
   .attr("width", width)
-  .attr("height", height);
+  .attr("height", height)
 
-/*svg.append("rect")
-    .attr("class", "background")
-    .attr("width", width)
-    .attr("height", height)
-    .on("click", clicked);*/
 // Map and projection
 var path = d3.geoPath();
 var projection = d3.geoNaturalEarth()
-  .scale(width / 2 / Math.PI)
-  .translate([width / 2, height / 2 - 50])
+  .scale(width / 2.5 / Math.PI)
+  .translate([width / 2, height / 2 +30])
 var path = d3.geoPath()
   .projection(projection);
 
 // Data and color scale
 var data = d3.map();
-var full_data;
 var colorScheme = d3.schemeYlOrRd[9];
 colorScheme.unshift("#eee")
 var colorScale = d3.scaleThreshold()
@@ -36,7 +30,7 @@ var colorScale = d3.scaleThreshold()
 // Legend
 var g = svg.append("g")
   .attr("class", "legendThreshold")
-  .attr("transform", "translate(20,30)");
+  .attr("transform", "translate(180,30)");
 
 g.append("text")
   .attr("class", "caption")
@@ -76,24 +70,26 @@ d3.queue()
   .defer(d3.csv, "https://raw.githubusercontent.com/com-480-data-visualization/data-visualization-project-2021-cbc/master/Data/proba_by_country_and_year.csv")
   .await(ready);
 
-function load_data() {
-  data = full_data['$' + year];
-}
-
 function ready(error, topo, data1, date = chosenYear) {
-  console.log("ready called")
-  data.empty()
+  //console.log(topo.features);
+  data.empty();
+  for(var i=0;i<177;i++){
+//  console.log(topo.features[i].id==data1[6].code);
+}
+//console.log(data1[6].code);
 
+for(var i=0;i<177;i++){
+  data.set(topo.features[i].id,0);
+}
   data1.forEach(function (d) {
     if (d.Year == chosenYear) {
+      //data.set(topo.features.id)
       data.set(d.code, d.norm)
     }
-
   });
 
-  full_data = data1;
   //initialise la map
-  datayear = update(full_data, date);
+  datayear = update(data, date);
 
   let mouseOver = function (d) {
     d3.selectAll(".Country")
@@ -128,39 +124,25 @@ function ready(error, topo, data1, date = chosenYear) {
     .attr("d", d3.geoPath()
       .projection(projection)
     )
-    // set light grey color of each country
+    // set color of each country
     .attr("fill", function (d) {
-
-      d.total = data.get(d.id) || 0;
-
-      //d.total = datayear[4].norm;
-      //console.log(datayear[4].norm);
+      //console.log(d);
+      d.total =   data.get(d.id) || 0;
+      //console.log(d.total);
       return colorScale(d.total);
     })
     .style("stroke", "transparent")
     .attr("class", function (d) { return "Country" })
-    .style("opacity", .8)
+    .style("opacity", 1)
     .on("mouseover", mouseOver)
     .on("mouseover", tip.show)
     .on("mouseleave", mouseLeave)
     .on("mouseleave", tip.hide);
 
-  /*svg.append("g")
-  .selectAll("path")
-  .data(data1)
-  .enter()
-  .append("path")
-  .attr("d",d3.geoPath()
-  .projection(projection))
-  .attr("fill",function (d) {
-  d.total= datayear.map(({norm}) => norm);
-  console.log(datayear.map(({norm}) => norm));
-  return colorScale(d.total);})*/
-
 
   slider.oninput = function () {
     output.innerHTML = this.value;
-    console.log(this.value)
+    //console.log(this.value)
     chosenYear = this.value
     d3.queue()
       .defer(d3.json, "https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson")
@@ -170,11 +152,6 @@ function ready(error, topo, data1, date = chosenYear) {
 
 }
 
-function sortData_Year_Country() {
-  //Data by year then genre with values
-  groupbyYearthenCountry = d3version4.rollup(data, v => v.length, d => d.Year, d => d.name);
-
-}
 /*function clicked(d) {
     var x, y, k;
 
@@ -207,40 +184,8 @@ output.innerHTML = slider.value; // Display the default slider value
 // Update the current slider value (each time you drag the slider handle)
 
 function update(full_data, year) {
-  console.log(full_data);
-  var newData = Object.values(full_data).filter(full_data => full_data.Year == year);
-  console.log(newData);
-  return newData;
-  //
-  /*  groupYear = d3version5.group(data, d => d.Year);
-    var keys = Array.from(groupGenre.keys()).sort();
-    result = mapToArray(groupYear);
-    function mapToArray(map) {
-          result = []
-          map.forEach((v, i, a) => {
-              o = {}
-              o["year"] = i
-              keys.forEach(genre => {
-                  if (v.has(genre)) {
-                      o[genre] = v.get(genre)
-                  }
-                  else {
-                      o[genre] = 0
-                  }
-              })
-              result.push(o)
-          });
-          return result.sort((a, b) => a.year - b.year)
-      }*/
   //console.log(full_data);
-
-
-  //newData.function(d){newData.set(d.code,d.norm)};
-  //newData.set(function(d){d.code,d.norm});
-  //Object.values(users).filter(user => user.user_id === 1)
+  var newData = Object.values(full_data).filter(full_data => full_data.Year == year);
   //console.log(newData);
-  //countryShapes.style("fill", function(d) {
-  //return color(d.properties.years[year][0].rate)
-  //	});
-  //data.set(d.code, +d.norm);
+  return newData;
 }

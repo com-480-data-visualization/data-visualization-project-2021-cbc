@@ -54,12 +54,12 @@ function deaths(val){
 }
 
 
-var margin = {top: 60, right: 230, bottom: 50, left: 70},
+var margin = {top: 40, right: 230, bottom: 50, left: 70},
     width = 660 - margin.left - margin.right,
     height = 400 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
-var svg = d3.select("#my_dataviz")
+var svg = d3.select("#my_dataviz_3")
   .append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
@@ -123,7 +123,7 @@ d3.csv(link, function(data) {
       .attr("text-anchor", "end")
       .attr("x", 0)
       .attr("y", -20 )
-      .text("# of death due to cardiovascular diseases")
+      .text("Number of deaths due to cardiovascular diseases")
       .attr("text-anchor", "start")
 
   // Add Y axis
@@ -141,8 +141,6 @@ d3.csv(link, function(data) {
     svg.append("g")
       .call(d3.axisLeft(y).ticks(5))
   }
-
-
 
   //////////
   // BRUSHING AND CHART //
@@ -213,8 +211,6 @@ d3.csv(link, function(data) {
       .attr("d", area)
     }
 
-
-
     //////////
     // HIGHLIGHT GROUP //
     //////////
@@ -232,8 +228,6 @@ d3.csv(link, function(data) {
     var noHighlight = function(d){
       d3.selectAll(".myArea").style("opacity", 1)
     }
-
-
 
     //////////
     // LEGEND //

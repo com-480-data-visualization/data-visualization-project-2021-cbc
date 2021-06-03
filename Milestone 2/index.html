@@ -13,20 +13,14 @@
 	<!-- Load d3.js & color scale-->
 	<script src="https://d3js.org/d3.v4.js"></script>
 	<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
-	<script src="https://d3js.org/d3.v4.js"></script>
-	<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
 	<script src="https://cdn.amcharts.com/lib/4/core.js"></script>
 	<script src="https://cdn.amcharts.com/lib/4/charts.js"></script>
 	<script src="https://cdn.amcharts.com/lib/4/themes/spiritedaway.js"></script>
 	<script src="https://cdn.amcharts.com/lib/4/themes/animated.js"></script>
-	<script src="https://d3js.org/d3.v4.js"></script>
-  <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
-  <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+	<script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
   <script src="https://unpkg.com/d3-simple-slider"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.24.0/d3-legend.js"></script>
-
-
 	<link href="https://fonts.googleapis.com/css?family=Jost|Roboto|Oswald" rel="stylesheet">
   <link rel="stylesheet" href="myviz.css">
 	<link rel="stylesheet" href="style.css">
@@ -76,7 +70,7 @@
 <div class="width-limited">
 	<h3>Individual aggraving factors</h3>
 	<p>
-	We want to explore what in your personal way of life can prevent the apparition of a cardiovascular disease.
+	We want to explore what in your personal way of life, can prevent or on the contrary increase the probability of developping a cardiovascular disease.
 	</p>
 	<h4>How to use</h4>
 	<p>
@@ -98,54 +92,43 @@
 
 <!-- HERE'S AN ANCHOR POINT (SCROLL INDICATOR) -->
 <div>
-		<div class="scroll-indicator" id="section02" data-scroll-indicator-title="First Section"></div>
+		<div class="scroll-indicator" id="section02" data-scroll-indicator-title="Second Section"></div>
 </div>
 
 <div class="width-limited">
 
 	<h3>Influence of time on a cardiovascular disease</h3>
 	<p>
-		Here we want to explore how is time influencing our risk of developing a cardiovascular disease through the year we live in
-		as well as our age.
+		Here we want study the evolution of the proportion of cardiovascular related deaths over all deaths worldwide.
+		Though this visualization we want to see whether the proportion of cardiovascular related deaths has increases over the past
+		30 years. This visualization will also allow us to esily notice the parts of the world more severely touched by cardiovascular
+		diseases and thus help us understand the impact of our environment on the development of such diseases. The user however has to keep in mind
+		that the data recovered from the World Health Organisation is highly dependent on the cooperation of the different states. Indeed
+		as one will notice some countries give data almost every year when others provide very few data.
 	</p>
 	<h4>How to use</h4>
 	<p>
-	Explain how to use our visualization
+	Select the desired year with the slider and go over any country you wish to have more information about.
+	It will display the exact percentage of deaths related to cardiovascular diseases for that specific year in the selected country.
 	</p>
-	<div id="my_dataviz_legend_timeline" class="fixed_legend"></div>
-  <div id="my_dataviz_timeline" class="fixed"></div>
-  <div id="my_dataviz_timeline_seasons" class="fixed_seasons"></div>
-
-  <h2 class="title">Deaths from Cardio Vascular diseases worldwide from 1988 to 2019 </h2>
+	<h2 class="title">Deaths from Cardio Vascular diseases worldwide from 1988 to 2019 </h2>
   <div class="row align-items-center">
-      <div id="my_dataviz_2"></div>
+      <div id="my_dataviz"></div>
   </div>
   <div class="slidecontainer">
-    <input type="range" min="1988" max="2019" value="2014" class="slider" id="myRange">
+    <input type="range" min="1994" max="2019" value="2000" class="slider" id="myRange">
     <strong>Year: </strong><span id="demo"></span>
   </div>
+<script type="text/javascript" src="myviz.js"></script>
 </div>
 
-
-<!-- HERE'S AN ANCHOR POINT (SCROLL INDICATOR) -->
 <div>
-		<div class="scroll-indicator" id="section03" data-scroll-indicator-title="First Section"></div>
+		<div class="scroll-indicator" id="section03" data-scroll-indicator-title="Third Section"></div>
 </div>
 <div class="width-limited">
-	<h3>Influence of the place of the world you live in</h3>
-
+	<h3>Influence of the living place, sex or age on the risk of dying from a cardiovascular disease</h3>
 	<p>
-		Here we want to explore how the place where you live influence your risk of having a cardiovascular disease.
-	</p>
-	<h4>How to use</h4>
-	<p>
-	Explain how to use our visualization
-	</p>
-	<div class="width-limited">
-	<h3>Influence of the place of the world you live in</h3>
-
-	<p>
-		Here we want to explore how the place where you live influence your risk of having a cardiovascular disease.
+		Here we want to explore how the place where you live, your age or your sex influence your risk of having a cardiovascular disease.
 	</p>
 	<h4>How to use</h4>
 	<p>
@@ -161,7 +144,7 @@
 	<button onclick="deaths(false)">Total number of cardio deaths</button>
 	<button onclick="deaths(true)">Number of cardio deaths for 1000 deaths</button>
 	<div id="my_dataviz_3" width="500" height="500" viewBox='0 0 500 350'>
-	<svg id="vis-3"></svg>
+		<svg id="vis-3"></svg>
 	  <script type="text/javascript" src='help.js'></script>
 	</div>
 </div>
