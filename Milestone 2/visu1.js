@@ -17,7 +17,6 @@ function maybeDisposeChart(chartdiv) {
 }
 
 function plot_viz1(input_data) {
-//*am4core.ready(function() {*/
 
 // Themes begin
 am4core.useTheme(am4themes_spiritedaway);
@@ -27,6 +26,7 @@ am4core.useTheme(am4themes_animated);
 var chart = am4core.create("chartdiv", am4charts.SankeyDiagram);
 chart.hiddenState.properties.opacity = 0; // this creates initial fade-in
 
+// import the json into the plot's data
 chart.data = input_data;
 
 let hoverState = chart.links.template.states.create("hover");
