@@ -49,6 +49,21 @@ We use the class selector ".", so this style will be applied to elements with cl
 The various units of measurement available in CSS:
 	https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Values_and_units
 */
+
+.viz-row1 {
+	width: 100%;
+	/* Center the title using flexbox */
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 0;
+	padding-top: 5rem;
+	padding-bottom: 5rem;
+
+	background-color: var(--off-white);
+}
+
+
 .width-limited {
 	max-width: 55rem;
 
@@ -221,18 +236,7 @@ nav li {
 	background-color: var(--grey);
 }
 
-.viz-row1 {
-	width: 100%;
-	/* Center the title using flexbox */
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	margin: 0;
-	padding-top: 5rem;
-	padding-bottom: 5rem;
 
-	background-color: var(--light-blue);
-}
 
 figure > * {
 	width: 100%;
