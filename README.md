@@ -6,22 +6,26 @@
 |Clemence Barsi |271508 |
 |Juliette Challot|283171 |
 
+## Goal
+
+The goal of this project is to investigate what impacts the risk of developping a cardiovascular disease.
+
+## Link to website
+
+[Our website](https://github.com/com-480-data-visualization/data-visualization-project-2021-cbc/index.html)
+
 [Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
 
 ## Milestone 1 (23rd April, 5pm)
 
 **10% of the final grade**
 
-This is a preliminary milestone to let you set up goals for your final project and assess the feasibility of your ideas.
-Please, fill the following sections about your project.
+* [Milestone 1](https://github.com/com-480-data-visualization/data-visualization-project-2021-cbc/blob/master/Milestones/Milestone%201.pdf)
 
-*(max. 2000 characters per section)*
+### Datasets
 
-### Dataset
-
-> Find a dataset (or multiple) that you will explore. Assess the quality of the data it contains and how much preprocessing / data-cleaning it will require before tackling visualization. We recommend using a standard dataset as this course is not about scraping nor data processing.
->
-> Hint: some good pointers for finding quality publicly available datasets ([Google dataset search](https://datasetsearch.research.google.com/), [Kaggle](https://www.kaggle.com/datasets), [OpenSwissData](https://opendata.swiss/en/), [SNAP](https://snap.stanford.edu/data/) and [FiveThirtyEight](https://data.fivethirtyeight.com/)), you could use also the DataSets proposed by the ENAC (see the Announcements section on Zulip).
+ * [Link to the first dataset](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset)
+ * [Link to the second dataset](https://www.who.int/data/data-collection-tools/who-mortality-database)
 
 ### Problematic
 
