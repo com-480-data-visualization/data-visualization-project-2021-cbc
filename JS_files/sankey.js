@@ -2,7 +2,6 @@ var chartReg = {};
 
 function createChart(chartdiv, charttype) {
   // Check if the chart instance exists
-  console.log("in createChart")
    maybeDisposeChart(chartdiv);
   // Create new chart
    chartReg[chartdiv] = am4core.create(chartdiv, charttype);
@@ -55,7 +54,6 @@ chart.links.template.events.on("over", function(event){
 
   chart.links.each(function(y){
     if(y.id.indexOf(id) != -1){
-      console.log("y.id: " + y.id)
       y.isHover = true;
     }
   })
@@ -74,7 +72,6 @@ chart.links.template.events.on("hit", function(event){
 
   chart.links.each(function(y){
     if(y.id.indexOf(id) != -1){
-      console.log("y.id: " + y.id)
       y.isHover = true;
       let cat = y.id.toString().concat(": ")
       let val = y.value.toString().concat(", ")

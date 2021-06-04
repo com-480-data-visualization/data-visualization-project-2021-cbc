@@ -12,7 +12,7 @@ whenDocumentLoaded(() => {
 
 });
 
-
+//Links to the different datasets corresponding to different visualizations
 str_cont = "https://raw.githubusercontent.com/com-480-data-visualization/data-visualization-project-2021-cbc/master/Data/cardio_by_cont.csv"
 str_gender = "https://raw.githubusercontent.com/com-480-data-visualization/data-visualization-project-2021-cbc/master/Data/cardio_by_gender.csv"
 str_age = "https://raw.githubusercontent.com/com-480-data-visualization/data-visualization-project-2021-cbc/master/Data/cardio_by_age.csv"
@@ -23,6 +23,8 @@ str_age_1000 = "https://raw.githubusercontent.com/com-480-data-visualization/dat
 //Global variable
 var by_1000 = false
 
+
+//Function called when the category is switched or one of the two buttons is clicked
 function chooseCategory(){
   var cat = document.getElementById("mySelect-viz3").value;
   if (cat=="age"&&!by_1000) {
@@ -48,6 +50,8 @@ function chooseCategory(){
   }
 }
 
+
+//Updates the value of by_1000 and calls chooseCategory
 function deaths(val){
   by_1000 = val
   chooseCategory()
@@ -69,14 +73,7 @@ var svg = d3.select("#my_dataviz_3")
 
 
 
-function max_value(stacked_data){
-  console.log("in max")
-
-  for (const item in stacked_data){
-    console.log(typeof item)
-  }
-}
-
+//Makes our visualization
 function plot_viz3(link){
 d3.csv(link, function(data) {
 

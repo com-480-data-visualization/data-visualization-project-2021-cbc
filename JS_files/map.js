@@ -46,7 +46,6 @@ var legend = d3.legendColor()
   .shapePadding(4)
   .scale(colorScale);
 
-// tooltip countries NOT WORKING
 var tip = d3.tip()
   .attr('class', 'd3-tip')
   .offset([70, 0])
@@ -71,19 +70,15 @@ d3.queue()
   .await(ready);
 
 function ready(error, topo, data1, date = chosenYear) {
-  //console.log(topo.features);
   data.empty();
   for(var i=0;i<177;i++){
-//  console.log(topo.features[i].id==data1[6].code);
 }
-//console.log(data1[6].code);
 
 for(var i=0;i<177;i++){
   data.set(topo.features[i].id,0);
 }
   data1.forEach(function (d) {
     if (d.Year == chosenYear) {
-      //data.set(topo.features.id)
       data.set(d.code, d.norm)
     }
   });
@@ -126,9 +121,7 @@ for(var i=0;i<177;i++){
     )
     // set color of each country
     .attr("fill", function (d) {
-      //console.log(d);
       d.total =   data.get(d.id) || 0;
-      //console.log(d.total);
       return colorScale(d.total);
     })
     .style("stroke", "transparent")
@@ -142,7 +135,6 @@ for(var i=0;i<177;i++){
 
   slider.oninput = function () {
     output.innerHTML = this.value;
-    //console.log(this.value)
     chosenYear = this.value
     d3.queue()
       .defer(d3.json, "https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson")
@@ -152,30 +144,6 @@ for(var i=0;i<177;i++){
 
 }
 
-/*function clicked(d) {
-    var x, y, k;
-
-    if (d && centered !== d) {
-      var centroid = path.centroid(d);
-      x = centroid[0];
-      y = centroid[1];
-      k = 4;
-      centered = d;
-    } else {
-      x = width2 / 2;
-      y = height2 / 2;
-      k = 1;
-      centered = null;
-}
-
-  g.selectAll("path")
-      .classed("active", centered && function(d) { return d === centered; });
-
-  g.transition()
-    .duration(750)
-    .attr("transform", "translate(" + width2 / 2 + "," + height2 / 2 + ")scale(" + k + ")translate(" + -x + "," + -y + ")")
-    .style("stroke-width2", 1.5 / k + "px");
-}*/
 
 var slider = document.getElementById("myRange");
 var output = document.getElementById("demo");
@@ -184,8 +152,6 @@ output.innerHTML = slider.value; // Display the default slider value
 // Update the current slider value (each time you drag the slider handle)
 
 function update(full_data, year) {
-  //console.log(full_data);
   var newData = Object.values(full_data).filter(full_data => full_data.Year == year);
-  //console.log(newData);
   return newData;
 }
