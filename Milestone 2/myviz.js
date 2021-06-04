@@ -1,5 +1,5 @@
-var width = 1400,
-  height = 500,
+var width2 = 1400,
+  height2 = 500,
   centered,
   startYear = 1988,
   endYear = 2019,
@@ -7,15 +7,15 @@ var width = 1400,
 var country_code = d3.map()
 
 // The svg
-var svg = d3.select("body").append("svg")
-  .attr("width", width)
-  .attr("height", height)
+var svg2 = d3.select("body").append("svg")
+  .attr("width", width2)
+  .attr("height", height2)
 
 // Map and projection
 var path = d3.geoPath();
 var projection = d3.geoNaturalEarth()
-  .scale(width / 2.5 / Math.PI)
-  .translate([width / 2, height / 2 +30])
+  .scale(width2 / 2.5 / Math.PI)
+  .translate([width2 / 2, height2 / 2 +30])
 var path = d3.geoPath()
   .projection(projection);
 
@@ -28,7 +28,7 @@ var colorScale = d3.scaleThreshold()
   .range(colorScheme);
 
 // Legend
-var g = svg.append("g")
+var g = svg2.append("g")
   .attr("class", "legendThreshold")
   .attr("transform", "translate(180,30)");
 
@@ -56,11 +56,11 @@ var tip = d3.tip()
     percentage = (percentage > 0) ? percentage + "%" : "no data"
     return "<strong>Country: </strong>" + country + " <br> <strong>Percentage of CVD deaths: </strong> <span>" + percentage;
   })
-svg.call(tip);
+svg2.call(tip);
 
 
 
-svg.select(".legendThreshold")
+svg2.select(".legendThreshold")
   .call(legend);
 
 
@@ -115,7 +115,7 @@ for(var i=0;i<177;i++){
   };
 
   // Draw the map
-  svg.append("g")
+  svg2.append("g")
     .selectAll("path")
     .data(topo.features)
     .enter()
@@ -162,8 +162,8 @@ for(var i=0;i<177;i++){
       k = 4;
       centered = d;
     } else {
-      x = width / 2;
-      y = height / 2;
+      x = width2 / 2;
+      y = height2 / 2;
       k = 1;
       centered = null;
 }
@@ -173,8 +173,8 @@ for(var i=0;i<177;i++){
 
   g.transition()
     .duration(750)
-    .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")scale(" + k + ")translate(" + -x + "," + -y + ")")
-    .style("stroke-width", 1.5 / k + "px");
+    .attr("transform", "translate(" + width2 / 2 + "," + height2 / 2 + ")scale(" + k + ")translate(" + -x + "," + -y + ")")
+    .style("stroke-width2", 1.5 / k + "px");
 }*/
 
 var slider = document.getElementById("myRange");

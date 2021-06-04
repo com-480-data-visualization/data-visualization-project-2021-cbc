@@ -56,7 +56,7 @@ function deaths(val){
 
 var margin = {top: 40, right: 230, bottom: 50, left: 70},
     width = 660 - margin.left - margin.right,
-    height = 400 - margin.top - margin.bottom;
+    height = 350 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
 var svg = d3.select("#my_dataviz_3")
@@ -121,7 +121,7 @@ d3.csv(link, function(data) {
   // Add Y axis label:
   svg.append("text")
       .attr("text-anchor", "end")
-      .attr("x", 0)
+      .attr("x", -60)
       .attr("y", -20 )
       .text("Number of deaths due to cardiovascular diseases")
       .attr("text-anchor", "start")
