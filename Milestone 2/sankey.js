@@ -84,7 +84,7 @@ chart.links.template.events.on("hit", function(event){
 
 
 // for right-most label to fit
-chart.paddingRight = 30;
+chart.paddingBottom = 15;
 
 
 var nodeTemplate = chart.nodes.template;

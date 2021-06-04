@@ -85,8 +85,25 @@
 
 	<div id="chartdiv" width=100% height="700" viewBox='0 0 700 800'>
 	</div>
-	<script src='visu1.js'></script>
+	<script src='sankey.js'></script>
 	</figure>
+</div>
+
+<div class="width-limited_2">
+	<p>
+	In this first visualization we wanted to understand how our lifestyle and health migh influence our risks of having a
+	cardiovascular disease. The nodes different factors and their "opposite" on the right have sizes proportional to their
+	representation in our dataset. We can see for example, that there were very few alcohol consumers compared to the ones not
+	consuming alcohol. We can also see that most our records concerned people between 50 ans 59 years old, and that the cases of
+	cardiovascular diseases were fairly equally distributed.
+</p>
+<p>
+	Important to notice that the sizes of the factors are relative to their opposite: so the sum of records accros 2 opposites
+	(under weight/not under weight) is the total number of records.
+</p>
+<p>
+	From the graph, we can see that while some factors seem to disperse more into the CVD node for younger age ranges, it does not apply for older subjects. For example, we have almost 10’000 records of active subjects between in their fourties that did not have CVD, in opposition to 5928 that had CVD, but for subjects older than 60 years old, the poportions are reversed: 6870 of avtice subjects had CVD whereas 3518 didn’t.  This schema seems to be the case across almost all factors whihc would signify that age plays a major role in the risk of having CVD.
+</p>
 </div>
 
 
@@ -119,22 +136,24 @@
     <input type="range" min="1994" max="2019" value="2000" class="slider" id="myRange">
     <strong>Year: </strong><span id="demo"></span>
   </div>
-<script type="text/javascript" src="myviz.js"></script>
+<script type="text/javascript" src="map.js"></script>
 </div>
+
+<div class = "width-limited_2">
+	<p>
+		Although some countries are missing, this visualization highlights an overall high proportion of deaths from cardiovascular
+		diseases in all Eastern Europe. Indeed Bulgaria for example has around 30% of its deaths related to cardiovascular diseases
+		 for all the years in which WHO has collected data. On the contrary South America and Thailand both have less than 10%
+		 deaths related to cardiovascular diseases on all the years recorded. As for the states like the United states, France and
+		  Brasil , the percentage seems rather constant over the past 30 years. We can see that CVDs are more deadly in Eastern
+			Europe as well as some countries of the Middle East than in the rest of the world where the rates are quite similar.
+		</p>
+	</div>
 
 <div>
 		<div class="scroll-indicator" id="section03" data-scroll-indicator-title="Time factor"></div>
 </div>
 <div class="width-limited">
-<p>
-	Although some countries are missing this visualization highlights an overall high proportion of deaths from cardiovascular
-	diseases in all oriental Europe. Indeed Bulgaria for example has around 30% of its deaths related to cardiovascular diseases
-	for all the years in which WHO has collected data. On the contrary South America and Thailand both have less than 10% deaths
-	related to cardiovascular diseases on all the years recorded. As for the states like the United states, France and Brasil ,
-	the percentage seems rather constant over the past 30 years. This means that either cardiovascular diseases are as deadly as
-	they were 30 years ago or more likely that more people suffer from them.
-</p>
-
 	<h3>Influence of time on the apparition of cardiovascular disease</h3>
 	<p>
 		Here we want to explore how has the number of cardiovascular related deaths evolved over the past 30 years. We study this parameter along side features like
@@ -161,33 +180,53 @@
 	<div style="float: right; width: 250px">
 	<button onclick="deaths(true)">Number of cardio deaths for 1000 deaths</button>
 	</div>
-	<div id="my_dataviz_3" ></div>
+	<div id="my_dataviz_3" class = "width-limited_2" ></div>
 		<svg id="vis-3"></svg>
-	  <script type="text/javascript" src='help.js'></script>
-		<p>
+	  <script type="text/javascript" src='stackedArea.js'></script>
+			<div class = "with-limited_3">
+			<p>
 			From this visualization, we can see that the number of cardio deaths in each continent remains quite constant. When plotting
 			by 1000 ratio, we can see that the number of cardio deaths for 1000 has augmented in the 5 years in Africa while it remains
 			quite constant in the other countries.
-		</p>
-		<p>
+			</p>
+			<p>
 Considering the sex, we see that the total number of deaths remains also quite constant and equal for each sex. The rise and
 the decrease at the beginning and the end of the plot are due to the missing values. However when plotting the ratio we can see
 a big increase in the ratio of cardio deaths for females the latest years.
-		</p>
-
-		<p>
+			</p>
+			<p>
 Finally when using ages, we can see that people over their sixties are largely responsible for the number of cardio deaths in
 the last years and that it remains quite constant throughout the last 30 years.
 When plotting the ratio, we see that when considering the age, the ratio stays quite constant as well and didn’t evolve much
 during the last three decades.
 
 In conclusion from, this visualization we observed that the number of cardio deaths remained quite constant in the last 30 years and that thus time doesn’t seem to affect your risk of dying from a CVD. The only difference observed was for females in the last years, where the ratio of cardio deaths augmented drastically as well as for Africa.
-	</p>
+			</p>
+			</div>
 </div>
 
-<div id="title" class="fixed_title"></div>
+<main class="width-limited">
+	<h3>Conclusion</h3>
+	<p>
+	With these visualizations, we were able to see that the time factor (having a CVD in 1988 or in 2019) didn't affect
+	much your risk of dying from a CVD even though there were a raise in the last years of the CVD induced deaths in Africa
+	and for females.
+	</p>
+	<p>
+	We also observed that CVD seem to be way more deadly in Eastern Europe and in the Middle East whereas in the rest of
+	the world the rates are closer with some countries being far less affected by CVD deaths (e.g. South Africa).
+	</p>
+	<p>
+
+	</p>
+
+
+</main>
+
+
+<div id="title" class="fixed_title">
 <script src="dist/easyScrollDots.js"></script>
-<script type="text/javascript" src="title.js"></script>
+<script src="title.js"></script>
 
 
 <!--Easy Scroll Dots js-->

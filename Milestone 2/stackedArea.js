@@ -91,7 +91,7 @@ d3.csv(link, function(data) {
   // color palette
   var color = d3.scaleOrdinal()
     .domain(keys)
-    .range(d3.schemeSet2);
+    .range(d3.schemePaired);
 
   //stack the data?
   var stackedData = d3.stack().keys(keys)(data)

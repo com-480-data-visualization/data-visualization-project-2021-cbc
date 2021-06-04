@@ -71,6 +71,25 @@ The various units of measurement available in CSS:
 	/* Center horizontally: */
 	margin-left: auto;
 	margin-right: auto;
+	margin-bottom :2px;
+}
+
+.width-limited_2 {
+	max-width: 55rem;
+
+	/* Center horizontally: */
+	margin-left: auto;
+	margin-right: auto;
+	margin-top :50px;
+}
+
+.width-limited_3 {
+	max-width: 55rem;
+
+	/* Center horizontally: */
+	margin-left: auto;
+	margin-right: auto;
+	margin-top :0px;
 }
 
 .final-sentence {
@@ -90,6 +109,10 @@ a {
 /* Justify paragraphs */
 p {
 	text-align: justify;
+}
+
+.Box p {
+	margin:0;
 }
 
 /* Links: apply our theme color modify the buttons to the pages
@@ -261,14 +284,14 @@ footer {
 
 button {
 	display: block;
-	/*border-radius: 1rem;*/
-	border : 0px;
+	border-radius: 1px;
+	/*border : 1rem;
 	outline : 0px;
-
-	background: var(--old-rose);
+*/
+	background: var(--off-white);
 
 	font-weight: bold;
-	font-size: 0.75rem;
+	font-size: 0.9rem;
 
 }
 
@@ -276,6 +299,7 @@ select{
 	background : var(--off-white);
 	border :0px;
 	outline :0px;
+	font-size: 1rem;
 }
 
 textarea {
