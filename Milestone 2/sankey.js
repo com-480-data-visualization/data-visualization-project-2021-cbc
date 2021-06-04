@@ -76,8 +76,10 @@ chart.links.template.events.on("hit", function(event){
     if(y.id.indexOf(id) != -1){
       console.log("y.id: " + y.id)
       y.isHover = true;
+      let cat = y.id.toString().concat(": ")
       let val = y.value.toString().concat(", ")
-      y.tooltipText = val.concat(y.prop)
+      let contat_val = cat.concat(val)
+      y.tooltipText = contat_val.concat(y.prop)
     }
   })
 })
