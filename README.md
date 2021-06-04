@@ -17,15 +17,14 @@ The goal of this project is to investigate what impacts the risk of developping 
 ## Link to process book
 
 This book relates the path we followed to reach this final result, the challenges we faced and the division of the work.
+
 [Process Book](https://github.com/com-480-data-visualization/data-visualization-project-2021-cbc/blob/master/ProcessBook.pdf)
 
 ## Link to screencast video
 
 This video shows how to use our website.
 
-## List of Milestones
 
-[Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
 
 ## Milestone 1 (23rd April, 5pm)
 
