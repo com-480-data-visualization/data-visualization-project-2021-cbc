@@ -12,7 +12,7 @@ The goal of this project is to investigate what impacts the risk of developping 
 
 ## Link to website
 
-[Our website](https://github.com/com-480-data-visualization/data-visualization-project-2021-cbc/index.html)
+[Our website](https://github.com/com-480-data-visualization/data-visualization-project-2021-cbc/blob/master/index.html)
 
 ## Link to process book
 
