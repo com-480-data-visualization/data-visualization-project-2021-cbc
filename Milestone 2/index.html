@@ -28,7 +28,7 @@
 	<!-- Easy scroll dots -->
 	<link href="dist/easyScrollDots.css" rel="stylesheet">
 	<!--Easy Scroll Dots style-->
-	<style>.scroll-indicator-controller{position:fixed;top:50vh;transform:translate(0,-50%);right:10px;z-index:999}.scroll-indicator-controller.indi-mobile>div span{display:none}@media (min-width:1025px){.scroll-indicator-controller{right:20px}}.scroll-indicator-controller>div{width:20px;height:20px;position:relative;border-radius:50%;border:1px solid tomato;background:rgba(0,0,0,.25);margin:0 0 10px 0;cursor:pointer;transition:background .4s ease;will-change:transition}.scroll-indicator-controller>div span{color:tomato;position:absolute;right:calc(100% + 8px);white-space:nowrap;top:50%;font-family:arial,sans-serif;font-size:16px;line-height:17px;width:0;overflow:hidden;opacity:0;transform:translateY(-50%) translateX(10px);transition:all .4s ease;will-change:transition}@media (hover:none){.scroll-indicator-controller>div span{display:none}}.scroll-indicator-controller>div span:after{content:"-----";padding-left:5px;letter-spacing:-2px;font-family:arial,sans-serif;vertical-align:text-top;line-height:14px}@media (hover:hover),(-ms-high-contrast:none),(-ms-high-contrast:active){.scroll-indicator-controller>div:hover span{width:auto;opacity:1;overflow:visible;transform:translateY(-50%) translateX(0)}}.scroll-indicator-controller>div.active{background:tomato;border-color:rgba(0,0,0,.25)}@supports (-ms-ime-align:auto){.scroll-indicator-controller>div span{transition:opacity .4s ease}}</style>
+	<style>.scroll-indicator-controller{position:fixed;top:50vh;transform:translate(0,-50%);right:10px;z-index:999}.scroll-indicator-controller.indi-mobile>div span{display:none}@media (min-width:1025px){.scroll-indicator-controller{right:20px}}.scroll-indicator-controller>div{width:20px;height:20px;position:relative;border-radius:50%;border:1px solid #6c8a9b;background:rgba(0,0,0,.25);margin:0 0 10px 0;cursor:pointer;transition:background .4s ease;will-change:transition}.scroll-indicator-controller>div span{color:#6c8a9b;position:absolute;right:calc(100% + 8px);white-space:nowrap;top:50%;font-family:arial,sans-serif;font-size:16px;line-height:17px;width:0;overflow:hidden;opacity:0;transform:translateY(-50%) translateX(10px);transition:all .4s ease;will-change:transition}@media (hover:none){.scroll-indicator-controller>div span{display:none}}.scroll-indicator-controller>div span:after{content:"-----";padding-left:5px;letter-spacing:-2px;font-family:arial,sans-serif;vertical-align:text-top;line-height:14px}@media (hover:hover),(-ms-high-contrast:none),(-ms-high-contrast:active){.scroll-indicator-controller>div:hover span{width:auto;opacity:1;overflow:visible;transform:translateY(-50%) translateX(0)}}.scroll-indicator-controller>div.active{background:#6c8a9b;border-color:rgba(0,0,0,.25)}@supports (-ms-ime-align:auto){.scroll-indicator-controller>div span{transition:opacity .4s ease}}</style>
 </head>
 <body>
 
@@ -65,17 +65,17 @@
 
 <!-- HERE'S AN ANCHOR POINT (SCROLL INDICATOR) -->
 <div>
-		<div class="scroll-indicator" id="section01" data-scroll-indicator-title="First Section"></div>
+		<div class="scroll-indicator" id="section01" data-scroll-indicator-title="Individual factors"></div>
 </div>
 <div class="width-limited">
-	<h3>Individual aggraving factors</h3>
+	<h3>Individual aggravating factors</h3>
 	<p>
 	We want to explore what in your personal way of life, can prevent or on the contrary increase the probability of developping a cardiovascular disease.
 	</p>
 	<h4>How to use</h4>
 	<p>
 		For this first visualization, you can hover over a link to make it light up along with all it's resulting link up to the CVD column.
-		By clinking on a link, the total number of records that corresponds to it appear, along with the percentage it represents with respect
+		By cliking on a link, the total number of records that corresponds to it appear, along with the percentage it represents with respect
 		with the total number ofr record in the dataset. As people can cumulate multiple factors on the left of the graph, the percentages don't sum up to 100%
 		across factors. Instead, the number on one link represents the total number and proportion of subjects that had the exact combinations of factor-age-CVD.
 		You can easily disable a node by clicking on it, making all the links connected to it dissapear. Finally, you can also rearrange the nodes
@@ -92,7 +92,7 @@
 
 <!-- HERE'S AN ANCHOR POINT (SCROLL INDICATOR) -->
 <div>
-		<div class="scroll-indicator" id="section02" data-scroll-indicator-title="Second Section"></div>
+		<div class="scroll-indicator" id="section02" data-scroll-indicator-title="Geographical factor"></div>
 </div>
 
 <div class="width-limited">
@@ -123,9 +123,18 @@
 </div>
 
 <div>
-		<div class="scroll-indicator" id="section03" data-scroll-indicator-title="Third Section"></div>
+		<div class="scroll-indicator" id="section03" data-scroll-indicator-title="Time factor"></div>
 </div>
 <div class="width-limited">
+<p>
+	Although some countries are missing this visualization highlights an overall high proportion of deaths from cardiovascular
+	diseases in all oriental Europe. Indeed Bulgaria for example has around 30% of its deaths related to cardiovascular diseases
+	for all the years in which WHO has collected data. On the contrary South America and Thailand both have less than 10% deaths
+	related to cardiovascular diseases on all the years recorded. As for the states like the United states, France and Brasil ,
+	the percentage seems rather constant over the past 30 years. This means that either cardiovascular diseases are as deadly as
+	they were 30 years ago or more likely that more people suffer from them.
+</p>
+
 	<h3>Influence of time on the apparition of cardiovascular disease</h3>
 	<p>
 		Here we want to explore how has the number of cardiovascular related deaths evolved over the past 30 years. We study this parameter along side features like
@@ -133,24 +142,52 @@
 	</p>
 	<h4>How to use</h4>
 	<p>
-	Explain how to use our visualization
+	To use this visualization you first need to select one factor in the drop down list. The visualization will then display the
+	total number of cardio deaths by year. You can zoom on a spot by selecting it using a square. If you want to check the ratio
+	of cardio deaths for 1000 deaths in this category just click on the button. If you want to go back to the previous
+	visualization click on the button total number of cardio deaths.
 	</p>
 	<p>Select an attribute to study.</p>
-
+  <div style="float: left; width: 130px">
 	<select id="mySelect-viz3" onchange="chooseCategory()">
 	  <option value="continent">Continent</option>
 	  <option value="sex">Sex</option>
 	  <option value="age">Age</option>
 	</select>
+	</div>
+	<div style="float: right; width: 200px">
 	<button onclick="deaths(false)">Total number of cardio deaths</button>
+	</div>
+	<div style="float: right; width: 250px">
 	<button onclick="deaths(true)">Number of cardio deaths for 1000 deaths</button>
+	</div>
 	<div id="my_dataviz_3" ></div>
 		<svg id="vis-3"></svg>
 	  <script type="text/javascript" src='help.js'></script>
+		<p>
+			From this visualization, we can see that the number of cardio deaths in each continent remains quite constant. When plotting
+			by 1000 ratio, we can see that the number of cardio deaths for 1000 has augmented in the 5 years in Africa while it remains
+			quite constant in the other countries.
+		</p>
+		<p>
+Considering the sex, we see that the total number of deaths remains also quite constant and equal for each sex. The rise and
+the decrease at the beginning and the end of the plot are due to the missing values. However when plotting the ratio we can see
+a big increase in the ratio of cardio deaths for females the latest years.
+		</p>
 
+		<p>
+Finally when using ages, we can see that people over their sixties are largely responsible for the number of cardio deaths in
+the last years and that it remains quite constant throughout the last 30 years.
+When plotting the ratio, we see that when considering the age, the ratio stays quite constant as well and didn’t evolve much
+during the last three decades.
+
+In conclusion from, this visualization we observed that the number of cardio deaths remained quite constant in the last 30 years and that thus time doesn’t seem to affect your risk of dying from a CVD. The only difference observed was for females in the last years, where the ratio of cardio deaths augmented drastically as well as for Africa.
+	</p>
 </div>
 
+<div id="title" class="fixed_title"></div>
 <script src="dist/easyScrollDots.js"></script>
+<script type="text/javascript" src="title.js"></script>
 
 
 <!--Easy Scroll Dots js-->

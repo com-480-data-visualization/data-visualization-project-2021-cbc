@@ -119,11 +119,17 @@ d3.csv(link, function(data) {
       .text("Time (year)");
 
   // Add Y axis label:
+  var txt;
+  if (by_1000){
+    txt = "Number of deaths due to CVD for 1000 deaths in each category"
+  } else{
+    txt = "Number of deaths due to cardiovascular diseases"
+  }
   svg.append("text")
       .attr("text-anchor", "end")
       .attr("x", -60)
       .attr("y", -20 )
-      .text("Number of deaths due to cardiovascular diseases")
+      .text(txt)
       .attr("text-anchor", "start")
 
   // Add Y axis

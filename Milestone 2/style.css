@@ -23,6 +23,7 @@ to
  --light-red: #fd6574;
  --dark-red: rgb(109, 7, 26);
  --dark-blue: #01263a;
+ --old-rose : #EBDACF;
 }
 
 /*
@@ -236,6 +237,16 @@ nav li {
 	background-color: var(--grey);
 }
 
+div.fixed_title {
+  position: fixed;
+	width : 200px;
+	height : 50px;
+  top: 0;
+  right: 1;
+  background-color: var(--off-white);
+  overflow-y: visible;
+}
+
 
 
 figure > * {
@@ -250,20 +261,21 @@ footer {
 
 button {
 	display: block;
+	/*border-radius: 1rem;*/
+	border : 0px;
+	outline : 0px;
 
-	margin: 0.75rem;
-	margin-left: auto;
-	margin-right: auto;
-	padding: 0.75rem;
-
-	border: 2px blue solid;
-	border-radius: 1rem;
-
-	background: rgb(150, 200, 255);
+	background: var(--old-rose);
 
 	font-weight: bold;
-	font-size: 1.5rem;
+	font-size: 0.75rem;
 
+}
+
+select{
+	background : var(--off-white);
+	border :0px;
+	outline :0px;
 }
 
 textarea {
@@ -274,42 +286,7 @@ textarea {
 	font-size: 1rem;
 }
 
-#plot-occurrences {
-	height: 18rem;
-
-	display: flex;
-	flex-flow: row nowrap;
-	justify-content: space-around;
-	align-items: stretch;
-
-	color: white;
-	font-size: 1.3rem;
-}
-
-#plot-occurrences > div {
-	display: flex;
-	flex-flow: column nowrap;
-	justify-content: flex-end;
-	align-items: center;
-}
-
-#plot-occurrences .bar {
-	width: 2rem;
-
-	margin-bottom: 0.4rem;
-
-	background: rgb(240, 50, 10);
-}
-
 #chartdiv {
   width: 100%;
   height: 600px
-}
-
-.label-value {
-	margin-top: 2rem;
-	margin-bottom: 0.25rem;
-	transform: rotate(90deg);
-
-	font-size: 0.8rem;
 }
